@@ -1,5 +1,12 @@
 # clase-01
 
+## reglas
+
+- venir a clases
+- avisar vía correo electrónico si no puede asistir a clases
+- llegar a tiempo
+- trabajar en público
+
 ## contexto
 
 90 segundos por persona para presentarse
