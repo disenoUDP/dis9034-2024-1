@@ -39,19 +39,19 @@ la nota final de la clase será el promedio simple de estas evaluaciones:
 | clase                  | fecha      | tema  |
 | :--------------------- | :--------- | :---- |
 | [01](clases/clase-01/) | 2024-03-01 | intro |
-| [02](clases/clase-01/) | 2024-03-01 | intro |
-| [03](clases/clase-01/) | 2024-03-01 | intro |
-| [04](clases/clase-01/) | 2024-03-01 | intro |
-| [05](clases/clase-01/) | 2024-03-01 | intro |
-| [06](clases/clase-01/) | 2024-03-01 | intro |
-| [07](clases/clase-01/) | 2024-03-01 | intro |
-| [08](clases/clase-01/) | 2024-03-01 | intro |
-| [09](clases/clase-01/) | 2024-03-01 | intro |
-| [10](clases/clase-01/) | 2024-03-01 | intro |
-| [11](clases/clase-01/) | 2024-03-01 | intro |
-| [12](clases/clase-01/) | 2024-03-01 | intro |
-| [13](clases/clase-01/) | 2024-03-01 | intro |
-| [14](clases/clase-01/) | 2024-03-01 | intro |
+| [02](clases/clase-02/) | 2024-03-01 | intro |
+| [03](clases/clase-03/) | 2024-03-01 | intro |
+| [04](clases/clase-04/) | 2024-03-01 | intro |
+| [05](clases/clase-05/) | 2024-03-01 | intro |
+| [06](clases/clase-06/) | 2024-03-01 | intro |
+| [07](clases/clase-07/) | 2024-03-01 | intro |
+| [08](clases/clase-08/) | 2024-03-01 | intro |
+| [09](clases/clase-09/) | 2024-03-01 | intro |
+| [10](clases/clase-10/) | 2024-03-01 | intro |
+| [11](clases/clase-11/) | 2024-03-01 | intro |
+| [12](clases/clase-12/) | 2024-03-01 | intro |
+| [13](clases/clase-13/) | 2024-03-01 | intro |
+| [14](clases/clase-14/) | 2024-03-01 | intro |
 
 ## bibliografía
 
