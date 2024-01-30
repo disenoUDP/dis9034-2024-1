@@ -36,22 +36,21 @@ la nota final de la clase será el promedio simple de estas evaluaciones:
 
 ## clases (lunes 10am-6:15pm)
 
-| clase                  | fecha      | tema  |
-| :--------------------- | :--------- | :---- |
-| [01](clases/clase-01/) | 2024-03-01 | intro |
-| [02](clases/clase-02/) | 2024-03-01 | intro |
-| [03](clases/clase-03/) | 2024-03-01 | intro |
-| [04](clases/clase-04/) | 2024-03-01 | intro |
-| [05](clases/clase-05/) | 2024-03-01 | intro |
-| [06](clases/clase-06/) | 2024-03-01 | intro |
-| [07](clases/clase-07/) | 2024-03-01 | intro |
-| [08](clases/clase-08/) | 2024-03-01 | intro |
-| [09](clases/clase-09/) | 2024-03-01 | intro |
-| [10](clases/clase-10/) | 2024-03-01 | intro |
-| [11](clases/clase-11/) | 2024-03-01 | intro |
-| [12](clases/clase-12/) | 2024-03-01 | intro |
-| [13](clases/clase-13/) | 2024-03-01 | intro |
-| [14](clases/clase-14/) | 2024-03-01 | intro |
+| clase                  | fecha          | tema                                     |
+| :--------------------- | :------------- | :--------------------------------------- |
+| [01](clases/clase-01/) | 2024-TODO-TODO | intro a programación creativa multimedia |
+| [02](clases/clase-02/) | 2024-TODO-TODO | stack tecnológico: github + p5.js        |
+| [03](clases/clase-03/) | 2024-TODO-TODO | variables y bucles                       |
+| [04](clases/clase-04/) | 2024-TODO-TODO | funciones y flujo setup(), draw()        |
+| [05](clases/clase-05/) | 2024-TODO-TODO | callback, ratón y teclado                |
+| [06](clases/clase-06/) | 2024-TODO-TODO | pixeles e imágenes                       |
+| [07](clases/clase-07/) | 2024-TODO-TODO | objetos y arreglos                       |
+| [08](clases/clase-08/) | 2024-TODO-TODO | solemne 01                               |
+| [09](clases/clase-09/) | 2024-TODO-TODO | sonido                                   |
+| [10](clases/clase-10/) | 2024-TODO-TODO | webcam                                   |
+| [12](clases/clase-12/) | 2024-TODO-TODO | glitch                                   |
+| [13](clases/clase-13/) | 2024-TODO-TODO | solemne 02                               |
+| [14](clases/clase-14/) | 2024-TODO-TODO | apis                                     |
 
 ## bibliografía
 
@@ -59,4 +58,3 @@ la nota final de la clase será el promedio simple de estas evaluaciones:
 - https://www.w3schools.com/
 - https://p5js.org/es/
 - https://processingfoundation.press/
-- https://www.figma.com/wireframe-tool/
