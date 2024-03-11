@@ -1,7 +1,8 @@
-<h1> Hello ꒰ᐢ. .ᐢ꒱₊˚⊹ <h1/>
-<p>
-  <h4>This is normal text </h4>
-  - 
-  <b>and this is bold text</b>
-  
-</p>
+<head>
+  <title> ⋆₊˚⊹♡ First memo ♡⊹˚₊⋆ <title/>
+<head/>
+<body>
+  <h1> Hello ꒰ᐢ. .ᐢ꒱₊˚⊹ <h1/>
+    
+  <p>This is a paragraph<p/>
+<body/>
