@@ -1,14 +1,17 @@
 # clase-01
 
+lunes 11 de marzo 2024
+
 ## reglas
 
-- venir a clases
+- venir a clases a tiempo
 - avisar vía correo electrónico al equipo docente si no puede asistir a clases
-- llegar a tiempo
-- trabajar en público
+- trabajar en público, vía github
+- pedir ayuda si es necesario
 
 ## contexto
 
+s
 90 segundos por persona para presentarse
 
 https://www.google.com/search?q=timer+90+seconds
@@ -23,8 +26,8 @@ https://www.google.com/search?q=timer+90+seconds
 
 personas
 
-- Muriel Cooper
-- John Maeda
+- Muriel Cooper https://en.wikipedia.org/wiki/Muriel_Cooper
+- John Maeda https://en.wikipedia.org/wiki/John_Maeda
 - Casey Reas
 - Ben Fry
 - Hernando Barragán
