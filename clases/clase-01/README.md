@@ -25,16 +25,20 @@ lunes 11 de marzo 2024
 
 ## contexto artes mediales
 
+algunos enlaces de interés para investigación durante el semestre
+
 ### personas
 
 - Aaron Swartz <https://es.wikipedia.org/wiki/Aaron_Swartz>
 - Ada Lovelace <https://es.wikipedia.org/wiki/Ada_Lovelace>
 - Alan Turing <https://es.wikipedia.org/wiki/Alan_Turing>
+- Alex McLean <https://en.wikipedia.org/wiki/Alex_McLean>
 - Ben Fry <https://en.wikipedia.org/wiki/Ben_Fry>
 - Casey Reas <https://reas.com/>
 - compudanzas <https://compudanzas.net/>
 - Constanza Piña <https://es.wikipedia.org/wiki/Constanza_Pi%C3%B1a>
 - Hernando Barragán <https://en.wikipedia.org/wiki/Hernando_Barrag%C3%A1n>
+- hypereikon <https://www.instagram.com/hypereikon/>
 - John Maeda <https://en.wikipedia.org/wiki/John_Maeda>
 - Lauren Lee McCarthy <https://en.wikipedia.org/wiki/Lauren_McCarthy>
 - Limor Fried <https://es.wikipedia.org/wiki/Limor_Fried>
@@ -42,16 +46,23 @@ lunes 11 de marzo 2024
 - Matt Romein <https://matt-romein.com/>
 - Muriel Cooper <https://en.wikipedia.org/wiki/Muriel_Cooper>
 - Peter Blasser <https://www.ciat-lonbarde.net/>
+- Roy MacDonald <https://roymacdonald.github.io/>
 - Sam Lavigne <https://lav.io/>
 - Tega Brain <https://tegabrain.com/>
+- Thor Magnusson <https://thormagnusson.github.io/>
+- Zach Lieberman <https://zach.li/>
 
 ### lugares
 
 - CMU Fran-Ratchye STUDIO for Creative Inquiry <https://studioforcreativeinquiry.org/>
+- Future Sketches <https://www.media.mit.edu/groups/future-sketches/>
 - Harvard GSD <https://www.gsd.harvard.edu/>
+- Intelligent Instruments Lab <https://iil.is/>
+- MIT Media Lab <https://www.media.mit.edu/>
 - NYU ITP <https://tisch.nyu.edu/itp>
 - NYU IMA <https://itp.nyu.edu/ima/>
-- MIT Media Lab <https://www.media.mit.edu/>
+- Platohedro <https://platohedro.org/>
+- Toda la Teoría del Universo <https://todalateoriadeluniverso.org/>
 - UCLA Design Media Arts <https://dma.ucla.edu/>
 
 ### herramientas
@@ -63,3 +74,5 @@ lunes 11 de marzo 2024
 - Pure Data <https://puredata.info/>
 - p5.js <https://p5js.org/>
 - Raspberry Pi <https://www.raspberrypi.com/>
+- three.js <https://threejs.org/>
+- TidalCycles <https://tidalcycles.org/>

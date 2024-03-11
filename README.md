@@ -48,9 +48,17 @@
 | [14](clases/clase-14/) | 2024-06-17 | apis                                          |
 | [15](clases/clase-15/) | 2024-06-24 | examen                                        |
 
-## bibliografía
+## bibliografía web
 
 - https://developer.mozilla.org/en-US/
 - https://www.w3schools.com/
 - https://p5js.org/
 - https://processingfoundation.press/
+
+## bibliografía física
+
+en mi oficina tienen acceso a estos libros, si los van a tomar prestados, por favor avisar por correo a todo el equipo docente
+
+![columna izquierda de libros](./archivos/libros-00.jpg)
+
+![columna derecha de libros](./archivos/libros-01.jpg)
