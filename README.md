@@ -93,6 +93,16 @@ durante el semestre abordaremos estos contenidos:
 | [14](clases/clase-14/) | 2024-06-17 | preparación examen           |
 | [15](clases/clase-15/) | 2024-06-24 | examen en clase              |
 
+## comunicación
+
+- vía mail
+- copiando a todo el equipo docente:
+  - aaron.montoya@mail.udp.cl
+  - janis.sepulveda@mail.udp.cl
+- con asunto "DIS9034 - X", reemplazando X por la descripción, y sin las comillas!
+
+cualquier comunicación que no cumpla con esto no será respondida.
+
 ## bibliografía web
 
 - https://developer.mozilla.org/en-US/
