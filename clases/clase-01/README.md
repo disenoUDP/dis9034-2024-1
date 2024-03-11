@@ -35,21 +35,29 @@ algunos enlaces de interés para investigación durante el semestre
 - Alex McLean <https://en.wikipedia.org/wiki/Alex_McLean>
 - Ben Fry <https://en.wikipedia.org/wiki/Ben_Fry>
 - Casey Reas <https://reas.com/>
+- cypress evelyn masso <https://www.outofambit.com/>
 - compudanzas <https://compudanzas.net/>
 - Constanza Piña <https://es.wikipedia.org/wiki/Constanza_Pi%C3%B1a>
 - Hernando Barragán <https://en.wikipedia.org/wiki/Hernando_Barrag%C3%A1n>
 - hypereikon <https://www.instagram.com/hypereikon/>
+- Iris Saladino <https://1riss.github.io/>
+- Kate Hollenbach <https://www.katehollenbach.com/>
 - John Maeda <https://en.wikipedia.org/wiki/John_Maeda>
 - Lauren Lee McCarthy <https://en.wikipedia.org/wiki/Lauren_McCarthy>
 - Limor Fried <https://es.wikipedia.org/wiki/Limor_Fried>
 - Lisa Jamhoury <http://lisajamhoury.com/>
 - Matt Romein <https://matt-romein.com/>
 - Muriel Cooper <https://en.wikipedia.org/wiki/Muriel_Cooper>
+- Nicole L'Huillier <https://nicolelhuillier.com>
+- Olivia Jack <https://ojack.xyz/>
 - Peter Blasser <https://www.ciat-lonbarde.net/>
 - Roy MacDonald <https://roymacdonald.github.io/>
 - Sam Lavigne <https://lav.io/>
 - Tega Brain <https://tegabrain.com/>
+- Thea Flowers <https://thea.codes>
+- Tommy Marshall <https://tommy.sh/>
 - Thor Magnusson <https://thormagnusson.github.io/>
+- Weaving x Coding <https://weavingxcoding.studio/>
 - Zach Lieberman <https://zach.li/>
 
 ### lugares
@@ -68,11 +76,14 @@ algunos enlaces de interés para investigación durante el semestre
 ### herramientas
 
 - Arduino <https://www.arduino.cc/>
+- Hydra <https://hydra.ojack.xyz/>
+- KiCad <https://www.kicad.org/>
 - Max <https://cycling74.com/>
 - openFrameworks <https://openframeworks.cc/>
 - Processing <https://processing.org/>
 - Pure Data <https://puredata.info/>
 - p5.js <https://p5js.org/>
 - Raspberry Pi <https://www.raspberrypi.com/>
+- SuperCollider <https://supercollider.github.io/>
 - three.js <https://threejs.org/>
 - TidalCycles <https://tidalcycles.org/>
