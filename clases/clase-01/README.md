@@ -11,7 +11,6 @@ lunes 11 de marzo 2024
 
 ## contexto
 
-s
 90 segundos por persona para presentarse
 
 https://www.google.com/search?q=timer+90+seconds
@@ -26,8 +25,8 @@ https://www.google.com/search?q=timer+90+seconds
 
 personas
 
-- Muriel Cooper https://en.wikipedia.org/wiki/Muriel_Cooper
-- John Maeda https://en.wikipedia.org/wiki/John_Maeda
+- Muriel Cooper <https://en.wikipedia.org/wiki/Muriel_Cooper>
+- John Maeda <https://en.wikipedia.org/wiki/John_Maeda>
 - Casey Reas
 - Ben Fry
 - Hernando Barragán
