@@ -45,25 +45,53 @@ puntos extra:
 - si suben a su carpeta de estudiantes un archivo en Markdown con un resumen de uno de los libros
   de la bibliografía física y hacen una presentación de 05 minutos en clases, tendrán un punto adicional en una solemne. pueden hacer esto solamente una vez por solemne.
 
+## contenidos
+
+durante el semestre abordaremos estos contenidos:
+
+- lenguajes de programación
+
+  - variables, arreglos
+  - bucles, condiciones
+  - funciones, objetos
+  - lenguaje Python y su aplicación en texto, audio, imagen y video
+  - lenguaje JavaScript, herramienta p5.js, y su aplicación en imagen y diseño de interacción
+
+- programación creativa de imágenes
+
+  - pixeles y buffers
+  - filtros y glitch
+  - resolución y video
+
+- programación creativa de audio
+
+  - tiempo y reactividad
+  - formatos de audio
+
+- protocolos y diseño de interacción
+  - MIDI
+  - OpenSoundControl
+  - interactividad con periféricos (ratón, teclado)
+
 ## clases (lunes 02:30pm-05:20pm)
 
-| clase                  | fecha      | tema                                          |
-| :--------------------- | :--------- | :-------------------------------------------- |
-| [01](clases/clase-01/) | 2024-03-11 | historia de programación creativa multimedia  |
-| [02](clases/clase-02/) | 2024-03-18 | stack tecnológico: GitHub, JavaScript, Python |
-| [03](clases/clase-03/) | 2024-03-25 | variables y bucles                            |
-| [04](clases/clase-04/) | 2024-04-01 | funciones y flujo setup(), draw()             |
-| [05](clases/clase-05/) | 2024-04-08 | solemne 01                                    |
-| [06](clases/clase-06/) | 2024-04-15 | callback, ratón y teclado                     |
-| [07](clases/clase-07/) | 2024-04-22 | pixeles e imágenes                            |
-| [08](clases/clase-08/) | 2024-04-29 | objetos y arreglos                            |
-| [09](clases/clase-09/) | 2024-05-13 | sonido                                        |
-| [10](clases/clase-10/) | 2024-05-20 | solemne 02                                    |
-| [11](clases/clase-11/) | 2024-05-27 | webcam                                        |
-| [12](clases/clase-12/) | 2024-06-03 | webcam                                        |
-| [13](clases/clase-13/) | 2024-06-10 | glitch                                        |
-| [14](clases/clase-14/) | 2024-06-17 | apis                                          |
-| [15](clases/clase-15/) | 2024-06-24 | examen                                        |
+| clase                  | fecha      | tema                         |
+| :--------------------- | :--------- | :--------------------------- |
+| [01](clases/clase-01/) | 2024-03-11 | historia y stack tecnológico |
+| [02](clases/clase-02/) | 2024-03-18 | variables, arreglos y bucles |
+| [03](clases/clase-03/) | 2024-03-25 | pixeles y funciones          |
+| [04](clases/clase-04/) | 2024-04-01 | preparación solemne          |
+| [05](clases/clase-05/) | 2024-04-08 | solemne 01 en clase          |
+| [06](clases/clase-06/) | 2024-04-15 | objetos y arreglos           |
+| [07](clases/clase-07/) | 2024-04-22 | audio e interactividad       |
+| [08](clases/clase-08/) | 2024-04-29 | video e interactividad       |
+| [09](clases/clase-09/) | 2024-05-13 | preparación solemne 02       |
+| [10](clases/clase-10/) | 2024-05-20 | solemne 02 en clase          |
+| [11](clases/clase-11/) | 2024-05-27 | documentación y manuales     |
+| [12](clases/clase-12/) | 2024-06-03 | MIDI y OpenSoundControl      |
+| [13](clases/clase-13/) | 2024-06-10 | documentación y manuales     |
+| [14](clases/clase-14/) | 2024-06-17 | preparación examen           |
+| [15](clases/clase-15/) | 2024-06-24 | examen en clase              |
 
 ## bibliografía web
 
