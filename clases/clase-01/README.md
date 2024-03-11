@@ -3,7 +3,7 @@
 ## reglas
 
 - venir a clases
-- avisar vía correo electrónico si no puede asistir a clases
+- avisar vía correo electrónico al equipo docente si no puede asistir a clases
 - llegar a tiempo
 - trabajar en público
 
