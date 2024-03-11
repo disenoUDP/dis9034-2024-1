@@ -23,29 +23,29 @@ https://www.google.com/search?q=timer+90+seconds
 
 # contexto artes mediales
 
-personas
+## personas
 
 - Muriel Cooper <https://en.wikipedia.org/wiki/Muriel_Cooper>
 - John Maeda <https://en.wikipedia.org/wiki/John_Maeda>
-- Casey Reas
-- Ben Fry
-- Hernando Barragán
-- Lauren Lee McCarthy
+- Casey Reas <https://reas.com/>
+- Ben Fry <https://en.wikipedia.org/wiki/Ben_Fry>
+- Hernando Barragán <https://en.wikipedia.org/wiki/Hernando_Barrag%C3%A1n>
+- Lauren Lee McCarthy <https://en.wikipedia.org/wiki/Lauren_McCarthy>
 
-lugares
+## lugares
 
-- MIT Media Lab
-- UCLA Design Media Arts
-- NYU ITP
-- NYU IMA
-- CMU STUDIO for Creative Inquiry
+- MIT Media Lab <https://www.media.mit.edu/>
+- UCLA Design Media Arts <https://dma.ucla.edu/>
+- NYU ITP <https://tisch.nyu.edu/itp>
+- NYU IMA <https://itp.nyu.edu/ima/>
+- CMU Fran-Ratchye STUDIO for Creative Inquiry <https://studioforcreativeinquiry.org/>
 
 herramientas
 
-- Processing
-- p5.js
-- openFrameworks
-- Arduino
-- Raspberry Pi
-- Max/MSP
-- Pure Data
+- Processing <https://processing.org/>
+- p5.js <https://p5js.org/>
+- openFrameworks <https://openframeworks.cc/>
+- Arduino <https://www.arduino.cc/>
+- Raspberry Pi <https://www.raspberrypi.com/>
+- Cycling '74 Max <https://cycling74.com/>
+- Pure Data <https://puredata.info/>
