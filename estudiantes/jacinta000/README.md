@@ -1,1 +1,1 @@
-clase introducción programacion multimedia
+clase introduccion programacion multimedia
