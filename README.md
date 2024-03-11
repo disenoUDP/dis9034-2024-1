@@ -15,10 +15,8 @@
 
 ## repositorio
 
-- [clases](./clases/): una subcarpeta por cada clase
-- [solemne-01](./solemne-01/): una subcarpeta por cada entrega de solemne-01
-- [solemne-02](./solemne-02/): una subcarpeta por cada entrega de solemne-02
-- [examen](./examen/): una subcarpeta por cada entrega de examen
+- [clases](./clases/): una subcarpeta por cada clase con los apuntes hechos por el equipo docente
+- [estudiantes](./estudiantes/): una subcarpeta por cada estudiante con sus apuntes y entregas de solemnes y examen.
 
 ## evaluaciones
 
