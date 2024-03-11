@@ -1,8 +1,4 @@
-<head>
-  <title> ⋆₊˚⊹♡ First memo ♡⊹˚₊⋆ <title/>
-<head/>
-<body>
-  <h1> Hello ꒰ᐢ. .ᐢ꒱₊˚⊹ <h1/>
+<h1> ⋆₊˚⊹♡ First memo ♡⊹˚₊⋆ <h1/>
     
-  <p>This is a paragraph<p/>
-<body/>
+  <h4> Hello ꒰ᐢ. .ᐢ꒱₊˚⊹
+    This is a paragraph<h4/>
