@@ -8,12 +8,14 @@ lunes 11 de marzo 2024
 - avisar vía correo electrónico al equipo docente si no puede asistir a clases
 - trabajar en público, vía github
 - pedir ayuda si es necesario
+- <https://p5js.org/es/community/>
+- <https://berlincodeofconduct.org/es/>
 
 ## contexto
 
 90 segundos por persona para presentarse
 
-https://www.google.com/search?q=timer+90+seconds
+<https://www.google.com/search?q=timer+90+seconds>
 
 - nombre
 - pronombres
@@ -21,9 +23,9 @@ https://www.google.com/search?q=timer+90+seconds
 - mención
 - intereses
 
-# contexto artes mediales
+## contexto artes mediales
 
-## personas
+### personas
 
 - Aaron Swartz <https://es.wikipedia.org/wiki/Aaron_Swartz>
 - Ada Lovelace <https://es.wikipedia.org/wiki/Ada_Lovelace>
@@ -43,7 +45,7 @@ https://www.google.com/search?q=timer+90+seconds
 - Sam Lavigne <https://lav.io/>
 - Tega Brain <https://tegabrain.com/>
 
-## lugares
+### lugares
 
 - CMU Fran-Ratchye STUDIO for Creative Inquiry <https://studioforcreativeinquiry.org/>
 - Harvard GSD <https://www.gsd.harvard.edu/>
@@ -52,7 +54,7 @@ https://www.google.com/search?q=timer+90+seconds
 - MIT Media Lab <https://www.media.mit.edu/>
 - UCLA Design Media Arts <https://dma.ucla.edu/>
 
-herramientas
+### herramientas
 
 - Arduino <https://www.arduino.cc/>
 - Max <https://cycling74.com/>
