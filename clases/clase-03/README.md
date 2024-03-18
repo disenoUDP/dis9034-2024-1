@@ -4,7 +4,7 @@ lunes 25 de marzo 2024
 
 pixeles y funciones
 
-### pixeles
+## pixeles
 
 un pixel es la unidad mínima de color en una imagen digital.
 
