@@ -8,3 +8,10 @@ const = generar un valor definido
 '' = valor singular
 "" = varios caracteres, palabras
 pos = position, x y z (tres variables) 
+// = hacer comentarios ! 
+https://p5js.org/reference/ > ayuda p5.js
+
+
+tareA!!!
+
+https://editor.p5js.org/vaalentinya/sketches/WgsbGGfi4T
