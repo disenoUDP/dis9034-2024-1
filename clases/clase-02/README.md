@@ -57,8 +57,8 @@ en otros lenguajes, los arreglos necesitan que cada elemento sea del mismo tipo,
 para leer o actualizar valores, vamos a usar iteradores.
 
 ```javascript
-for (let iterador == 0; i < 10; i++) {
-    console.log(iterador)
+for (let i == 0; i < 10; i++) {
+    console.log(i)
 }
 ```
 
