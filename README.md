@@ -97,18 +97,18 @@ durante el semestre abordaremos estos contenidos:
 
 - vía mail
 - copiando a todo el equipo docente:
-  - aaron.montoya@mail.udp.cl
-  - janis.sepulveda@mail.udp.cl
+  - <aaron.montoya@mail.udp.cl>
+  - <janis.sepulveda@mail.udp.cl>
 - con asunto "DIS9034 - X", reemplazando X por la descripción, y sin las comillas!
 
 cualquier comunicación que no cumpla con esto no será respondida.
 
 ## bibliografía web
 
-- https://developer.mozilla.org/en-US/
-- https://www.w3schools.com/
-- https://p5js.org/
-- https://processingfoundation.press/
+- <https://developer.mozilla.org/en-US/>
+- <https://www.w3schools.com/>
+- <https://p5js.org/>
+- <https://processingfoundation.press/>
 
 ## bibliografía física
 
