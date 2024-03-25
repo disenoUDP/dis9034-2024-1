@@ -27,3 +27,6 @@ function preload() {
 //fijarse en los parentesis y en la infromacion interior(){}[]
 //solo una linea de draw para crear figuras
 //function = acciones
+
+
+https://editor.p5js.org/SofiaEct/sketches/CY_Yreu5m
