@@ -71,7 +71,19 @@ function draw() {
 image(imagen, coordenadaX, coordenadaY, widht, height);
 ```
 
+## como programar un filtro
+```js
+reference loadPixels()
+for (let i = 0; i < halfImage; i += 1) {
+    pixels[i + halfImage] = pixels[i];
+updatePixels();
+```
 
+*console.log(pixels.length);* solicitar que cuente la cantidad de pixeles del lienzo en una sola línea
 
+*set()*
 
+*get()* 
+
+<https://editor.p5js.org/danielasalamanca/sketches/Wxy0jzNpz>
 
