@@ -6,7 +6,7 @@ condicionales, funciones y pixeles
 
 ## condicionales
 
-para las condicionales usamos un if(condicion){}.
+para las condicionales usamos un `if(condicion){}`.
 
 esto permite que si la condicion es verdadera, corre el código dentro de los murciélagos {}, y si no es verdadera, no la corre.
 
