@@ -84,3 +84,4 @@ hacer un sketch en p5.js que utilice:
 - <https://p5js.org/reference/#/p5/color>
 - <https://p5js.org/reference/#/p5/loadImage>
 - <https://p5js.org/reference/#/p5/loadPixels>
+- <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
