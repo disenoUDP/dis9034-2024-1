@@ -43,6 +43,12 @@ esto no es casual, ocurre porque reconocemos 10 millones de colores, y con este 
 
 como estamos trabajando con colores en un pantalla y con luz, usamos el modelo aditivo RGB, pero hay otros métodos de definir color, por ejemplo tinta en papel, donde se usa el modelo sustractivo CMYK.
 
+## imágenes externas en p5.js
+
+para cargar una imagen externa en p5.js, usamos la función `loadImage()`, que recibe como parámetro la ubicación de la imagen, que puede ser local o remota.
+
+tras usar `loadImage()` la función está cargada, pero todavía no aparece en la pantalla, para eso necesitamos usar la función `image()`, cuyos parámetros son la imagen y las coordenadas donde aparecerá, opcionalmente también podemos definir su tamaño.
+
 ## sintaxis de funciones en JavaSCript
 
 en JavaScript las funciones se definen con la palabra clave `function`.
@@ -58,16 +64,23 @@ function nombreFuncion(param0, param1, etc) {}
 // código de la función
 ```
 
-```javascript
+## arreglo de pixeles en p5.js
 
-```
+con la función `loadPixels()` podemos cargar los pixeles de una imagen en un arreglo, que podemos modificar y luego mostrar en la pantalla con la función `updatePixels()`.
+
+## ejercicio en clase
+
+hacer un sketch en p5.js que utilice:
+
+- condicionales según el tamaño de la ventana o el mouse
+- funciones definidas por ti
+- bucle para modificar la imagen
 
 ## bibliografía
 
 - <https://www.w3schools.com/js/js_if_else.asp>
 - <https://www.w3schools.com/js/js_switch.asp>
 - <https://www.w3schools.com/js/js_functions.asp>
-
-```
-
-```
+- <https://p5js.org/reference/#/p5/color>
+- <https://p5js.org/reference/#/p5/loadImage>
+- <https://p5js.org/reference/#/p5/loadPixels>
