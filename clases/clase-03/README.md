@@ -2,7 +2,30 @@
 
 lunes 25 de marzo 2024
 
-pixeles y funciones
+condicionales, funciones y pixeles
+
+## condicionales
+
+para las condicionales usamos un if(condicion){}.
+
+esto permite que si la condicion es verdadera, corre el código dentro de los murciélagos {}, y si no es verdadera, no la corre.
+
+adicionalmente, podemos usar `else{}` a continuación del para correr otro bloque de código si la condición de if no es verdadera. `else{}` es opcional y no necesita una condición, ya que es la misma que la de if().
+
+entre `if(condicion){}` y `else{}` podemos usar el constructo `else if(){}`,
+que solamente corre si la condición del if que lo antecede no es verdadera, y si la condición de `else if(){}` es verdadera.
+
+```js
+if (llegue < 230pm) {
+  console.log('llegué a la hora');
+} else if (llegue == 230pm) {
+    console.log('llegué justo a tiempo');
+} else {
+    console.log('llegué tarde');
+}
+```
+
+hay más maneras de hacer condicionales en JavaScript, como el operador `switch`.
 
 ## pixeles
 
@@ -29,3 +52,9 @@ function () {
 ```
 
 parámetros de una función
+
+## bibliografía
+
+- <https://www.w3schools.com/js/js_if_else.asp>
+- <https://www.w3schools.com/js/js_switch.asp>
+- <https://www.w3schools.com/js/js_functions.asp>
