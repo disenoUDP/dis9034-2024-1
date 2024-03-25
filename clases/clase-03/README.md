@@ -29,32 +29,45 @@ hay más maneras de hacer condicionales en JavaScript, como el operador `switch`
 
 ## pixeles
 
-un pixel es la unidad mínima de color en una imagen digital.
+lo más simple posible que podemos expresar en un computadr es un bit, que tiene 2 valores posibles: 0 y 1, apagado y prendido, y otras metáforas.
 
-lo más simple posible que podemos expresarla es con 0 y 1, apagado y prendido.
+a nivel de imagen digital, la partícula fundamental es un pixel.
 
-como reconocemos 10 millones de colores, y como nuestros sensores de colores son tres, se tiende a usar el modelo RGB.
+la definición de pixel más popular es como un punto en una cuadrícula (x, y), con un color.
 
-el modelo RGB cuenta con 3 canales de color, rojo, verde y azul.
+ese color se puede definir de muchas maneras, la más común y que usaremos en clase es la RGB, donde R = rojo, G = verde, B = azul, por su inicial en inglés.
 
-se usan 8 bits por canal de color, lo que implica que cada canal puede tener valores entre 0 y 255.
+este modelo de pixel tiene 3 canales de color, cada uno de 8 bits, lo que implica que cada canal puede tener valores entre 0 y 255, y si lo escribimos en hexadecimal entre 00 y FF.
 
-si lo escribimos en hexadecimal, entre 00 y FF.
+esto no es casual, ocurre porque reconocemos 10 millones de colores, y con este modelo RGB, tenemos que cada pixel puede tener `2^24= 16,777,216` colores, lo que supera la capacidad de nuestro ojo de distinguir colores.
 
-con pixeles podemos usar el modelo RGB aditivo, también está el modelo de impresión CMYK.
+como estamos trabajando con colores en un pantalla y con luz, usamos el modelo aditivo RGB, pero hay otros métodos de definir color, por ejemplo tinta en papel, donde se usa el modelo sustractivo CMYK.
 
 ## sintaxis de funciones en JavaSCript
 
-```javascript
-function () {
+en JavaScript las funciones se definen con la palabra clave `function`.
 
-}
+las funciones tienen un nombre de fantasía, usaremos notación camello para nombrarlas.
+
+si vemos paréntesis, es una función, por ejemplo `setup()`.
+
+dentro de los paréntesis van los parámetros de la función, que son variables que se pueden usar dentro de la función.
+
+```javascript
+function nombreFuncion(param0, param1, etc) {}
+// código de la función
 ```
 
-parámetros de una función
+```javascript
+
+```
 
 ## bibliografía
 
 - <https://www.w3schools.com/js/js_if_else.asp>
 - <https://www.w3schools.com/js/js_switch.asp>
 - <https://www.w3schools.com/js/js_functions.asp>
+
+```
+
+```
