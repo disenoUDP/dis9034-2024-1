@@ -23,3 +23,12 @@ las imagenes son en (x,y)
   CMDF para buscar por palabra en la web
   cuanto alpha= transparente
   null: nada
+
+https://editor.p5js.org/emiguerra/sketches/aFY2j5ej4
+
+https://editor.p5js.org/emiguerra/sketches/gn-bMcqQm
+
+https://editor.p5js.org/emiguerra/sketches/Nr6XucYa2
+
+<img width="1531" alt="Captura de pantalla 2024-03-25 a la(s) 17 32 42" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/2a45580a-4881-4725-b0b1-8813d2e962a5">
+<img width="1850" alt="Captura de pantalla 2024-03-25 a la(s) 17 32 35" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/b365b426-0223-4cae-9576-5a240c73aad0">
