@@ -1,22 +1,17 @@
+let fotito;
+
+
+function preload() {
+  fotito=loadImage("bola.jpeg");
+}
+
 function setup() {
-  createCanvas(400, 400);
-  frameRate(7);
+  createCanvas(600, 550);
+  frameRate(2);
 }
 
 function draw() {
-  background(245, 239, 66);
+  background(255, 255, 255);
+  image(fotito, random(width), random(height), 736/5, 596/5);
   (random(width),random(height));
-  
-  let comida = ['🍟', '🍕', '🌭'];
-
-  let choice = random(comida);
-
-  textAlign(CENTER);
-  textSize(80);
-
-  text(choice, random(width),random(height));
-
-  //traté de hacer un proceso similar al visto en clases pero con emojis
-  //lo de los emojis lo saqué de <
-
 }
