@@ -15,3 +15,6 @@ Pero el cursor no queda al medio del gato, asi que busqué sobre el cursor aquí
 Le resté 100 a MouseX y MouseY para que el cursor quede sobre el gato:
 image(gatito, mouseX-100, mouseY-100, 200, 200)
 
+
+
+https://editor.p5js.org/SofiaAbarca/sketches/JyXU0a6jG
