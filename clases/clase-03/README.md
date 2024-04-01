@@ -49,6 +49,10 @@ para cargar una imagen externa en p5.js, usamos la función `loadImage()`, que r
 
 tras usar `loadImage()` la función está cargada, pero todavía no aparece en la pantalla, para eso necesitamos usar la función `image()`, cuyos parámetros son la imagen y las coordenadas donde aparecerá, opcionalmente también podemos definir su tamaño.
 
+EJEMPLO:
+
+<https://editor.p5js.org/montoyamoraga/sketches/rpmvjC--o>
+
 ## sintaxis de funciones en JavaScript
 
 en JavaScript las funciones se definen con la palabra clave `function`.
@@ -84,3 +88,4 @@ hacer un sketch en p5.js que utilice:
 - <https://p5js.org/reference/#/p5/color>
 - <https://p5js.org/reference/#/p5/loadImage>
 - <https://p5js.org/reference/#/p5/loadPixels>
+- <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
