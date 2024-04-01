@@ -3,8 +3,8 @@ Inicio Solemne 01
 
 Primeros avances 
 
-![img](./img01A.png) 
+![img](./Img01A.png) 
 
 Hubo un cambio, me atrevi a hacer algo más loco y cambie todo
 
-![img](./img02A.png) 
+![img](./Img02A.png) 
