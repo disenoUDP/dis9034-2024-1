@@ -18,16 +18,24 @@ Esta semana comienza con el primer encargo, que consiste en usar lo aprendido en
 ### Descripción del proyecto
 Creación de una web que use la cámara del computador, que presente un texto en el puntero del mouse, y que al momento de hacer click vaya modificando la imagen que se muestra el exterior (información entregada por la cámara) mediante filtros (prexistentes), cambios del texto (aparición de nuevas palabras) y color de las palabras. La base es querer reflexionar acerca de la perdida de identidad que ocurre en los entornos digitables, quienes nublan y alteran la imagen que percibimos de nuestro ser.
 
+<br>
+
+*LINK DEL PROYECTO*: https://editor.p5js.org/Camila-Parada/sketches/nJvRpRg5Z 
+
 ***
 
-#### Paso a paso
+### Paso a paso
+
+La primera etapa consistio en saber cómo aplicar la cámara en el editor (p5js), por lo que revisé tutoriales la semana pasada (25/03) y volví a aplicar el código del video "". Tras intentar aplicarlo me di cuenta que el código no corría, por lo que intenté revisar a qué se debía. Modifiqué el código revisando otros proyectos, y más tarde me di cuenta que no se podía iniciar dado que la aplicación de "cámara" de mi computador estaba en uso. Tras desactivarlo el código funcionó sin problemas.
+
+<br>
 
 ![primera etapa - resultado](./images/primera.etapa-resultado.png)
 
-
+Observaciones: el puntero no se ve en la captura, pero se encuentra debajo del texto.
 ***
 
-#### Referencias e inspiración
+### Referencias e inspiración
 
 - Uso de cámara. Recuperado de: https://www.youtube.com/watch?v=G3WxVV7aN4I
 - Modificación de fuentes digitales (subir una fuente en otf, cambiar tamaño, centrarla): https://p5js.org/reference/#/p5/text
