@@ -10,4 +10,3 @@ https://editor.p5js.org/ignaojeda/sketches/cLrfiYus7
 * ( ) : El parentesis es una función y acción (algo esta pasando)
 * // : para hacer un comentario (este modo es mejor)
 * /* : para hacer un comentario
-* i : iterador (tener una variable que itere) 
