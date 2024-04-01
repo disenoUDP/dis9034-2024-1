@@ -43,6 +43,7 @@ Observaciones: el puntero no se ve en la captura, pero se encuentra debajo del t
 - Ejercicio de sobreposición de texto ante un sketch. Recuperado de: https://stackoverflow.com/questions/41434313/placing-text-on-top-of-a-sketch-in-p5-js
 - Video reflectado. Recuperado de: https://editor.p5js.org/enickles/sketches/rJ9j1sx0M
 - Efecto de espejo. Recuperado de: https://editor.p5js.org/icm4.0/sketches/wP4mP8Ij4
+- Cambios al hacer click. Recuperado de: https://www.geeksforgeeks.org/p5-js-mouseclicked-function/
 
 ***
  
