@@ -75,40 +75,40 @@ durante el semestre abordaremos estos contenidos:
 
 ## clases (lunes 02:30pm-05:20pm)
 
-| clase                  | fecha      | tema                         |
-| :--------------------- | :--------- | :--------------------------- |
-| [01](clases/clase-01/) | 2024-03-11 | historia y stack tecnológico |
-| [02](clases/clase-02/) | 2024-03-18 | variables, arreglos y bucles |
-| [03](clases/clase-03/) | 2024-03-25 | pixeles y funciones          |
-| [04](clases/clase-04/) | 2024-04-01 | preparación solemne          |
-| [05](clases/clase-05/) | 2024-04-08 | solemne 01 en clase          |
-| [06](clases/clase-06/) | 2024-04-15 | objetos y arreglos           |
-| [07](clases/clase-07/) | 2024-04-22 | audio e interactividad       |
-| [08](clases/clase-08/) | 2024-04-29 | video e interactividad       |
-| [09](clases/clase-09/) | 2024-05-13 | preparación solemne 02       |
-| [10](clases/clase-10/) | 2024-05-20 | solemne 02 en clase          |
-| [11](clases/clase-11/) | 2024-05-27 | documentación y manuales     |
-| [12](clases/clase-12/) | 2024-06-03 | MIDI y OpenSoundControl      |
-| [13](clases/clase-13/) | 2024-06-10 | documentación y manuales     |
-| [14](clases/clase-14/) | 2024-06-17 | preparación examen           |
-| [15](clases/clase-15/) | 2024-06-24 | examen en clase              |
+| clase                  | fecha      | tema                               |
+| :--------------------- | :--------- | :--------------------------------- |
+| [01](clases/clase-01/) | 2024-03-11 | historia y stack tecnológico       |
+| [02](clases/clase-02/) | 2024-03-18 | variables, arreglos y bucles       |
+| [03](clases/clase-03/) | 2024-03-25 | condicionales, funciones y pixeles |
+| [04](clases/clase-04/) | 2024-04-01 | preparación solemne                |
+| [05](clases/clase-05/) | 2024-04-08 | solemne 01 en clase                |
+| [06](clases/clase-06/) | 2024-04-15 | objetos y arreglos                 |
+| [07](clases/clase-07/) | 2024-04-22 | audio e interactividad             |
+| [08](clases/clase-08/) | 2024-04-29 | video e interactividad             |
+| [09](clases/clase-09/) | 2024-05-13 | preparación solemne 02             |
+| [10](clases/clase-10/) | 2024-05-20 | solemne 02 en clase                |
+| [11](clases/clase-11/) | 2024-05-27 | documentación y manuales           |
+| [12](clases/clase-12/) | 2024-06-03 | MIDI y OpenSoundControl            |
+| [13](clases/clase-13/) | 2024-06-10 | documentación y manuales           |
+| [14](clases/clase-14/) | 2024-06-17 | preparación examen                 |
+| [15](clases/clase-15/) | 2024-06-24 | examen en clase                    |
 
 ## comunicación
 
 - vía mail
 - copiando a todo el equipo docente:
-  - aaron.montoya@mail.udp.cl
-  - janis.sepulveda@mail.udp.cl
+  - <aaron.montoya@mail.udp.cl>
+  - <janis.sepulveda@mail.udp.cl>
 - con asunto "DIS9034 - X", reemplazando X por la descripción, y sin las comillas!
 
 cualquier comunicación que no cumpla con esto no será respondida.
 
 ## bibliografía web
 
-- https://developer.mozilla.org/en-US/
-- https://www.w3schools.com/
-- https://p5js.org/
-- https://processingfoundation.press/
+- <https://developer.mozilla.org/en-US/>
+- <https://www.w3schools.com/>
+- <https://p5js.org/>
+- <https://processingfoundation.press/>
 
 ## bibliografía física
 
