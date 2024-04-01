@@ -1,5 +1,5 @@
 # clase-04
-avance solemne
+avance solemne:
 
 revisar rotacion de pixeles https://p5js.org/reference/#/p5/rotateZ
 
