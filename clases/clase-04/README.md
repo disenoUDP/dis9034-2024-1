@@ -5,10 +5,11 @@ lunes 01 abril 2024
 instrucciones solemne:
 
 - se empieza hoy
-- se entrega el lunes 08 abril 2024, a las 5:20pm, vía github
+- se entrega el lunes 08 abril 2024, hasta las 5:20pm, vía GitHub, en tu fork.
 - si hay un commit posterior, no se tomará en cuenta
-- es individual
-- el proyecto es libre, de cargar y modificar imágenes, usando la biblioteca p5.js
+- el proyecto es individual
+- el proyecto se hace con la tecnología web que quieran (HTML, CSS, JS, p5.js, etc)
+- el proyecto es sobre lo que hemos visto en clases (bucles, condicionales, funciones, eventos, etc), aplicados a la modificación de imágenes en la web.
 
 ## pauta
 
@@ -21,7 +22,17 @@ la solemne tiene nota máxima 7.0, tienen 1 punto base más estos 6 puntos evalu
 5. 1 punto por interactividad de tu web con ratón y/o teclado
 6. 1 punto por uso de bucles y/o condicionales
 
-## requisitos de la entrega
+la pauta es:
 
-- abrir github.com y hacer inicio de sesión con su cuenta
-- subir a tu carpeta tus archivos index.html, style.css, script.js, y otros archivos necesarios (imágenes, videos, etc).
+- 1.0 si el aspecto está realizado impecablemente.
+- 0.7 si tiene errores menores
+- 0.5 si está incompleto o tiene errores mayores
+- 0.3 por el intento
+- 0.0 por la ausencia
+
+## requisitos formales de la entrega
+
+- subir a tu carpeta de la clase-04 tu proceso, y luego a la clase-05 tu entrega final, incluyendo TODOS tus archivos index.html, style.css, script.js, y otros archivos necesarios (imágenes, videos, etc) para que corra la web.
+- variables y archivos sin espacios, en camelCase o notación camello.
+- los comentarios se escriben en la línea de arriba del código
+- los comentarios se escriben en español
