@@ -5,6 +5,7 @@ Primer avance
 
 ![img](./Img-1) 
 
-Tome el referente como idea y fui modificando de apoco apra lograr mi idea, cambiando la forma a una forma de cubo 3d, viendo un video de youtube
+Tome el referente como idea y fui modificando de apoco apra lograr mi idea, cambiando la forma a una forma de cubo 3d,usando WEBGL guiandome con un video en youtube (link en codigo referente)
+Tambien use la funcion translate y rotate para posicionar y rotar los cubos en el espacio 3D (siguiendo la idea de lo que estaba haciendo la clase pasada)
 
 ![img](./Img-2)
