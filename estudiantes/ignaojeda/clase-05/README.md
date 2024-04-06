@@ -5,6 +5,6 @@ Primer avance
 
 ![img](./Img-1) 
 
-Tome el referente como idea y fui modificando de apoco apra lograr mi idea, cambiando la forma a una forma de cubo 3d 
+Tome el referente como idea y fui modificando de apoco apra lograr mi idea, cambiando la forma a una forma de cubo 3d, viendo un video de youtube
 
 ![img](./Img-2)
