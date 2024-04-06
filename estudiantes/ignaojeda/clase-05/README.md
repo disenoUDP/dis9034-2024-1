@@ -9,3 +9,4 @@ Tome el referente como idea y fui modificando de apoco apra lograr mi idea, camb
 Tambien use la funcion translate y rotate para posicionar y rotar los cubos en el espacio 3D (siguiendo la idea de lo que estaba haciendo la clase pasada)
 
 ![img](./Img-2)
+https://editor.p5js.org/ignaojeda/full/-BX4gmyCs // link de archivo p5js
