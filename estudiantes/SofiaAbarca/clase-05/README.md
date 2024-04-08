@@ -27,7 +27,9 @@ Quería que apareciera confetti al hacer click.
 Investigué esta página de las referencias https://p5js.jp/learn/interactivity.html donde enseñan la interactividad del mouse cuando uno hace click.
 Usé lo aprendido sobre la condicional "if" y logré que al clickear apareciera el confeti.
 
-<img width="736" alt="Captura de pantalla 2024-04-08 a la(s) 16 29 27" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/20f802ef-4a73-4fc9-b27b-8be1ce93dcca">
+
+<img width="728" alt="Captura de pantalla 2024-04-08 a la(s) 17 14 24" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/75495231-f7e4-4462-9c2d-4697fa41a103">
+
 
 
 
