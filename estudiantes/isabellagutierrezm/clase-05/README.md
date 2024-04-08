@@ -5,10 +5,10 @@ PASO 01: SUBIR MUSICA AL EDITOR
 descargamos la canciòn en versión mp3 y cargamos canción 
 siguiendo este tutorial:
 La canción elegida fue "te para tres" de Soda Stereo versión UNPLUGGED, pero probé con muchas otras.[
-](https://www.youtube.com/watch?v=qt11aXRwMiA)
-SEGUIMOS ESTE TUTORIAL PARA CARGAR LA CANCIÓN
-](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
-![cargarcancion](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/575f4cef-e3b3-4e12-bb78-17ae5e955510)
+SEGUIMOS ESTE TUTORIAL PARA CARGAR LA CANCIÓN:
+[
+](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)![cargarcancion](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/575f4cef-e3b3-4e12-bb78-17ae5e955510)
+
 despues configuramos el mouse para que la canción suene al hacer clik en la pantalla
 ![clickmouse](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/7866bdfc-fff1-49f9-b8c2-fd9f2473b3d8) siguiendo referencia de p5js
 USAMOS CONDIONALES
