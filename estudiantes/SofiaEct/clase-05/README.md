@@ -1,7 +1,7 @@
 # clase-05
 SOLEMNE 1
 
-Código creado en base a referencias de p5.js reference y el libro Making Interactive Graphics in JavaScript and Processing. Maker Media, Inc.
+Código creado en base a referencias de p5.js reference y el libro Making Interactive Graphics in JavaScript and Processing. Maker Media, Inc de Lauren McCarthy, Casey Reas y Ben Fry.
 
 Primero se carga una imagen en p5.js la cual es intervenida con distintos filtros y efectos.
 
