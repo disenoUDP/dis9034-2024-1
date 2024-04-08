@@ -11,9 +11,11 @@ Este proyecto tiene como objetivo crear una animación que presenta círculos al
 ### Variables
 
 - `shadowColor`: Almacena el color del efecto de resplandor.
-- <img width="458" alt="Screenshot 2024-04-08 at 5 16 02 PM" src="https://github.com/augusdsnn/dis9034-2024-1/assets/128400710/fc0e4aa4-daa5-423f-98ff-7cdde0567146">
+  <img width="458" alt="Screenshot 2024-04-08 at 5 16 02 PM" src="https://github.com/augusdsnn/dis9034-2024-1/assets/128400710/fc0e4aa4-daa5-423f-98ff-7cdde0567146">
 - `positions`: Almacena las posiciones del mouse para crear el efecto de resplandor.
-- <img width="458" alt="Screenshot 2024-04-08 at 5 16 02 PM" src="https://github.com/augusdsnn/dis9034-2024-1/assets/128400710/ff400469-a373-4994-8cca-dd222001a948">
+  <img width="685" alt="Screenshot 2024-04-08 at 5 17 31 PM" src="https://github.com/augusdsnn/dis9034-2024-1/assets/128400710/64bf3bc0-9a4a-476c-b286-606272be4f53">
+
+
 - `colorGroup`: Define un grupo específico de colores para el efecto de resplandor.
 - `circles`: Un array para almacenar información sobre los círculos.
 - `minInterval` y `maxInterval`: Definen los intervalos mínimo y máximo entre ráfagas de círculos.
