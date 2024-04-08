@@ -1,5 +1,5 @@
 # clase-05
-El proyecto lo hice a base de la tarea de la clase 03 donde quiero que que la imagen rote y se mueva interactuando con el mouse, además, una interacción que al momento de hacer click se aplique en la imagen un filtro negativo
+El proyecto lo hice a base de la tarea de la clase 03 https://editor.p5js.org/Mossgan/sketches/aXxPivtQI donde quiero que que la imagen rote y se mueva interactuando con el mouse, además, una interacción que al momento de hacer click se aplique en la imagen un filtro negativo 
 
 Voy a definir como condicional fotito para subir mas adelante el jpg  
 let fotito;
