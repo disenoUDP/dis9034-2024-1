@@ -9,4 +9,4 @@ Crear un objeto de imagen <https://p5js.org/es/reference/#/p5/loadImage>
 <br>
 Load Pixels <https://p5js.org/es/reference/#/p5/loadPixels>
 <br>
-![Uploading Captura de pantalla 2024-04-08 a la(s) 17.13.21.png…]()
+<img width="969" alt="Captura de pantalla 2024-04-08 a la(s) 17 15 29" src="https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/9e931405-7316-4a6c-a045-d97b544e5aeb">
