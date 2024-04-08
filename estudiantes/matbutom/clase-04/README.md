@@ -37,4 +37,12 @@ rafita es un personaje ficitio creado por mí y Daniela, siempre intentamos ocup
 
 ---
 
+### Referencias del proyecto
+Función de mousePressed: <https://p5js.org/reference/#/p5.Element/mousePressed>
+Uso de random: <https://p5js.org/reference/#/p5/random>
+frameRate: <https://p5js.org/reference/#/p5/frameRate>
+rafita.studio: www.instagram.com/rafita.studio
+
+---
+
 *Link del proyecto:* <https://editor.p5js.org/matbutom/sketches/9lfTFERtn>
