@@ -20,4 +20,4 @@ Pude agregar la imágen que quería a uno de los cubos
 Agregue imagenes a los dos cubos y cambie la primera imagen por otra
 ![img](./Img-4.png)
 
-https://editor.p5js.org/ignaojeda/sketches/F1Vnp4MzP 
+https://editor.p5js.org/ignaojeda/sketches/F1Vnp4MzP
