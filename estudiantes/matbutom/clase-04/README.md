@@ -22,18 +22,36 @@ rafita es un personaje ficitio creado por mí y Daniela, siempre intentamos ocup
 
 ##### - usamos la function de `draw` para cambiar el fondo del canvas
 ##### - insertar imagen con variable random de X e Y.
-##### - editamos su tamaño para que quede proporcional con `displayWidth/8, displayHeight/4.5);`
-  
+##### - editamos su tamaño para que quede proporcional con 
+
+```javascript
+displayWidth/8, displayHeight/4.5);
+```
+
 <img width="937" alt="Captura de pantalla 2024-04-08 a la(s) 14 50 02" src="https://github.com/matbutom/dis9034-2024-1/assets/163034603/1cf69f87-5c28-46c3-8358-ce594ad91232">
 
 ##### - se cambia el color de la imagen con `function mousePressed()` cuando se hace un *click*
 
 <img width="936" alt="Captura de pantalla 2024-04-08 a la(s) 14 52 03" src="https://github.com/matbutom/dis9034-2024-1/assets/163034603/ae39af83-6eeb-4992-9042-1dcba5e49b59">
 
-##### - insertamos la imagen `asterisco.png` con variable de movimiento random  `image(asterisco, random(width-100), random(height-100), 1080/5, 1080/5);`
+##### - insertamos la imagen `asterisco.png` con variable de movimiento random  
+
+```javascript
+image(asterisco, random(width-100), random(height-100), 1080/5, 1080/5);
+```
+
 ##### - y cambiamos su tamaño de forma proporcional 
 
 <img width="934" alt="Captura de pantalla 2024-04-08 a la(s) 15 09 44" src="https://github.com/matbutom/dis9034-2024-1/assets/163034603/1d8cb5bc-11be-4ead-bb95-c414141542bb">
+
+---
+
+#### LO LOGRAMOS!
+
+##### - rafita logra moverse con el cursor y cada vez que hacemos click cambia su color!
+
+<img width="502" alt="Captura de pantalla 2024-04-08 a la(s) 15 50 55" src="https://github.com/matbutom/dis9034-2024-1/assets/163034603/fef9bdf6-24cb-46da-81a1-1a57f6b0691d"> <img width="500" alt="Captura de pantalla 2024-04-08 a la(s) 15 52 13" src="https://github.com/matbutom/dis9034-2024-1/assets/163034603/72dfe642-2bbe-42c2-b89a-45a2446021a8">
+
 
 ---
 
