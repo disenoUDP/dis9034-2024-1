@@ -48,7 +48,7 @@ image(asterisco, random(width-100), random(height-100), 1080/5, 1080/5);
 
 #### LO LOGRAMOS!
 
-##### - rafita logra moverse con el cursor y cada vez que hacemos click cambia su color!
+##### rafita logra moverse con el cursor y cada vez que hacemos click cambia su color!
 
 <img width="502" alt="Captura de pantalla 2024-04-08 a la(s) 15 50 55" src="https://github.com/matbutom/dis9034-2024-1/assets/163034603/fef9bdf6-24cb-46da-81a1-1a57f6b0691d"> <img width="500" alt="Captura de pantalla 2024-04-08 a la(s) 15 52 13" src="https://github.com/matbutom/dis9034-2024-1/assets/163034603/72dfe642-2bbe-42c2-b89a-45a2446021a8">
 
