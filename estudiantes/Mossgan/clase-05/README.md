@@ -20,7 +20,7 @@ function draw() {
 
 Aqui hice que cuando se haga click el fondo se vuelva negro 
 if (mouseIsPressed === true) {
-    background(0,0,0)
+    background(0,0,0);
   }
   
 Defino la interacción del mouse donde si se hace click se aplique un filtro negativo en fotito https://p5js.org/reference/#/p5.Image/filter
