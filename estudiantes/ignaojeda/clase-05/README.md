@@ -3,10 +3,10 @@ Cambio de idea al de la clase pasada, mantengo la idea de querer hacer un cubo c
 
 Primer avance
 
-![img](./Img-1) 
+![img](./Img-1.png) 
 
 Tome el referente como idea y fui modificando de apoco apra lograr mi idea, cambiando la forma a una forma de cubo 3d,usando WEBGL guiandome con un video en youtube (link en codigo referente)
 Tambien use la funcion translate y rotate para posicionar y rotar los cubos en el espacio 3D (siguiendo la idea de lo que estaba haciendo la clase pasada)
 
-![img](./Img-2)
+![img](./Img-2.png)
 https://editor.p5js.org/ignaojeda/full/-BX4gmyCs // link de archivo p5js
