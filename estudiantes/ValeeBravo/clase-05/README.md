@@ -1,5 +1,5 @@
 # clase-05
-Queria hacer el ciclo de la luna creciente que cambiara a luna llena y que girara entorno a algo. Busqué una imagen de bola de disco para que estuviera en medio y las lunas giraran en torno a la bola. También elegí una foto para que cambiara de filtro  img.filter(THRESHOLD); para que se viera en blanco y negro al 100. Queria que apareciera algo en el fondo cuando se tocara el click izqierdo: elegí las lunas y las estrellas del fondo para que aparecieran. 
+Quería hacer el ciclo de la luna creciente que cambiara a luna llena y que girara entorno a algo. Busqué una imagen de bola de disco para que estuviera en medio y las lunas giraran en torno a la bola. También elegí una foto para que cambiara de filtro  img.filter(THRESHOLD); para que se viera en blanco y negro al 100. Queria que apareciera algo en el fondo cuando se tocara el click izqierdo: elegí las lunas y las estrellas del fondo para que aparecieran. 
 
 Cargué la imagen como png en sketchfiles, saturno.png sacada de internet de saturno color rosado.  
 <img width="507" alt="Captura de pantalla 2024-04-08 a la(s) 16 12 40" src="https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/c2b37fe9-4ada-4569-97fe-b7a2957afda9">
