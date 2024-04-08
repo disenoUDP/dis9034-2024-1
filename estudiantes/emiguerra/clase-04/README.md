@@ -27,3 +27,4 @@ function draw() {
 - logre agrandar el cubo y atravesarlo
 <img width="2048" alt="Captura de pantalla 2024-04-01 a la(s) 16 48 57" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/ba43abf6-3151-407e-9d0b-3be806d01f16">
 - cambie el zoom respond¡sivo al mouse, ahora va mas rapido.
+https://editor.p5js.org/emiguerra/sketches/nx8CDSPMr
