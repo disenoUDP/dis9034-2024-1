@@ -37,7 +37,7 @@ Le agregue elipses que se generan de forma aleaotria. https://editor.p5js.org/23
     frameRate(5);
   }
 
-Utilizó push y pop para mantener el control de la acción específica que es que rote la imagen
+Utilizó push y pop para mantener el control de la acción específica que es que rote la imagenhttps://p5js.org/es/reference/#/p5/push
   push();
 
 Además hice una constante para que rote cada 10 milisegundos en el axis Z https://p5js.org/es/reference/#/p5/rotateZ
