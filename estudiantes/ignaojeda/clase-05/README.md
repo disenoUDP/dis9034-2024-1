@@ -10,3 +10,9 @@ Tambien use la funcion translate y rotate para posicionar y rotar los cubos en e
 
 ![img](./Img-2.png)
 https://editor.p5js.org/ignaojeda/full/-BX4gmyCs // link de archivo p5js
+
+
+Lunes 08/04
+
+Pude agregar la imágen que quería a uno de los cubos 
+![img](./Img-3.png)
