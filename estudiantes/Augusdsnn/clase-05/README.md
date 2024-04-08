@@ -1,6 +1,6 @@
 # clase-05
 # Animación de Círculos luminosos
-
+https://editor.p5js.org/augusdsnn/sketches/uxpJHSFar
 Este proyecto tiene como objetivo crear una animación que presenta círculos aleatorios con un efecto de resplandor y otro círculo que sigue el mouse creando un camino. Los objetivos principales incluyen:
 
 - **Efecto de Resplandor:** Cada círculo se representa con un efecto de resplandor, utilizando la función de shadowBlur.
