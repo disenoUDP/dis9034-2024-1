@@ -1,4 +1,5 @@
 # clase-4
+
 <img width="237" alt="Captura de pantalla 2024-04-01 a la(s) 16 00 21" src="https://github.com/MacaParrao/dis9034-2024-1/assets/163044952/4d45db9e-b820-4242-b92e-00667118433d">
 
 **Cree un fondo de 600 por 600**
@@ -13,7 +14,7 @@
 
 ![Captura de Pantalla 2024-04-05 a la(s) 22 57 14](https://github.com/MacaParrao/dis9034-2024-1/assets/163044952/01dfeead-a0a8-4d81-88ec-9eb5bf68571c)
 
-**Queria que la estrella aparezca de manera random en el fondo**
+**Queria que la estrella aparezca de manera random en el fondo, como si fueran varias estrellas parpadeando**
 
 ![Captura de Pantalla 2024-04-05 a la(s) 23 00 43](https://github.com/MacaParrao/dis9034-2024-1/assets/163044952/2a4d8470-0bce-4594-aab2-0ad3928daaa7)
 
@@ -45,7 +46,7 @@
 
 ![Captura de Pantalla 2024-04-05 a la(s) 23 09 18](https://github.com/MacaParrao/dis9034-2024-1/assets/163044952/f6604e21-b7c7-4bd3-8915-7034f316662e)
 
-**Ubiqué la nave sobre la luna**
+**Ubiqué la nave sobre la luna, como si hubiera aterrizado en ella**
 
 ![Captura de Pantalla 2024-04-05 a la(s) 23 18 18](https://github.com/MacaParrao/dis9034-2024-1/assets/163044952/0c343c36-ad15-4ad1-bef3-3be0f5b17c6c)
 
@@ -61,11 +62,11 @@
 
 ![Captura de Pantalla 2024-04-05 a la(s) 23 19 47](https://github.com/MacaParrao/dis9034-2024-1/assets/163044952/1c46d9a1-0f97-423d-b3b0-01d11621a81f)
 
-**Hice que el planeta girara alrededor del sol, con la referencia de translate**
+**Hice que el planeta girara alrededor del sol, con la referencia de translate de p5js**
 
 ![Captura de Pantalla 2024-04-05 a la(s) 23 20 50](https://github.com/MacaParrao/dis9034-2024-1/assets/163044952/f05e607c-fd72-4999-855b-ad7b57d5f9ca)
 
-**Hice que al hacer click cambiara el filtro del planeta con la referencia del filtro de invertir**
+**Hice que al hacer click cambiara el filtro del planeta con la referencia del filtro de invertir, usando las condicionales if y else**
 
 ![Captura de Pantalla 2024-04-05 a la(s) 23 25 17](https://github.com/MacaParrao/dis9034-2024-1/assets/163044952/902d7559-c08f-471b-bae1-81a614768de2)
 
