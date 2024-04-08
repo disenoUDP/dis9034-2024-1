@@ -23,16 +23,16 @@
 * Al principio del codigo se comenzo colocando "let" para designar ciertas condiciones
 * En estos let se pueden ver como se designan nombres especificos a las img, como tambien se le da el tonos a las melodias y el loop 
   
-![img ss4](./KeyIsPressed.png)
+![img ss4](./condicionlet.png)
 
 * Lineas de codigos en donde se agregan imagenes p5.js, recordar que hay que subir la foto y colocar exactamente el mismo nombre de donde se sube
   
-![img ss5](./sonido.png)
+![img ss5](./cargadeimg.png)
 
 *Aqui es donde se pone en funciòn el KeyIsPressed, aqui es cuando se le determina a cada tecla numerica una imagen 
 
-![img ss6](./cargadeimg.png)
+![img ss6](./KeyIsPressed.png)
 
 * En esta parte del codigo esta determinado como funciona la melodia de fondo y se estipula que al presionar con el mouse comienza la melodia y cuando se presiona de nuevo se pausa
 
-![img ss7](./cargadeimg.png)
+![img ss7](./sonido.png)
