@@ -12,3 +12,5 @@ tomaré un cambio de rumbo hacia algo mas estetico en lo experimental del ramo
 
 para comenzar en la edicion de fotos, me inspiré en el trabajo de daniellasarai, tratando de entender
 el trabajo con pixeles
+
+## https://editor.p5js.org/jacinta/sketches/jPbEUcjZJ
