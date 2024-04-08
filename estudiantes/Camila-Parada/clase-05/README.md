@@ -24,7 +24,7 @@ Creación de una "web" que use la cámara del computador a la par que muestre un
 
 <br>
 
-#### *LINK DEL PROYECTO*: https://editor.p5js.org/Camila-Parada/sketches/nJvRpRg5Z 
+#### *LINK DEL PROYECTO ONLINE*: https://editor.p5js.org/Camila-Parada/sketches/nJvRpRg5Z 
 
 ***
 
