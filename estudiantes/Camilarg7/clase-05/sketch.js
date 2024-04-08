@@ -30,6 +30,7 @@ function draw() {
     fill(r, g, b)
   }
   
+// Permite que el código sea accesible a más personas al describir lo que está pasando en el lienzo.
   describe('Un lienzo de color blanco en el que al pasar el puntero del mouse aparecen cuadrados de un color aleatorio que siguen al mouse, si se hace clic el color cambiará, si se mantiene presionado clic la figura cambiará a un círculo.')
 
 }
