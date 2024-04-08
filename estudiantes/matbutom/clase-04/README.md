@@ -2,6 +2,11 @@
 
 ---
 
+![newsletter](https://github.com/matbutom/dis9034-2024-1/assets/163034603/7af3e364-520b-4a63-a029-9f8a6fe04a9d)
+
+
+
+
 ### Descripción e ideas para el desarrollo 
 
 rafita es un personaje ficitio creado por mí y Daniela, siempre intentamos ocuparlo en todo lo que hacemos, programarlo no fue la excepción. Para el proyecto pensé en que podría tener distintas variables, colores random, posicionamento random, etc, me quedé con el color random y decidí agregarle la función de que pudiera hacerlo cada vez que se hace click. Existen otros elementos complementarios que tienen una función parecida a rafita.
