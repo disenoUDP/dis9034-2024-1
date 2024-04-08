@@ -11,18 +11,32 @@ Cargué 3 imágenes png de internet, un gato, una lana y un confeti.
 
 
 
-Quería que apareciera confetti cuando el gato llegara al ovillo.
+Quería que apareciera confetti al hacer click.
 Investigué esta página de las referencias https://p5js.jp/learn/interactivity.html donde enseñan la interactividad del mouse cuando uno hace click.
 Los ejemplos son de como cambiar de color de una figura al hacer click, pero yo quería que apareciera confeti.
+Usé lo aprendido sobre la condicional "if" y logré que al clickear apareciera el confeti.
+
+<img width="736" alt="Captura de pantalla 2024-04-08 a la(s) 16 29 27" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/20f802ef-4a73-4fc9-b27b-8be1ce93dcca">
 
 
-
-Puse una foto de un gato que se mueva con el mouse
+Quería que la imagen del gato se moviera con el mouse.
 Pero el cursor no queda al medio del gato, asi que busqué sobre el cursor aquí https://p5js.org/es/reference/#/p5/cursor.
 Le resté 100 a MouseX y MouseY para que el cursor quede sobre el gato:
 image(gatito, mouseX-100, mouseY-100, 200, 200)
 
 <img width="180" alt="Captura de pantalla 2024-04-08 a la(s) 16 13 52" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/986ab75c-fff7-474d-9ac5-35175848ea28">
+
+Cargué una imagen de una casita.
+
+<img width="348" alt="Captura de pantalla 2024-04-08 a la(s) 16 42 17" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/a3ad1528-bdc6-41cb-b6a6-60f2986ec1d3">
+
+Hice que al presionar una tecla se activara el filtro INVERT
+
+<img width="692" alt="Captura de pantalla 2024-04-08 a la(s) 16 43 09" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/74c7c713-9421-433d-99df-3ebc22eed8f2">
+
+
+
+
 
 
 
