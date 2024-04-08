@@ -1,10 +1,12 @@
 # clase-05
 
-Primero quería hacer un gato que pudiera moverse hasta un ovillo de lana.
-Hice el fondo celeste. 
+Mi idea inicial era hacer un gato que pudiera moverse por el lienzo hasta llegar a un ovillo de lana. 
+
+Primero hice canvas y pinté el fondo celeste
 
 
 <img width="359" alt="Captura de pantalla 2024-04-08 a la(s) 16 24 07" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/d9e93466-f0b8-46e5-9275-d9a709c6bbf3">
+<img width="328" alt="Captura de pantalla 2024-04-08 a la(s) 17 10 13" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/1b083319-5579-4014-80b7-d454f5db2532">
 <img width="332" alt="Captura de pantalla 2024-04-08 a la(s) 16 50 35" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/5f499b35-d34f-47cc-9a0f-014145c2ebd1">
 
 
