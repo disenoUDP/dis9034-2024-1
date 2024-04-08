@@ -4,41 +4,7 @@
 //mi mejor opción es ver en p5.js//
 - quiero lograr una rotación 360º y que los colores sean responsivos a medida que el mouse se desplaza sobre ello
 //encontré un ejemplo en p5.js, alteraré los parámetros para desarrollar mas mi idea//
-
 https://p5js.org/reference/#/p5/orbitControl
-
-<img width="2048" alt="Captura de pantalla 2024-04-01 a la(s) 15 21 13" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/d13ea29e-dcd1-4a72-b849-789015949a8d">
-
-- intentaré agregar otra figura 3d en el codigo, son las 15🕧, veré cómo sale
-- no entiendo el termino webGl, esto sale en google: WebGL es un estándar de web abierta para representar gráficos en cualquier navegador compatible,
-sin necesidad de plugins adicionales. WebGL se integra totalmente con todos los estándares web del navegador y permite el uso acelerado por GPU de procesamiento de imágenes y efectos como parte del lienzo de la página web.
-- sin ese parametro no podría visualizar mi modelo 3D
-
-<img width="2048" alt="Captura de pantalla 2024-04-01 a la(s) 15 25 57" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/bdae4ddc-6214-4124-aeac-6cb52fd29352">
-
-<img width="2047" alt="Captura de pantalla 2024-04-01 a la(s) 15 26 32" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/9d5489b4-b989-481c-8c4f-3826b2c74c03">
-
-intentando describir y referenciar una funcion, rompi el codigo
-
-<img width="2048" alt="Captura de pantalla 2024-04-01 a la(s) 16 05 59" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/4e896150-c14c-4480-9d7b-3720a730d747">
-<img width="2048" alt="Captura de pantalla 2024-04-01 a la(s) 16 11 18" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/16faa69a-3ec0-420a-8ffc-9952d0ee8bd1">
-
-cambie el parametro de
-function draw() {
-  background(100); a
-function draw() {
-  background(70);
-
-<img width="2048" alt="Captura de pantalla 2024-04-01 a la(s) 16 18 09" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/f3fc6f5d-31a1-41e6-96d1-17b4d33cd03c">
-
-- son las 4🕡 aun no logro cambiar algo alterando los parametros
-- logre agrandar el cubo y atravesarlo
-
-<img width="2048" alt="Captura de pantalla 2024-04-01 a la(s) 16 48 57" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/ba43abf6-3151-407e-9d0b-3be806d01f16">
-
-- cambie el zoom respond¡sivo al mouse, ahora va mas rapido.
-
-https://editor.p5js.org/emiguerra/sketches/nx8CDSPMr
 
 - quiero agregar una figura inscrita en el cubo
 
@@ -49,10 +15,29 @@ dupliqué las figuras segun un eje
 
 <img width="2038" alt="Captura de pantalla 2024-04-08 a la(s) 15 40 52" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/5c0012d2-c32d-40be-9ee1-8eb8078a4daf">
 
-- pude definir los patametros vectoriales y eso altero la rotacion de las figuras
+- La figura es responsiva segun zoom del mouse
+ <img width="561" alt="Captura de pantalla 2024-04-08 a la(s) 16 50 26" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/1fc5b0fb-ba3f-4c62-8a24-d71f54f493d1">
+ 
+ <img width="686" alt="Captura de pantalla 2024-04-08 a la(s) 16 50 37" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/15817de5-db2e-411a-90f6-4b82bfe263c1">
+
+- pude definir los parámetros vectoriales y eso alteró la rotación de las figuras
 
 <img width="529" alt="Captura de pantalla 2024-04-08 a la(s) 15 50 43" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/368731f7-8a2f-4078-a3cf-0b59c7ba3c21">
 <img width="2007" alt="Captura de pantalla 2024-04-08 a la(s) 15 55 01" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/223b6453-dc8c-4274-8295-a5c0208d8516">
+<img width="2048" alt="Captura de pantalla 2024-04-08 a la(s) 16 44 04" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/13c7203f-858a-432f-9a2e-c1759f06324e">
+
+- esta función está sin definir, veré como arreglarla.
+  - sin(2 * a) * RADIUS * sin(b),
+        (cos(b) * RADIUS) / 2,
+        cos(2 * a) * RADIUS * sin(b);
+
+- realmente no era necesaria para los bucles y condicionales, la eliminé
+
+  <img width="950" alt="Captura de pantalla 2024-04-08 a la(s) 16 49 01" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/2535acb2-5688-4d31-aa71-9948631f0adb">
+     
+
+<img width="542" alt="Captura de pantalla 2024-04-08 a la(s) 16 45 03" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/d4c5b287-84b9-4cdb-a89f-21fad089d2f9">
+
 
 # Enlace a mi proyecto
 https://editor.p5js.org/emiguerra/sketches/nx8CDSPMr
