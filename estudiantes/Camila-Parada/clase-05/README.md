@@ -18,7 +18,9 @@ Este día se entrega el primer encargo. Este consiste en usar lo aprendido en la
 ### Descripción del proyecto
 Creación de una "web" que use la cámara del computador a la par que muestre un texto en el puntero del mouse. Al momento de hacer click se cambia el texto anterior por uno nuevo, en otro color. Esta interacción con el editor (click con el botón) permite que el usuario pueda activar las teclas númericas "1", "2" o "3" para poder modificar la imagen de la cámara con los filtros "GRAY", "POSTERIZE y "BLUR". La idea base es querer reflexionar acerca de la perdida de identidad que ocurre en los entornos digitables, quienes nublan y alteran la imagen que percibimos de nuestro ser, en este caso literalmente a través de la alteración visual por los filtros.
 
-- Conocimiento: "let,if, else if" (variables), preload, loadFont, createCapture, hide, text, uso de teclas.
+<br>
+
+- Conocimiento: "let,if, else if" (variables), preload, loadFont, createCapture (video), hide, text, key (teclado), filters.
 
 <br>
 
