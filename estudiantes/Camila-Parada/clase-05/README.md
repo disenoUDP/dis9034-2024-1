@@ -1,4 +1,4 @@
-# ⋆₊˚⊹♡ Clase 05 Registro ♡⊹˚₊⋆
+# ⋆₊˚⊹♡ Clase 05 - Solemne 01 ♡⊹˚₊⋆
 ###### _LUNES 8/04/2024_
 
 ***
@@ -8,7 +8,7 @@
 <!---Recordar para programar "md" (markdown): 
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
 - https://www.markdownguide.org/basic-syntax/--->
-Este día se entrega el primer encargo. Este consiste en usar lo aprendido en las anteriores clases para desarrollar un código con p5js.
+Entrega del primer encargo. Este consiste en usar lo aprendido en las anteriores clases para desarrollar un código con p5js.
 
 - [Clase 02](https://github.com/disenoUDP/dis9034-2024-1/tree/main/clases/clase-02): uso de la consola web, creación de variables (var {antiguo} y let), declaración de variable (nombre, valor o significado), arreglos o "array": grupos de valores distintos de una misma variable), [bucles o loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration): iteraciones o repeticiones continuas.
 - [Clase 03](https://github.com/disenoUDP/dis9034-2024-1/tree/main/clases/clase-03): condicionales, pixeles, imagenes externas, sintaxis de funciones.
@@ -16,7 +16,7 @@ Este día se entrega el primer encargo. Este consiste en usar lo aprendido en la
 ***
  
 ### Descripción del proyecto
-Creación de una "web" que use la cámara del computador a la par que muestre un texto en el puntero del mouse. Al momento de hacer click se cambia el texto anterior por uno nuevo, en otro color. Esta interacción con el editor (click con el botón) permite que el usuario pueda activar las teclas númericas "1", "2" o "3" para poder modificar la imagen de la cámara con los filtros "GRAY", "POSTERIZE y "BLUR". La idea base es querer reflexionar acerca de la perdida de identidad que ocurre en los entornos digitables, quienes nublan y alteran la imagen que percibimos de nuestro ser, en este caso literalmente a través de la alteración visual por los filtros.
+Creación de una "web" que use la cámara del computador a la par que muestre un texto en el puntero del mouse. Al momento de hacer click se cambia el texto anterior por uno nuevo, con otro color. Esta interacción con el mouse, "click con el botón", permite que el usuario pueda activar las teclas númericas "1", "2" o "3" (no es una condición establecida en el código, lo detallo basado en mi experiencia al probar el prototipo) para poder modificar la imagen de la cámara con los filtros "GRAY", "POSTERIZE y "BLUR". La idea base es incitar la reflexión acerca de la perdida de identidad que ocurre en los entornos digitables, quienes nublan y alteran la imagen que percibimos de nuestro ser, en este caso literalmente a través de la alteración visual por los filtros.
 
 <br>
 
@@ -64,7 +64,10 @@ La primera etapa consistio en saber cómo aplicar la cámara en el editor (p5js)
 - Uso de botones del teclado y cambio de filtros. Recuperado de: https://editor.p5js.org/cs105/sketches/dMZbJ2JBa
 
 ***
- <!--- PLS que me vaya bien, me esforcé intentando construir estos códigos (ᗒᗣᗕ)՞. Fue un largo proceso de prueba y error, caida y aprendizaje, rebuscar y probar.
- Me cuesta aprender, pero intento ponerle mucho empeño ૮◞ ﻌ ◟ა --->
- 
+### Posdata
+
+"PLS" que me vaya bien, me esforcé intentando construir estos códigos (ᗒᗣᗕ)՞. Fue un largo proceso de prueba y error, caida y aprendizaje, rebuscar y probar.
+Me cuesta aprender, pero intento ponerle mucho empeño ૮◞ ﻌ ◟ა
+
+***
  ##### *°˖✧◝(⁰▿⁰)◜✧˖°*
