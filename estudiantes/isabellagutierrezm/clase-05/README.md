@@ -31,8 +31,6 @@ PASO 03 :Decidmos usar un circulo como forma y vamos variando que estilo se ve m
 Centramos la forma 
 ![circulo](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/53c2572c-f7ac-4d4e-9581-ca9439705ea5)
 Hacemos el primer lado de la forma y copiamos para tener la forma completa 
-![P5JCIRCULO](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/fe4bf503-ecc6-42e1-9962-0d4d84c705cd)
-
 PASO 04: PROBAMOS CON MÚSICA 
 ![circulo Completop5js (1)](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/b42c0de1-57ba-425e-9b80-018d1f72298e)
 
