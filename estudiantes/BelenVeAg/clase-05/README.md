@@ -1,5 +1,6 @@
 # clase-05- Entrega Sol. 1
-El proyecto consiste en crear una imagen interactiva que cambie de colores según la posición del mouse.
+El proyecto consiste en crear una imagen interactiva que cambie de colores según la posición del mouse y generar partículas aleatorias al manetenr apretado el click.
+Link SOl. 1: https://editor.p5js.org/BelenVeAg/sketches/94DqnZeo0
 
 # Herramientas utilizadas/Fuentes
 
@@ -14,3 +15,7 @@ Para cambiar el color de la imagen: Fuente filtros: https://p5js.org/es/referenc
 Para generar una acción manteniendo el click apretado: https://p5js.org/es/reference/#/p5/mouseIsPressed
 
 Código de referencia para lograr el puntillismo: https://editor.p5js.org/p5/sketches/Image:_Pointillism
+
+Código para cargar los datos de píxeles de "fotito". Referencia: https://p5js.org/es/reference/#/p5.Image/loadPixels
+
+Esta parte del código es lo que permite ejecutar el comportamiento aleatorio de las particulas. Revisar el ejemplo 2 de la fuente: https://p5js.org/es/reference/#/p5/map
