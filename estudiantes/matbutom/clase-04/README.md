@@ -44,7 +44,7 @@ Uso de random: <https://p5js.org/reference/#/p5/random>
 
 frameRate: <https://p5js.org/reference/#/p5/frameRate>
 
-rafita.studio: <www.instagram.com/rafita.studio>
+rafita.studio: www.instagram.com/rafita.studio
 
 ---
 
