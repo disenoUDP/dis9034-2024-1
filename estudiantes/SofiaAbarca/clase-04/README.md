@@ -1,7 +1,14 @@
 # clase-04
-primero queria hacer un gato que pudiera moverse hasta un ovillo de lana
-busque la foto y la puse con lo visto en clases
-<
+Primero quería hacer un gato que pudiera moverse hasta un ovillo de lana.
+Busqué la foto y la puse con lo visto en clases.
+
+// cargue 3 imagenes
+function preload() {
+  fotito = loadImage("./confeti.png")
+  lana = loadImage("./lana.png")
+  gatito = loadImage("./gatito.png")
+  casita = loadImage("./casita.png")
+
 Quería que apareciera confetti cuando el gato llegara al ovillo
 Investigué esta página de las referencias https://p5js.jp/learn/interactivity.html donde enseñan la interactividad del mouse cuando uno hace click
 Los ejemplos son de como cambiar de color de una figura al hacer click, pero yo quería que apareciera confeti
