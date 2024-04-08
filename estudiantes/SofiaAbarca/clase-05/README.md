@@ -6,14 +6,16 @@ Primero hice canvas y pinté el fondo celeste
 
 
 <img width="359" alt="Captura de pantalla 2024-04-08 a la(s) 16 24 07" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/d9e93466-f0b8-46e5-9275-d9a709c6bbf3">
+
 <img width="328" alt="Captura de pantalla 2024-04-08 a la(s) 17 10 13" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/1b083319-5579-4014-80b7-d454f5db2532">
+
 <img width="332" alt="Captura de pantalla 2024-04-08 a la(s) 16 50 35" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/5f499b35-d34f-47cc-9a0f-014145c2ebd1">
 
 
 
 
 
-Cargué 3 imágenes png de internet, un gato, una lana y un confeti.
+Pre-cargué 3 imágenes png de internet, un gato, una lana y un confeti.
 
 <img width="369" alt="Captura de pantalla 2024-04-08 a la(s) 16 26 39" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/5580aa89-4526-426c-bd05-37394a5493f0">
 <img width="154" alt="Captura de pantalla 2024-04-08 a la(s) 16 51 21" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/cca69a3d-8af0-467f-85a5-77455b30bc67">
