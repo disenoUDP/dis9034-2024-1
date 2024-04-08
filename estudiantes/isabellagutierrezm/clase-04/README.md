@@ -31,4 +31,5 @@ let fotito = null
 image(fotito, 0, 0);
 IDEA: IMAGEN MOVIDA CON SONIDO
 <img width="801" alt="Captura de pantalla 2024-04-01 a la(s) 17 28 58" src="https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/91cf1d02-2801-4c23-b830-b9cd068e06cc">
-
+P5 EDITOR 
+https://editor.p5js.org/isabellagutierrezm/sketches/Lihmc_PET
