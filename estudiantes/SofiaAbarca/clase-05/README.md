@@ -5,10 +5,10 @@ Hice el fondo celeste.
 
 <img width="359" alt="Captura de pantalla 2024-04-08 a la(s) 16 24 07" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/d9e93466-f0b8-46e5-9275-d9a709c6bbf3">
 
+Cargué 3 imágenes png de internet, un gato, una lana y un confeti.
 
-Busqué la foto y la puse con lo visto en clases.
+<img width="369" alt="Captura de pantalla 2024-04-08 a la(s) 16 26 39" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/5580aa89-4526-426c-bd05-37394a5493f0">
 
-<img width="351" alt="Captura de pantalla 2024-04-08 a la(s) 16 02 58" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/62f6a925-8705-4847-b8ae-375b9daf66a0">
 
 
 Quería que apareciera confetti cuando el gato llegara al ovillo.
