@@ -8,3 +8,5 @@ Imagen <https://p5js.org/es/reference/#/p5/image>
 Crear un objeto de imagen <https://p5js.org/es/reference/#/p5/loadImage>
 <br>
 Load Pixels <https://p5js.org/es/reference/#/p5/loadPixels>
+<br>
+![Uploading Captura de pantalla 2024-04-08 a la(s) 17.13.21.png…]()
