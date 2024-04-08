@@ -21,3 +21,14 @@ Agregue imagenes a los dos cubos y cambie la primera imágen por otra
 ![img](./Img-4.png)
 
 https://editor.p5js.org/ignaojeda/sketches/F1Vnp4MzP
+
+Explicación de algunas funciones
+
+![img](./Cap-01.png)
+Variables que indican las imágenes
+
+![img](./Cap-02.png)
+Variable que controla el valor de la velocidad de los cubos
+
+![img](./Cap-03.png)
+Imágenes cargadas
