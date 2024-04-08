@@ -52,6 +52,6 @@ Los filtros agregados a la imagen son los siguientes, y se encuentran en __funct
 ~~~
   filter(INVERT);
   filter(POSTERIZE,3);
-~~
-
+~~~
 Para cerrar este documento textual, quiero mencionar el gusto que tuve con este trabajo, definitivamente estare mas atenta al codigo de ahora en adelante.
+https://editor.p5js.org/SofiaEct/sketches/gqaLg57RZ
