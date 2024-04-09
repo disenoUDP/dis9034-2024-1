@@ -6,8 +6,8 @@ Primer avance
 
 ![img](./Img-1.png)
 
-Tome el referente como idea y fui modificando de apoco apra lograr mi idea, cambiando la forma a una forma de cubo 3d,usando WEBGL guiandome con un video en youtube (link en codigo referente)
-Tambien use la funcion translate y rotate para posicionar y rotar los cubos en el espacio 3D (siguiendo la idea de lo que estaba haciendo la clase pasada)
+Tome el referente como idea y fui modificando de apoco para lograr mi idea, cambiando la forma a una forma de cubo 3d,usando WEBGL guiándome con un video en youtube (link en codigo referente)
+Tambien usé la funcion translate y rotate para posicionar y rotar los cubos en el espacio 3D (siguiendo la idea de lo que estaba haciendo la clase pasada)
 
 ![img](./Img-2.png)
 https://editor.p5js.org/ignaojeda/full/-BX4gmyCs // link de archivo p5js
@@ -17,11 +17,18 @@ Lunes 08/04
 Pude agregar la imágen que quería a uno de los cubos
 ![img](./Img-3.png)
 
-Agregue imagenes a los dos cubos y cambie la primera imagen por otra
+Agregue imagenes a los dos cubos y cambie la primera imágen por otra
 ![img](./Img-4.png)
 
 https://editor.p5js.org/ignaojeda/sketches/F1Vnp4MzP
 
-En base a lo que hice la clase pasada, cambie lo que queria hacer, si quiero mantener la idea de un box como figura y que sea con imagenes, quiero hacer que este se mueva guiado por el movimiento del mouse, en base a un referente que vi (https://editor.p5js.org/p5/sketches/Input:_Mouse2D) pero quiero poder lograr complejizarlo un poco (si lo logro) haciendo que estas cajas tengan imagenes en cada una de sus caras o al menos en una de cada caja.
+Explicación de algunas funciones
 
-1°Avance : ![img](./Img1.png)
+![img](./Cap-01.png)
+Variables que indican las imágenes
+
+![img](./Cap-02.png)
+Variable que controla el valor de la velocidad de los cubos
+
+![img](./Cap-03.png)
+Imágenes cargadas
