@@ -28,3 +28,10 @@ function draw() {
 <img width="2048" alt="Captura de pantalla 2024-04-01 a la(s) 16 48 57" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/ba43abf6-3151-407e-9d0b-3be806d01f16">
 - cambie el zoom respond¡sivo al mouse, ahora va mas rapido.
 https://editor.p5js.org/emiguerra/sketches/nx8CDSPMr
+- quiero agregar una figura inscrita en el cubo
+https://p5js.org/es/reference/#/p5/translate
+<img width="2048" alt="Captura de pantalla 2024-04-08 a la(s) 15 26 27" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/89ff361e-547f-4771-9c0f-109a4a708db7">
+dupliqué las figuras segun un eje 
+<img width="2038" alt="Captura de pantalla 2024-04-08 a la(s) 15 40 52" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/5c0012d2-c32d-40be-9ee1-8eb8078a4daf">
+- pude definir los patametros vectoriales y eso altero la rotacion de las figuras
+<img width="529" alt="Captura de pantalla 2024-04-08 a la(s) 15 50 43" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/368731f7-8a2f-4078-a3cf-0b59c7ba3c21">
