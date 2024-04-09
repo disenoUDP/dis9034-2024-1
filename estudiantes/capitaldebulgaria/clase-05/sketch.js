@@ -22,10 +22,9 @@ mouseClicked(); //función de click
 }
 
 function drawGatitos(x,y){ //si hago click con el mouse aparece un gatito random
- if(x&&y){
     image(randomImg, pmouseX, pmouseY, 100, 100); //que los gatitos sigan el mouse y su tamaño
  } 
-  }
+
 function mouseClicked(){
 
  if(mouseIsPressed){ 
