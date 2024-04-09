@@ -8,7 +8,7 @@
 
 ### Descripción e ideas para el desarrollo 
 
-rafita es un personaje ficitio creado por mí y Daniela, siempre intentamos ocuparlo en todo lo que hacemos, programarlo no fue la excepción. Para el proyecto pensé en que podría tener distintas variables, colores random, posicionamento random, etc, me quedé con el color random y decidí agregarle la función de que pudiera hacerlo cada vez que se hace click. Existen otros elementos complementarios que tienen una función parecida a rafita.
+rafita es un personaje ficticio creado por mí y mi pareja, @danielasalamanca, siempre intentamos ocuparlo en todo lo que hacemos, programarlo no fue la excepción. Para el proyecto pensé en que podría tener distintas variables, colores random, posicionamiento random, etc, me quedé con el color random y decidí agregarle la función de que pudiera hacerlo cada vez que se hace click. Existen otros elementos complementarios que tienen una función parecida a rafita.
 
 ---
 
@@ -25,10 +25,10 @@ rafita es un personaje ficitio creado por mí y Daniela, siempre intentamos ocup
 ##### - insertar imagen con variable random de X e Y.
 ##### - editamos su tamaño para que quede proporcional con 
 
-a esta altura del código logramos hacer que rafita pueda moverse con respecto al cursor
+#####  - a esta altura del código logramos hacer que rafita pueda moverse con respecto al cursor
 
 ```javascript
-displayWidth/8, displayHeight/4.5);
+image(rafita, mouseX-100, mouseY-100, displayWidth/8, displayHeight/4.5);
 ```
 
 <img width="937" alt="Captura de pantalla 2024-04-08 a la(s) 14 50 02" src="https://github.com/matbutom/dis9034-2024-1/assets/163034603/1cf69f87-5c28-46c3-8358-ce594ad91232">
@@ -41,7 +41,7 @@ hemos hecho que cada vez que hacemos click derecho, el color de rafita pueda cam
 
 ##### - insertamos la imagen `asterisco.png` con variable de movimiento random  
 
-luego de insertar la nueva ilustración del asterisco, puede apreciarse su movimiento de manera aleatoria con respecto al canvas
+##### - luego de insertar la nueva ilustración del asterisco, puede apreciarse su movimiento de manera aleatoria con respecto al canvas
 
 ```javascript
 image(asterisco, random(width-100), random(height-100), 1080/5, 1080/5);
