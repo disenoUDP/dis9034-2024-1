@@ -2,20 +2,31 @@
 
 ## solemne 1
 
-###### 01/04 
+### idea del proyecto
+mi idea es hacer que rafita (la imagen), se mueva constantemente de izquierda a derecha y que "salte" al presionar la barra espaciadora
+***
+#### ¿quién es **rafita**?
+rafita es un perro que nace en 2022 dentro de distintos dibujos que me encontraba haciendo por aburrimiento en clases. A mis amigos les gustó y lo bautizan como **rafita**.
 
-hola, mi idea para esta solemne es hacer que la imágen (rafita.png) vaya avanzando y salte al presionar la barra espaciadora 
+en 2023 rafita trasciende ya que con mi pareja @matbutom decidimos crear @rafita.studio 
+
+***
+### proceso del código
 
 1. declaramos las variables: g, jump, ground y size
 
 ```javascript
-let g = 1; // gravedad
-let jump = 18; // salto
-let ground = 200; // linea del piso
-let size = 250; // tamaño de la imagen
+// gravedad
+let g = 1;
+// salto
+let jump = 18;
+// linea del piso
+let ground = 200;
+// tamaño de la imagen
+let size = 250;
 ```
 
-2. también declaramos las variables: x, y, vy que definiremos más adelante
+2. también declaramos las variables: x, y, vy y la variable rafita; que definiremos más adelante
 
 ```javascript
 let x, y, vy;
@@ -33,7 +44,11 @@ rafita=loadImage("rafita.png");
 
 ```javascript
 function setup() {
+  
+  // crear un lienzo de 650 por 550 pixeles
   createCanvas(650, 550);
+
+  // definir las variables x e y respecto al ancho y alto del lienzo
   x = width;
   y = height;
 }
@@ -63,12 +78,15 @@ image(rafita, x - 120, y - 47, size, size);
 9. definimos la velocidad a la que avanzará la imagen y asignamos la condicional que defina hasta donde llegará la imagen y desde donde volverá a comenzar
 
 ```javascript
-x = x + 2; // velocidad a la que avanza hacia adelante
-  if (x > 700) { // hacer que se repita al llegar al final
-    x = - 100; // donde comienza nuevamente la imagen
+// velocidad a la que avanza hacia adelante
+x = x + 2;
+// hacer que se repita al llegar al final
+if (x > 700) {
+// donde comienza nuevamente la imagen
+x = - 100;
 ```
 
-10. definimos las condicionales
+10. definimos las condicionales que definan el salto
 
 ```javascript
 if(y < height - ground - size / 2){ 
@@ -80,25 +98,23 @@ if(y < height - ground - size / 2){
   }
 ```
 
-11. definimos la función que hará que la imagen "salte" solo al oprimir la barra espaciadora (keyCode === 32)
+11. definimos la función que hará que la imagen "salte" al oprimir la barra espaciadora (keyCode === 32)
 
 ```javascript
-function keyPressed(){
-  if(keyCode === 32){
-    vy = -jump;     
+function keyPressed() {
+  
+  if (keyCode === 32) {
+    vy =  -jump;
+  }
+}  
 ```
-
-
-
-
-
 
 ***
 
 #### referentes
-- mi referente para lograr el salto fue sacado de <https://editor.p5js.org/tnishida/sketches/Wv_-BBBaA>
+- mi referente para lograr el salto fue sacado de <https://editor.p5js.org/tnishida/sketches/Wv_-BBBaA> así supe cuales eran las variables y la condicionales que necesitaba para el código.
 
-- mi referente para hacer que la imagen se mueva de izquiera a derecha constantemente fue sacado de  <https://p5js.org/es/reference/#/p5/noLoop>
+- mi referente para hacer que la imagen se mueva de izquierda a derecha constantemente fue sacado de  <https://p5js.org/es/reference/#/p5/noLoop> especificamente esta parte:
   
 ```javascript
 x = x + 0.1;
@@ -106,18 +122,8 @@ x = x + 0.1;
     x = 0;
 ```
 
-***
-###### avances 01/04
+- @rafita.studio <https://www.instagram.com/rafita.studio?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==>
 
-<https://editor.p5js.org/danielasalamanca/sketches/W2YPVwljA>
-
-###### avances 04/04 hice una actualización de mi entrega 
-
-<https://editor.p5js.org/danielasalamanca/sketches/S6BW7zyzu>
-
-###### entrega 08/04
+### link de acceso
 
 <https://editor.p5js.org/danielasalamanca/sketches/pSo5Uor-k>
-
-```javascript
-```
