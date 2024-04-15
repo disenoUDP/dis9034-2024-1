@@ -8,7 +8,6 @@
 1. [capitaldebulgaria](./capitaldebulgaria/)
 1. [cielqz](./cielqz/)
 1. [danielasalamanca](./danielasalamanca/)
-1. [danielayton](./danielayton/)
 1. [daniellasarai](./daniellasarai/)
 1. [emiguerra](./emiguerra/)
 1. [ignaojeda](./ignaojeda/)
