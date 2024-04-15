@@ -10,7 +10,7 @@ Tome el referente como idea y fui modificando de apoco para lograr mi idea, camb
 Tambien usé la funcion translate y rotate para posicionar y rotar los cubos en el espacio 3D (siguiendo la idea de lo que estaba haciendo la clase pasada)
 
 ![img](./Img-2.png)
-https://editor.p5js.org/ignaojeda/full/-BX4gmyCs // link de archivo p5js
+<https://editor.p5js.org/ignaojeda/full/-BX4gmyCs> // link de archivo p5js
 
 Lunes 08/04
 
@@ -20,7 +20,7 @@ Pude agregar la imágen que quería a uno de los cubos
 Agregue imagenes a los dos cubos y cambie la primera imágen por otra
 ![img](./Img-4.png)
 
-https://editor.p5js.org/ignaojeda/sketches/F1Vnp4MzP
+<https://editor.p5js.org/ignaojeda/sketches/F1Vnp4MzP>
 
 Explicación de algunas funciones
 
