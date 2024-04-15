@@ -38,7 +38,7 @@ y exploraremos la herramienta `FFmpeg Explorer`
 para hacer que el video desde ffmpeg pueda descargarse desde colab debemos copiar el `output command`
 
 ```phyton
-ffmpeg -i punch.mp4 -filter_complex "[0:v]shufflepixels,shufflepixels,shufflepixels,shufflepixels,shufflepixels,shufflepixels[out_v]" -map "[out_v]" -map 0:a out.mp4
+!ffmpeg -i punch.mp4 -filter_complex "[0:v]shufflepixels,shufflepixels,shufflepixels,shufflepixels,shufflepixels,shufflepixels[out_v]" -map "[out_v]" -map 0:a out.mp4
 ```
 
 cuando recargamos la interfaz de archivos en colab podemos ver el video `out.mp4`
