@@ -4,9 +4,15 @@
 [VidPy](https://antiboredom.github.io/vidpy/) Python video editing and compositing
 
 Referencias:
-[Matt Romein](https://matt-romein.com/) / 
-[Lisa Jamhoury](https://lisajamhoury.com/) /
-[Olivia Jack](https://ojack.xyz/)
+
+- [Matt Romein](https://matt-romein.com/) / 
+
+- [Lisa Jamhoury](https://lisajamhoury.com/) /
+
+- [Olivia Jack](https://ojack.xyz/) 
+ - [Unique magical browser objects](https://uniquemagicalbrowserobjects.com/) Web gallery of collectible code sketches, auto-generated for each donation to hydra video synth.
+   - [Caleb](https://uniquemagicalbrowserobjects.com/#viewer/vrgbk357-l4x96e7z-97apomew-a0jdyzn8)
+ - [Garden](https://hydra.ojack.xyz/garden/) ever-growing community database of resources, projects, tutorials, and code related to hydra video synth
 
 [Google Colab](https://colab.research.google.com/) > 
 [Colab Personal](https://colab.research.google.com/drive/18WRB6sKaCQCYNK2Z5tbz-cz0IEyOCaYN?hl=es#scrollTo=YOFURhbVIeKq)
