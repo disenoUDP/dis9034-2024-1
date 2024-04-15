@@ -3,8 +3,10 @@
 
 [VidPy](https://antiboredom.github.io/vidpy/) Python video editing and compositing
 
+Referencias:
 [Matt Romein](https://matt-romein.com/) / 
-[Lisa Jamhoury](https://lisajamhoury.com/)
+[Lisa Jamhoury](https://lisajamhoury.com/) /
+[Olivia Jack](https://ojack.xyz/)
 
 [Google Colab](https://colab.research.google.com/) > 
 [Colab Personal](https://colab.research.google.com/drive/18WRB6sKaCQCYNK2Z5tbz-cz0IEyOCaYN?hl=es#scrollTo=YOFURhbVIeKq)
