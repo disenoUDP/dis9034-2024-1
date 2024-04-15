@@ -28,7 +28,7 @@ y exploraremos la herramienta `FFmpeg Explorer`
 
 <img width="1440" alt="Captura de pantalla 2024-04-15 a la(s) 15 20 26" src="https://github.com/matbutom/dis9034-2024-1/assets/163034603/e9734817-1d95-4e1f-b1dd-0cb78fad3327">
 
-*sreenshot herramienta FFmpeg*
+*screenshot herramienta FFmpeg Explorer*
 
 ---
 
