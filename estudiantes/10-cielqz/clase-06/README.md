@@ -1,6 +1,8 @@
 # clase-06
 [StackOverflow](https://stackoverflow.com/?newreg=3fdee68788994c058f8891165d998f9c)
 
+[Google Colab](https://colab.research.google.com/)
+
 [Python](https://www.python.org/) = 
 [Jupyter](https://jupyter.org/) /
 [Numpy](https://numpy.org/) /
@@ -13,5 +15,3 @@
 Shortcuts
 - Cmnd + space = búsqueda en mac.
 - '!' = comando en python
-
- 
