@@ -1,43 +1,48 @@
-let dobleFondo
-let bailarina
-let skater
+let dobleFondo;
+let bailarina;
+let skater;
 
-let angle = 0 //angulo de rotación inicial!!! 
+//angulo de rotación inicial!!!
+let angle = 0;
 
 function preload() {
-  dobleFondo = loadImage("./dobleFondo.png");
-  skater = loadImage ("./skater.png")
-  bailarina = loadImage ("./bailarina.png")
+  dobleFondo = loadImage('./dobleFondo.png');
+  skater = loadImage('./skater.png');
+  bailarina = loadImage('./bailarina.png');
 }
 
 function setup() {
   createCanvas(600, 600);
-  frameRate(30)
+  frameRate(30);
 }
 
 //SKATER
-function coolSkater(){
-  if (mouseY > height / 2){
+function coolSkater() {
+  if (mouseY > height / 2) {
     push();
-  translate(mouseX, mouseY); // anclaje del cuadrado al centro del mouse
-  rotate(angle);
-  image(skater, -100, -100, 150, 150); 
-  angle -= 0.2;
-  pop(); 
-  } 
+    // anclaje del cuadrado al centro del mouse
+    translate(mouseX, mouseY);
+    rotate(angle);
+    image(skater, -100, -100, 150, 150);
+    angle -= 0.2;
+    pop();
+  }
 }
 
 //BAILARINA
-function coolBailarina(){
-  if (mouseY < height / 2){ // dividiendo la pantalla en dos!!
-    let wiggleX = random(-5, 5); //wiggle = sacudir
-    let wiggleY = random(-5, 5)
+function coolBailarina() {
+  if (mouseY < height / 2) {
+    // dividiendo la pantalla en dos!!
+    //wiggle = sacudir
+    let wiggleX = random(-5, 5);
+    let wiggleY = random(-5, 5);
     push();
-  translate(mouseX + wiggleX, mouseY + wiggleY); // anclaje del cuadrado al centro del mouse
-  image(bailarina, -100, -100, 180, 180);
-  angle -= 0.05;
-  pop(); 
-  } 
+    // anclaje del cuadrado al centro del mouse
+    translate(mouseX + wiggleX, mouseY + wiggleY);
+    image(bailarina, -100, -100, 180, 180);
+    angle -= 0.05;
+    pop();
+  }
 }
 
 function draw() {
@@ -47,12 +52,8 @@ function draw() {
   coolBailarina();
 }
 
-/* PUSH AND POP https://p5js.org/reference/#/p5/push 
-   aun no lo entiendo muy bien :( (YA ENTIENDO)
-   
-   MOUSEX, MOUSEY https://p5js.org/reference/#/p5/mouseX
-   
-   WIGGLE !!! 
-   
-   MouseMoved https://p5js.org/reference/#/p5/mouseMoved
-   */
+// PUSH AND POP https://p5js.org/reference/#/p5/push
+// aun no lo entiendo muy bien :( (YA ENTIENDO)
+// MOUSEX, MOUSEY https://p5js.org/reference/#/p5/mouseX
+// WIGGLE !!!
+// MouseMoved https://p5js.org/reference/#/p5/mouseMoved
