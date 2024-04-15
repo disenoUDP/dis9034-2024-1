@@ -5,7 +5,7 @@ Página para referencias de código    https://stackoverflow.com/
 
 PyPi es para buscar otros proyectos de codigo  https://pypi.org/project/protest/
 
-Google colab (código en python) para generar comentarios en __python__ se utiliza el __#__ espacio. Reemplazamos el __console log__ por __print__ 
+Google colab (código en python) para generar comentarios en __python__ se utiliza el __#__ espacio. Reemplazamos el __console log__ por __print__    https://colab.research.google.com/drive/1-8sV8UVeHKyZHZ1ZIa0CSccCnldITluV?hl=es#scrollTo=OxQzQ2gOb0Yb
 
 <img width="812" alt="Captura de pantalla 2024-04-15 a la(s) 17 03 04" src="https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/71647a8e-e0d4-441c-b919-42014e8d8fad">
 
