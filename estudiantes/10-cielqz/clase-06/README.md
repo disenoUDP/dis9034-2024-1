@@ -2,6 +2,7 @@
 [StackOverflow](https://stackoverflow.com/?newreg=3fdee68788994c058f8891165d998f9c)
 
 [Google Colab](https://colab.research.google.com/)
+[Colab Personal] (https://colab.research.google.com/drive/18WRB6sKaCQCYNK2Z5tbz-cz0IEyOCaYN?hl=es#scrollTo=YOFURhbVIeKq)
 
 '#' = Comentario
 
