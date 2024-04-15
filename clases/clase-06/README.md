@@ -18,5 +18,6 @@ lunes 15 abril 2024
 ##### !ffmpeg -i shoe.mp4 -filter_complex "[0:v]atadenoise[out_v]" -map "[out_v]" -map 0:a out.mp4 - el Google Colab identifica el video de ffmpeg.
 ##### el video aparecera como out y se podra descargar.
 
-https://colab.research.google.com/drive/13aP9gK1ar1aOcrKkszLNAiKUGRJ-4Zgn?authuser=1&hl=es#scrollTo=Yh0gAyZKeJSx
+https://colab.research.google.com/drive/13aP9gK1ar1aOcrKkszLNAiKUGRJ-4Zgn?usp=sharing
+
 
