@@ -1,41 +1,45 @@
 let foto = null;
+let luna = null;
+let moon = null;
+let lu = null;
+let mitad = null;
+let star = null;
+
 function preload() {
   //Imagen de saturno rosada sacada de internet
-  loadImage("/saturno.png");
+  foto = loadImage('saturno.png');
 
   //imagen de luna llena blanca sacada de internet
-  luna = loadImage("luna.png");
+  luna = loadImage('luna.png');
 
   //imagen de luna a la mitad sacada de internet
-  moon = loadImage("creciente.png");
+  moon = loadImage('creciente.png');
 
   //imagen de luna llena gris oscura sacada de internet
-  lu = loadImage("llena.png");
+  lu = loadImage('llena.png');
 
   //imagen de luna mitad oscuro sacada de int.
-  mitad = loadImage("mitad.png");
+  mitad = loadImage('mitad.png');
 
   //imagen de estrellas del fondo sacada de internet
-  star = loadImage("star.png");
+  star = loadImage('star.png');
+
+  //foto de una bola de disco color celeste estatica
+  cielo = loadImage('bol.png');
 }
 
 function setup() {
   //Fondo azul es de 1000 por 700 , La WEBGL permitió que todos los objetos pudieran rotar
   createCanvas(1000, 700, WEBGL);
-
-  //foto cargada de saturno estatica
-  foto = loadImage("saturno.png");
-
-  //foto de una bola de disco color celeste estatica
-  cielo = loadImage("bol.png");
 }
-//
+
 let value = 0;
+
 function draw() {
   //Color del fondo azul
   background(0, 0, 70);
 
-  //imagen de saturno de porte 200x200 reemplazando la flecha de mouse, puse -585  en mouseX para que este centrado el eje X y -440 mouseY para que este centrado en el eje Y. Referencia sacado en clase n.3 
+  //imagen de saturno de porte 200x200 reemplazando la flecha de mouse, puse -585  en mouseX para que este centrado el eje X y -440 mouseY para que este centrado en el eje Y. Referencia sacado en clase n.3
   image(foto, mouseX - 585, mouseY - 440, 200, 200);
 
   //estrellas de fondo al presionar boton izquierdo del mouse aparecen. https://p5js.org/es/reference/#/p5/mouseButton
@@ -59,16 +63,14 @@ function draw() {
 
   //Luna llena de porte 300 por 300 y la posición es de 190x190. La luna aparece cuando se apreta el botón izquierdo del ratón if mouseIsPressed y mouseButton. Referencia sacada de https://p5js.org/es/reference/#/p5/mouseButton
   if (mouseIsPressed === true)
-    if (mouseButton === LEFT) 
-      image(luna, 30, 60, 190, 190);
+    if (mouseButton === LEFT) image(luna, 30, 60, 190, 190);
 
   //Imagen mitad es la luna esta mitad luna y mitad negro esta rotando entorno a la bola de disco
   image(mitad, -390, 80, 110, 110);
 
   //lu imagen de luna llena mas oscura casi negra tiene un porte de 160x160, esta en el ejeX-400 y ejeY 70. Esta imagen aparece cuando se presiona la tecla izquierda del mouse gracias a if mousebutton left.
   if (mouseIsPressed === true)
-    if (mouseButton === LEFT) 
-      image(lu, -400, 70, 160, 160);
+    if (mouseButton === LEFT) image(lu, -400, 70, 160, 160);
 }
 // Filtro de bola de disco para que cambie el color a blanco y negro como el disco lcd soundsystem album (referencia de profe) Referencia de: https://p5js.org/es/reference/#/p5.Image/filter
 function mouseClicked() {
