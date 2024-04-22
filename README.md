@@ -82,14 +82,14 @@ durante el semestre abordaremos estos contenidos:
 | [03](clases/clase-03/) | 2024-03-25 | condicionales, funciones y pixeles |
 | [04](clases/clase-04/) | 2024-04-01 | preparación solemne                |
 | [05](clases/clase-05/) | 2024-04-08 | solemne 01 en clase                |
-| [06](clases/clase-06/) | 2024-04-15 | objetos y arreglos                 |
+| [06](clases/clase-06/) | 2024-04-15 | video e interactividad             |
 | [07](clases/clase-07/) | 2024-04-22 | audio e interactividad             |
-| [08](clases/clase-08/) | 2024-04-29 | video e interactividad             |
+| [08](clases/clase-08/) | 2024-04-29 | objetos y arreglos                 |
 | [09](clases/clase-09/) | 2024-05-13 | preparación solemne 02             |
 | [10](clases/clase-10/) | 2024-05-20 | solemne 02 en clase                |
-| [11](clases/clase-11/) | 2024-05-27 | documentación y manuales           |
-| [12](clases/clase-12/) | 2024-06-03 | MIDI y OpenSoundControl            |
-| [13](clases/clase-13/) | 2024-06-10 | documentación y manuales           |
+| [11](clases/clase-11/) | 2024-05-27 | MIDI y OpenSoundControl            |
+| [12](clases/clase-12/) | 2024-06-03 | documentación y manuales           |
+| [13](clases/clase-13/) | 2024-06-10 |                                    |
 | [14](clases/clase-14/) | 2024-06-17 | preparación examen                 |
 | [15](clases/clase-15/) | 2024-06-24 | examen en clase                    |
 
