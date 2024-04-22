@@ -5,6 +5,7 @@
 - [Limzy Kenneth](https://github.com/limzykenneth/quantize.limzykenneth.com)
 - [noc-book-2](www.github.com/nature-of-code/noc-book-2)
 - [Q](https://qianqian-ye.com/) :-)
+- [Apuntes](https://github.com/disenoUDP/dis9034-2024-1/tree/main/clases/clase-07#bibliograf%C3%ADa)
 
 # [Processing](https://processing.org/)
 #### · Sonido: [Bibliotecas](https://github.com/disenoUDP/dis9034-2024-1/tree/main/clases/clase-07#bibliotecas-y-lenguajes-de-sonido-digital)
@@ -20,6 +21,8 @@
 - .wav: waveform audio format desarrollado por microsoft
 - .mp3: nada :p
 
+Se determinan 12 notas en occidente pipipipi
+
 #### · [Referencias Processing](https://processing.org/reference/)
 - pan() = sonido stereo
 - play() = soundfile.play(rate) - reate = velecidad (1, 1.5, 2, etc)
@@ -28,9 +31,13 @@
 - [Ruido Blanco](https://github.com/disenoUDP/dis9034-2024-1/tree/main/clases/clase-07#ruido-blanco) y [oscilación](https://github.com/disenoUDP/dis9034-2024-1/tree/main/clases/clase-07#osciladores): disrupción de la presión atmosférica. Oscilador no estra nada pero sí sale sonido.
 - [Filtros](https://github.com/disenoUDP/dis9034-2024-1/tree/main/clases/clase-07#definici%C3%B3n-de-filtro-y-sabores-de-filtros): Efecto que modifica el audio original, creando uno nuevo dependiendo de la frecuencia. Filtro pasa bajo: lo que tenga frecuencia baja lo multiplica en uno y lo que sea más agudo le baja el volumen (no lo deja pasar) y sirve para simular que algo está lejos. ARP2600 fue un equipo capaz de manipular sonido con osciladores y filtros. :-)
 - Musique Concrete, Stockhausen, Pierre Schaeffer - Étudies de Bruits (1948): cortes de cintas de audio. The Beatles - Tomorrow Never Knows: cortes de cintas y grabaciones unidas, se le sube y baja el volumen aleatoriamente.
+- ADSR: Attack - Decay - Sustain - Release
+
+![adsr](https://github.com/cielqz/dis9034-2024-1/assets/163901464/06c864b3-7853-4460-be01-23e7a609aa36)
+
 
 #### Samples y buffers: 
-- [Roger Linn] En colaboración con la marca japonesa AKAI, crea una MPC, una especie de disco duro con 16 botones distribuidos en 4x4 para ser manipulada con una mano. Se considera la base del hip-hip, al mismo tiempo, varios instrumentos provienen de esta herramienta. No existe el concepto de notan o escala musical.
+- [Roger Linn] En colaboración con la marca japonesa AKAI, crea una MPC, una especie de disco duro con 16 botones distribuidos en 4x4 para ser manipulada con una mano. Se considera la base del hip-hop, al mismo tiempo, varios instrumentos provienen de esta herramienta. No existe el concepto de notan o escala musical.
 - [Critter and Guitari](www.critterandguitari.com)
 - [Oficina de sonido](www.instagram.com/oficina_de_sonido/) utiliza el código de [Bleep Labs](bleeplabs.com/devices/) para hacer su maquinita de cumbia :o
 - 
