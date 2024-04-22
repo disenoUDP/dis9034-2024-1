@@ -54,6 +54,12 @@ Referencias de librerías de processing: https://processing.org/reference/librar
 
 ***
 
+### Leve investigación
+
+Para el siguiente proyecto me gustaría centrarme en el "fenómeno Touhou" en Japón. Touhou project es una serie de juegos "danmaku" (bullet hell o cortina de balas) creado por la desarrolla doujin (similar a las pymes) Team Shangai Alice, cuyo unico miembro es ZUN. La presencia que tiene en el país dicha saga es enorme. La música original del juego se ha convertido en un referente y base para la creación de piezas musicales para muchos artistas, creando una variedad de "circulos" o grupos de música que trabajan distintos estílos de música, tales cómo el Bossa Nova, el Rock, el Jazz, etc.
+Para este trabajo me gustaría tener un enfoque en las variantes de eléctro, cuyas referencias se centran en el grupo de música japonesa ("Alstroemeria Records")[https://alst.net/] y el grupo alemán ("Frozen Starfall")[https://twitter.com/babbe0?lang=es]. Quisiera poder crear una pieza personal mediante la programación de un "instrumento" o "herramienta" que permita trabajar con esta mediante un teclado.
+
+***
 ### Links de interés 
 
 - https://strudel.cc/
@@ -71,7 +77,7 @@ Referencias de librerías de processing: https://processing.org/reference/librar
 <!---En mi cabeza: Estoy intentando continuar. Vine aunque no me sentía del todo bien en mis emociones. Otra vez tuve pensamientos de horribles. Al menos estar acá hoy me calma, de cierta forma. En este estado me cuesta interactuar con el resto. Prefiero mantenerme a raya
 ... Ahora, 16:51 me siento agotada y cansada, espero no haberme contagiado. Y no tengo ganas de llegar a ver taller.
 --->
-# REVISAR APUNTES DE LA CLASE PARA PROFUNDIZAR Y SUBIR CAPTURAS DEL PC
+# REVISAR (APUNTES DE LA CLASE)[https://github.com/Camila-Parada/dis9034-2024-1/blob/main/clases/clase-07/README.md] PARA PROFUNDIZAR Y SUBIR CAPTURAS DEL PC 
 
 ***
  ##### *°˖✧◝(⁰▿⁰)◜✧˖°*
