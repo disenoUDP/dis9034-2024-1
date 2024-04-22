@@ -28,4 +28,4 @@ algo que tiene la capacidad de oscilar, el sonido tiene la capacidad de oscilar
 ### teorías de envolventes AR y ASR
 
 ### trabajo experimentación sonora
-trabajo en conjunto con @jacinta000
+* trabajo en conjunto con @jacinta000
