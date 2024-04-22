@@ -5,9 +5,8 @@ let fotito;
 
 //Defino la imagen wiwi.jpg para cargarla en el proyecto
 function preload() {
-  fotito = loadImage("wiwi.jpg");
+  fotito = loadImage('wiwi.jpg');
 }
-
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
@@ -35,7 +34,7 @@ function draw() {
     frameRate(5);
   }
 
-//Utilizó push y pop para mantener el control de la acción específica que es que rote la imagen
+  //Utilizó push y pop para mantener el control de la acción específica que es que rote la imagen
   push();
 
   //Además hice una constante para que rote cada 10 milisegundos en el axis Z https://p5js.org/es/reference/#/p5/rotateZ
