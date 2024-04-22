@@ -21,3 +21,12 @@ proxima entrega solemne, estructura processing
  * pasabajos: analiza el sonido, permite el paso de sonidos bajo. destruye sonidos agudos.
 
  ** sampleo y buffer **
+
+ ejercicio con herramientas de analisis de audio
+ audioWaveForm---> visualizacion de la onda
+ ingresar archivos a data 
+ * 1: guardar como archivo ejercicio
+ * 2: copiar archivo que quiero ingresar a carpeta data
+ * 3: llamarlo en el codigo
+
+   
