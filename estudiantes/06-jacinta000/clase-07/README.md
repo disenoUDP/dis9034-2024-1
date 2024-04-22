@@ -29,4 +29,5 @@ proxima entrega solemne, estructura processing
  * 2: copiar archivo que quiero ingresar a carpeta data
  * 3: llamarlo en el codigo
 
-   
+
+trabajo de herramientas de analisis a la par con @daniellasarai
