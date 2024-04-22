@@ -4,6 +4,8 @@
 
 *_22.04.2024 clase 07_*
 
+clase principalmente sobre sonidos y música, software Processing, herramienta de sound y sus distintas variaciones y ejemplos. Conocimos artistas, tecnología, etc, relacionados al mundo de la música mediante el código.
+
 ---
 
 # apuntes
