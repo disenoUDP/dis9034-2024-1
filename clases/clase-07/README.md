@@ -269,8 +269,10 @@ más referencias usadas en esta clase:
 
 - <https://github.com/disenoUChile/audiv020-2022-2>
 - <https://github.com/sinestesiacc/2023-2-programa-medios-interactivos>
+- <https://en.wikipedia.org/wiki/Holly_Herndon>
 - <https://tidalcycles.org/>
 - <https://strudel.cc/>
+- <https://www.claudiagonzalez.cl/>
 - <http://misaa.cc/>
 - <https://error404.cl/>
 - <https://felipeweason.cl/>
@@ -279,3 +281,4 @@ más referencias usadas en esta clase:
 - <https://es.wikipedia.org/wiki/M%C3%B3nica_Bate>
 - <https://www.instagram.com/flordefuega>
 - <https://www.instagram.com/hypereikon/>
+- <https://semilla.ai/>
