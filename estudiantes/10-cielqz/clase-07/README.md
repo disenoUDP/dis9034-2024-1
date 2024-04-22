@@ -9,7 +9,21 @@
 # [Processing](https://processing.org/)
 #### · Sonido: [Bibliotecas](https://github.com/disenoUDP/dis9034-2024-1/tree/main/clases/clase-07#bibliotecas-y-lenguajes-de-sonido-digital)
 - [strudel](https://strudel.cc/)
-- (cmnd + space = buscador) > processing.app > gestionar modos > contribution manager > libraries > [sound](https://processing.org/reference/libraries/sound/index.html) > instalar
+- (cmnd + space = buscador)
+> processing.app > gestionar modos > contribution manager > libraries > [sound](https://processing.org/reference/libraries/sound/index.html) > instalar
+>
+> archivo > ejemplos > sonido.
+>
+> sketch > añadir archivo >
+
+- .aif: audio interchange file format de archivo de audio de alta calidad desarrollado por apple
+- .wav: waveform audio format desarrollado por microsoft
+- .mp3: nada :p
+
+#### · [Referencias Processing](https://processing.org/reference/)
+- pan() = sonido stereo
+- play() = soundfile.play(rate) - reate = velecidad (1, 1.5, 2, etc)
+---------
 - [Análisis de Fourier](https://github.com/disenoUDP/dis9034-2024-1/tree/main/clases/clase-07#an%C3%A1lisis-de-fourier): Estudio de ondas graficables x(t) y descomponerla como suma de [ondas sinuosidales](https://github.com/disenoUDP/dis9034-2024-1/tree/main/clases/clase-07#ondas-sinusoidales) (frecuencia de amplitud constante). Teniendo control de estas, se puede construir cualquier sonido. :-)
 - [Ruido Blanco](https://github.com/disenoUDP/dis9034-2024-1/tree/main/clases/clase-07#ruido-blanco) y [oscilación](https://github.com/disenoUDP/dis9034-2024-1/tree/main/clases/clase-07#osciladores): disrupción de la presión atmosférica. Oscilador no estra nada pero sí sale sonido.
 - [Filtros](https://github.com/disenoUDP/dis9034-2024-1/tree/main/clases/clase-07#definici%C3%B3n-de-filtro-y-sabores-de-filtros): Efecto que modifica el audio original, creando uno nuevo dependiendo de la frecuencia. Filtro pasa bajo: lo que tenga frecuencia baja lo multiplica en uno y lo que sea más agudo le baja el volumen (no lo deja pasar) y sirve para simular que algo está lejos. ARP2600 fue un equipo capaz de manipular sonido con osciladores y filtros. :-)
