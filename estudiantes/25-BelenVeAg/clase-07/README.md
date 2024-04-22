@@ -1,5 +1,4 @@
 # clase-07
-
 Vamos a hacer algo tipo portafolio para la solemne 2 y exámen. (Revizar apuntes de hoy).
 
 Vamos a ver herramientas de audio. Tenemos que investigar personalmente los contenidos 
@@ -85,6 +84,28 @@ Processing-> documentation-> documentation-> "core"-> sound
 ADSR:
 
 ¿Qué es la música para nostros? ¿Quiero integrarla a mi solemne?
+
+Links de la bibliografía que me gustaron:
+
+Fox Dot
+  -
+https://foxdot.org
+
+fox dot: puedo hacer ritmos, melodias y tiempo con código, funciona con python, parece que es difícil de descargar. Para que funcione antes hay que descargar: all you need is Python and SuperCollider and you're ready to go!
+
+Mozzi
+  -
+https://sensorium.github.io/Mozzi/
+
+Trabaja con arduino, su función es programar para generar mayor variedad de sonidos en el arduino.
+
+El p5 ver en casa pq esta caído https://github.com/processing/p5.js-sound
+
+Biblioteca de recursos y más info sobre lo que estamos viendo
+  -
+https://github.com/disenoUChile/audiv020-2022-2
+
+
 
 
 
