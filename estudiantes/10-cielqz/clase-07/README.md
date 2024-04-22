@@ -40,4 +40,7 @@ Se determinan 12 notas en occidente pipipipi
 - [Roger Linn] En colaboración con la marca japonesa AKAI, crea una MPC, una especie de disco duro con 16 botones distribuidos en 4x4 para ser manipulada con una mano. Se considera la base del hip-hop, al mismo tiempo, varios instrumentos provienen de esta herramienta. No existe el concepto de notan o escala musical.
 - [Critter and Guitari](www.critterandguitari.com)
 - [Oficina de sonido](www.instagram.com/oficina_de_sonido/) utiliza el código de [Bleep Labs](bleeplabs.com/devices/) para hacer su maquinita de cumbia :o
-- 
+
+### Explorarión
+- Examples > sound > soundfile > keyboard = This example shows how to make a simple keyboard-triggered sampler with the Sound library. In this sketch 5 different short samples are loaded and played back at different speeds, which also changes their perceived pitch by one or two octaves.
+- Examples > sound > soundfile > simpleplayback = This is a simple sound file player. Use the mouse position to control playback speed, amplitude and stereo panning.
