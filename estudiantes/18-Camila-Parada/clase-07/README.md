@@ -56,8 +56,13 @@ Referencias de librerías de processing: https://processing.org/reference/librar
 
 ### Leve investigación
 
-Para el siguiente proyecto me gustaría centrarme en el "fenómeno Touhou" en Japón. Touhou project es una serie de juegos "danmaku" (bullet hell o cortina de balas) creado por la desarrolla doujin (similar a las pymes) Team Shangai Alice, cuyo unico miembro es ZUN. La presencia que tiene en el país dicha saga es enorme. La música original del juego se ha convertido en un referente y base para la creación de piezas musicales para muchos artistas, creando una variedad de "circulos" o grupos de música que trabajan distintos estílos de música, tales cómo el Bossa Nova, el Rock, el Jazz, etc.
-Para este trabajo me gustaría tener un enfoque en las variantes de eléctro, cuyas referencias se centran en el grupo de música japonesa ("Alstroemeria Records")[https://alst.net/] y el grupo alemán ("Frozen Starfall")[https://twitter.com/babbe0?lang=es]. Quisiera poder crear una pieza personal mediante la programación de un "instrumento" o "herramienta" que permita trabajar con esta mediante un teclado.
+Para el siguiente proyecto me gustaría centrarme en el "fenómeno Touhou" en Japón. Touhou project es una serie de juegos "danmaku" (bullet hell o cortina de balas) creado por la desarrolla doujin (similar a las pymes) ["Team Shangai Alice"](https://es.wikipedia.org/wiki/Team_Shanghai_Alice), cuyo unico miembro es [ZUN](https://es.wikipedia.org/wiki/ZUN). La presencia que tiene en el país dicha saga es enorme, puesto que existe mucho contenido como juegos hechos por fans, arte visual, figuras y merch, etc. La música no es la excepción, las melodías originales del juego se han convertido en un referente y base para la creación de nuevas piezas para muchos artistas, creando una variedad de "circulos" o grupos de música que trabajan distintos estílos de música, tales cómo el Bossa Nova, el Rock, el Jazz, etc.
+Para este trabajo me gustaría tener un enfoque en las variantes de eléctro, cuyas referencias se centran en el grupo de música japonesa ["Alstroemeria Records"](https://alst.net/) y el grupo alemán ["Frozen Starfall"](https://twitter.com/babbe0?lang=es). Quisiera poder crear una pieza personal mediante la programación de un "instrumento" o "herramienta" que permita trabajar con esta mediante un teclado.
+
+<br>
+
+Un blog en inglés que habla del tema:
+https://www.quora.com/Music-What-are-touhou-songs-and-what-makes-them-special
 
 ***
 ### Links de interés 
