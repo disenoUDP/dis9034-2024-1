@@ -1,5 +1,6 @@
 # clase-07
 ### EL SONIDO 🎶🎧 🎷 🎸‬ 🌟
+###### _LUNES 22/04/2024_
 ![animaleatdrums](https://github.com/Camilarg7/dis9034-2024-1/assets/163043831/2ef0d9d6-2337-4b71-87ee-2e81d11f05f9)
 ---
 
