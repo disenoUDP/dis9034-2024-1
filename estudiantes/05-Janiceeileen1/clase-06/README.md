@@ -1,4 +1,6 @@
 # clase-06
+![perritoabrazandounaalmohada](https://github.com/Janiceeileen1/dis9034-2024-1/assets/163899952/dbb092f8-f736-42e8-8e49-eee605c3c35c)
+
 ### una clase triste
 Exploramos el programa FFmpeg, usando los distintos filtros quwe trae 
 Usé varios filtros, como lo es el v360, colorkey, sin embargo el programa se cayó y se borró todo :(
