@@ -23,4 +23,7 @@
 - Github [MoMA](https://github.com/MuseumofModernArt)
 - [MediPipe](developers.google.com/mediapipe)
 - [Ejemplos Clase 08](https://github.com/cielqz/dis9034-2024-1/tree/main/clases/clase-08)
-- 
+- [sravyab36](https://sravyab36.github.io/clmTracker-Mask/)
+- [akkaa949](https://editor.p5js.org/akkaa949/sketches/9-HL4yNqE) [expropiado](https://editor.p5js.org/cielqz/sketches/3A15YOsrp): https://editor.p5js.org/akkaa949/sketches/KW4fJw0aD
+- [hswang](https://editor.p5js.org/hswang/sketches/oQKLW2b2_)
+- [makio135](https://editor.p5js.org/makio135/sketches/6I6ZCBkx4) perrito
