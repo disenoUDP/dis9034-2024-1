@@ -38,6 +38,9 @@ En el editor cortamos la info en el script y la pegamos en el sketch
 
 Ejemplo: https://editor.p5js.org/makio135/sketches/6I6ZCBkx4
 
+El ejercicio fail
+<iframe src="https://editor.p5js.org/BelenVeAg/full/9xoT5pM96"></iframe>
+
 Referente nuevo: Lingdong Huang: Crea lenguajes de programación enteros. 
 
 Su portafolio está en: https://editor.p5js.org/lingdong/sketches
