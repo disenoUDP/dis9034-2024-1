@@ -20,4 +20,7 @@
 - [hamedb89](https://codepen.io/hamedb89/pen/ZKyzwL)
 - [Lingdong Huang](lingdong.works), [p5.js](https://editor.p5js.org/lingdong/sketches/), [MIT](https://www.media.mit.edu/people/lingdong/overview/), es jungkook de la programación!!
 - [Glitch](glitch.com)
+- Github [MoMA](https://github.com/MuseumofModernArt)
+- [MediPipe](developers.google.com/mediapipe)
+- [Ejemplos Clase 08](https://github.com/cielqz/dis9034-2024-1/tree/main/clases/clase-08)
 - 
