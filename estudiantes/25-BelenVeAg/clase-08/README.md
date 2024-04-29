@@ -46,3 +46,6 @@ y tmb en glitch https://glitch.com/
 
 Vimos ejemplos de programación: https://www.media.mit.edu/projects/finger-talk/overview/
 
+enrique riveraa: nuevo director del mim en áreas de programación, nuevo museo miau en chile, basado en el museum of modern art (tienen un github)
+https://github.com/MuseumofModernArt/collection
+
