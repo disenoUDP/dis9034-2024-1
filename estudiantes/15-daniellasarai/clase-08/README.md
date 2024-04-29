@@ -1,3 +1,4 @@
 # clase-08
 ### Lingdong Huang: buscar sketches p5js
-### p5MediaPipe crear un forked
+### p5MediaPipe: crear un forked
+### Descargar y modificar algo de p5MediaPipe forked
