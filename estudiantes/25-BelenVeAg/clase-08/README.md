@@ -52,3 +52,4 @@ Vimos ejemplos de programación: https://www.media.mit.edu/projects/finger-talk/
 enrique riveraa: nuevo director del mim en áreas de programación, nuevo museo miau en chile, basado en el museum of modern art (tienen un github)
 https://github.com/MuseumofModernArt/collection
 
+Entonces, lo que hay que hacer es evaluar estos códigos dep5mediapipe y analizar qué sirve para qué para hacer futuras modificaciones
