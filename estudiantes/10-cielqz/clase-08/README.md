@@ -18,4 +18,6 @@
 ### ejemplos
 - [Kadoshita](https://kadoshita.github.io/ClmtrackrSample/)
 - [hamedb89](https://codepen.io/hamedb89/pen/ZKyzwL)
+- [Lingdong Huang](lingdong.works), [p5.js](https://editor.p5js.org/lingdong/sketches/), [MIT](https://www.media.mit.edu/people/lingdong/overview/), es jungkook de la programación!!
+- [Glitch](glitch.com)
 - 
