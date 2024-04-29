@@ -13,3 +13,9 @@
 - Entre body y main se agrega el código [video](https://github.com/auduno/clmtrackr/blob/dev/README.md#usage)
 - En "source src=" agregar enlace de [video](https://www.auduno.com/clmtrackr/examples/media/franck.mp4)
 - Código "var videoInput" se mueve de .html a .js línea 1
+- falta ingresar variables :-)
+
+### ejemplos
+- [Kadoshita](https://kadoshita.github.io/ClmtrackrSample/)
+- [hamedb89](https://codepen.io/hamedb89/pen/ZKyzwL)
+- 
