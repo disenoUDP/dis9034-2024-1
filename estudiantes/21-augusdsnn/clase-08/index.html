@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  /* clmtrackr libraries */
+<script src="js/clmtrackr.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    
+    <video id="inputVideo" width="400" height="300" autoplay loop>
+  <source src="https://www.auduno.com/clmtrackr/examples/media/franck.mp4" type="video/ogg"/>
+</video>
+<script type="text/javascript">
+  var videoInput = document.getElementById('inputVideo');
+  
+  var ctracker = new clm.tracker();
+  ctracker.init();
+  ctracker.start(videoInput);
+</script>
+    
+    <main>
+    </main>
+    <script src="sketch.js"></script>
+  </body>
+</html>
