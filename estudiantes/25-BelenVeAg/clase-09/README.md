@@ -44,6 +44,8 @@ La S que vemos al anteponer un código de sonido es una función para reproducir
 
 Biblioteca de VCL, confirmado que se puede: https://github.com/sgossner/VCSL
 
+Esta no sé de dónde la saqué https://github.com/geikha/tidal-drum-machines
+
 # Cómo moverme en el programa
 
 Primero en https://strudel.cc/ ir al menú derecho-> patterns-> user-> new (para crear un nuevo código)
