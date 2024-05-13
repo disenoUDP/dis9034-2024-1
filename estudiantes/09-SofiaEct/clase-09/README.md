@@ -11,7 +11,7 @@ _las referencias utilizadas fueron sacdas del canal del youtube_ ___"the coding 
 
 __idea__: reproduccion de video en _processing/p5.js_, al hacer click el video se pone en reverse y viceversa.
 
-para familiarizarme con _processing_ antes que todo queria poaprender como subir un archivo.jpg/jpeg y editarlo desde ahi, fue muy complicado para mi, pero fue todo un exito, copie el codigo de _"the coding train"_ para generar una prueba de movimiento y color con la imagen.
+para familiarizarme con _processing_ antes que todo queria aprender como subir un archivo.jpg/jpeg y editarlo desde ahi, fue muy complicado para mi, pero fue todo un exito, copie el codigo de _"the coding train"_ para generar una prueba de movimiento y color con la imagen.
 
 ``` javascript
 PImage mwah;
@@ -28,6 +28,10 @@ void draw() {
 }
 ```
 (_"mwah"_ es el nombre de mi imagen)
+
+https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/16c76891-e0cc-4069-a31d-cdd06838a2c0
+
+
 
 primero busque como poder subir un video y reproducirlo en _processing_, e instale una biblioteca del programa llamada _video_ que es de __processing foundation__.
 
