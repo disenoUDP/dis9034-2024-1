@@ -12,3 +12,5 @@
 * [assiiArt](https://www.tetoki.eu/asciiart/)
 * [createLoopP5](https://www.npmjs.com/package/p5.createloop)
 * [p5Glitch](https://p5.glitch.me/)
+* [p5Sound](https://p5js.org/es/reference/#/libraries/p5.sound)
+> Investigaré dentro de las referencias presentes para lograr lo que quiero hacer
