@@ -46,6 +46,10 @@ Biblioteca de VCL, confirmado que se puede: https://github.com/sgossner/VCSL
 
 # Cómo moverme en el programa
 
+Primero en https://strudel.cc/ ir al menú derecho-> patterns-> user-> new (para crear un nuevo código)
+
+Para poner un sonido usar la sintaxis: s ("nombre fuente sonora").n(número de la biblioteca)
+
 En la barra izquierda de strudel click en sounds-> samples y hay una gran biblioteca de sonidos que no son instrumentos
 <img width="784" alt="Captura de pantalla 2024-05-13 a la(s) 16 49 27" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/b39cb9da-d2d5-4fac-907a-3488e50949d7">
 
@@ -55,10 +59,15 @@ samples({
 
 <img width="776" alt="Captura de pantalla 2024-05-13 a la(s) 16 54 24" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/f5b7263c-7e64-4ac2-8de0-948a7fdc31d8">
 
-# Cómo hacer mi melodía
+
+# Cómo se hace mi melodía
 
 Primero en https://strudel.cc/ ir al menú derecho-> patterns-> user-> new (para crear un nuevo código)
 
+Segundo
 
+Código que tengo hasta ahora:
+
+s ("crow").n(0)
 
 
