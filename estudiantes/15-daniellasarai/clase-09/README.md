@@ -4,5 +4,5 @@
 * Una web donde se pueda dibujar y que al mismo tiempo que se dibuje con el mouse en la pantalla, este genere un sonido de frecuencias
 * 
 > referencias de lingdong hung
-* [animationSpringDrawing] (https://editor.p5js.org/lingdong/sketches/R2WikUz_C)
+* [animationSpringDrawing](https://editor.p5js.org/lingdong/sketches/R2WikUz_C)
 * 
