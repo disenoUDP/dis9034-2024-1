@@ -14,3 +14,5 @@
 * [p5Glitch](https://p5.glitch.me/)
 * [p5Sound](https://p5js.org/es/reference/#/libraries/p5.sound)
 > Investigaré dentro de las referencias presentes para lograr lo que quiero hacer
+### Referencias sonido P5
+* [triggerRelease](https://p5js.org/es/reference/#/p5.Envelope/triggerRelease)
