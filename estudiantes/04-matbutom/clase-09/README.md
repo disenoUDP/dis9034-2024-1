@@ -52,7 +52,7 @@ luego tocó insertar la siguiente línea de código en la carpeta del editor `in
 
 *ACTUALIZACIÓN 13.05.2024 17:30*
 
-acabo de descubrir que la función de la librería nos ayuda a la separación de colores para la impresión risográfica, es una función muy buena, que nos ayuda a acortar la pega de la turtuosa separación de colores.
+acabo de descubrir que la función de la librería nos ayuda a la separación de colores para la impresión risográfica, es una función muy buena, que nos ayuda a acortar la pega de la turtuosa separación de colores. Lo que no me ayuda mucho ya que yo pensaba que esta librería nos crearía imágenes con una especie de simulación de textura de impresión risográfica, lo que no hace :(
 
 ```
 AHORA NO SÉ QUÉ HACER VOY A SEGUIR INVESTIGANDO
