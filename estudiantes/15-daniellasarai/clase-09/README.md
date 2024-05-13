@@ -8,7 +8,7 @@
 ### Referencias de lingdong hung
 * [animationSpringDrawing](https://editor.p5js.org/lingdong/sketches/R2WikUz_C)
 * [animationNode](https://editor.p5js.org/lingdong/sketches/xIELTdGwE)
-### Referencias Biblioteca P5
+### [Referencias Biblioteca P5](https://p5js.org/es/libraries/)
 * [assiiArt](https://www.tetoki.eu/asciiart/)
 * [createLoopP5](https://www.npmjs.com/package/p5.createloop)
 * [p5Glitch](https://p5.glitch.me/)
