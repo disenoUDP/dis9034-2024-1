@@ -19,5 +19,14 @@ https://p5js.org/reference/#/p5/soundFormats Primera posible interacción con el
 
 https://github.com/Mosswhosmoss/dis9034-2024-1/assets/168484044/b9078d0b-443a-4511-b95c-2b6ffec2f757
 
+Cambie el sonido por el boom vine sound effect
+
+Ahora voy a empezar a agregarle imagenes y que cambien con la posicion de donde el cursor se encuentra al hacer click
+
+posible uso de tutorial para las imagenes https://youtu.be/i2C1hrJMwz0?feature=shared, https://youtu.be/hxjEl-pun7o?feature=shared, 
+
+tutorial de la variable random https://youtu.be/nfmV2kuQKwA?feature=shared
+
+p5.js: https://editor.p5js.org/Mosswhosmoss/sketches/oEyUK8WRX
 
 
