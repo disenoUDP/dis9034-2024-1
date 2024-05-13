@@ -7,6 +7,7 @@ api: application progaming interfaces, manera de uteractuar con el programa.
 _las referencias utilizadas fueron sacdas del canal del youtube_ ___"the coding train"___
 - 10.1: intro to images processing tutorial  → https://youtu.be/-f0WEitGmiw?si=unU45Y5vxbqkgBQ6
 - 11.1: capture and live video  →  https://youtu.be/WH31daSj4nc?si=3VI0VUCymvq0QYxr
+- 11.2: uso del objeto de película para mostrar vídeos grabados tutorial de processing  →  https://www.youtube.com/watch?v=nJWV7X7df9w
 
 __idea__: reproduccion de video en _processing/p5.js_, al hacer click el video se pone en reverse y viceversa.
 
@@ -26,6 +27,7 @@ void draw() {
   image(mwah, 0, 0, mouseX, mouseY);  
 }
 ```
+(_"mwah"_ es el nombre de mi imagen)
 
 primero busque como poder subir un video y reproducirlo en _processing_, e instale una biblioteca del programa llamada _video_ que es de __processing foundation__.
 
@@ -52,11 +54,30 @@ void draw() {
 }
 ```
 
-pero tuve errore debido al computador en el que estoy trabajando, por lo que no me permitio la grabacion.
-
-probe lo que seria la exportacion de un video a _processing_ y fue ¡todo un exito!
-
+pero tuve errores debido al computador en el que estoy trabajando, por lo que no me permitio la grabacion.
 
 <img width="594" alt="Captura de pantalla 2024-05-13 a la(s) 16 18 44" src="https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/b04803be-858e-4136-b6f6-4c1712c20c07">
 
 el _"Internal data stream error"_ es un error del sistema de computador que no permite ejecutar los archivos, en este caso los que estoy trabajando, por lo que decidi continuar con otras pruebas.
+
+probe lo que seria la exportacion de un video a _processing_ y fue ¡todo un exito! no es muy diferente a la exportacion de imagenes.
+
+``` javascript
+import processing.video.*;
+
+Movie video;
+
+void setup() {
+  size(600, 400);
+  video = new Movie(this, "evilcat.mp4");
+  video.loop();
+}
+
+void movieEvent(Movie video) {
+  video.read();
+}
+
+void draw() {
+  image(video, 0, 0);
+}
+```
