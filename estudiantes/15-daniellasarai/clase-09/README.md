@@ -1,5 +1,5 @@
 # clase-09
-## proceso solemne 02
+## Proceso Solemne 02
 > trabajaré desde el programa p5js
 ### Quiero hacer una página que tenga los elementos de sonido, animación y color
 > opciones para la solemne
