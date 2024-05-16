@@ -36,3 +36,32 @@ la pauta es:
 - variables y archivos sin espacios, en camelCase o notación camello.
 - los comentarios se escriben en la línea de arriba del código
 - los comentarios se escriben en español
+
+```js
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  frameRate(5);
+}
+
+function draw() {
+  background(255, 5*255/100);
+  stroke(255);
+  
+  
+  push();
+  translate(random(width), random(height));
+  rotate(random(0, 2*Math.PI));
+  textSize(random(10, 100));
+  text(":)", 0, 0);
+  pop();
+  
+   push();
+  translate(random(width), random(height));
+  rotate(random(0, 2*Math.PI));
+  textSize(random(10, 100));
+  text("ustedes pueden!", 0, 0);
+  pop();
+  
+  
+}
+```
