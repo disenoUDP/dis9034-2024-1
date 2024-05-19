@@ -1,7 +1,7 @@
 # clase-09
 Probé algunas cosas en processing 
-referentes: https://happycoding.io/tutorials/processing/images/glitch-lines para decontruir una imagen y agregarle sonido mientras se decontruye la imagen 
-Probé algunas ideas de imagen en processing : 
+referentes: https://happycoding.io/tutorials/processing/images/glitch-lines para deconstruir una imagen y agregarle sonido mientras eso pasa.
+-Probé algunas ideas de imagen en processing : 
 PImage img;
 float offset = 0;
 float easing = 0.05;
