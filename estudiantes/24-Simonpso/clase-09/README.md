@@ -27,4 +27,11 @@ function setup() {
   sprite.color = 'black';
 sprite.stroke = 'white';
 }
-#####
+##### aplique gavedad al codigo, basado en lo que p5play enseña
+##### world.gravity.y = 10; sirve para aplicar la gravedad al juego y asi el sprite no queda en el aire 
+##### floor = new Sprite(); genera el piso donde va a caer el sprite y con el que va a interacctuar cuando se corra el juego
+	floor.y = 600; //sirve para calcular a que altura del fondo quedaria y determine que quede debajo del sprite principal
+	floor.w = 900; //sive para determinar cual va a ser la medida del piso en e x
+	floor.h = 5; // Sirve para determinar el grosor del piso en el juego
+	floor.collider = 'static'; //para determinar si el piso reacciona a la colicion con el sprite
+ 
