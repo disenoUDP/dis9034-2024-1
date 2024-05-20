@@ -1,8 +1,7 @@
 # clase-09
 
-
 API: Interfaz de programación de aplicaciones
-Reglas definidas que permiten que diferentes aplicaciones se comuniquen entre sí. 
+Reglas definidas que permiten que diferentes aplicaciones se comuniquen entre sí.
 
 Actúa como una capa intermedia que procesa las transferencias de datos entre sistemas.
 
