@@ -1,6 +1,6 @@
 # clase-09
 
-api: application progaming interfaces, manera de uteractuar con el programa.
+api: application progaming interfaces, manera de interactuar con el programa.
 
 # _solemne_02_
 
@@ -85,3 +85,5 @@ void draw() {
   image(video, 0, 0);
 }
 ```
+despues de procesar mejor lo que queria hacer para esta solemne, lo que se me ocurrio fue hacer un tipo de instrumento utilizando el codigo + el teclado, seguire intentado en _processing_.
+
