@@ -90,6 +90,9 @@ src(s0).out()
 Las conexiones a veces tardan unos segundos en establecerse; Abra la consola del navegador para ver el progreso. Para enumerar las fuentes disponibles, escriba lo siguiente en la consola:
 pb.list()
 
+
+Informaciòn traducida desde: https://github.com/hydra-synth/hydra 
+
 ## Ejemplo de práctica de hoy 13/05/2024
 
 ```javascript
