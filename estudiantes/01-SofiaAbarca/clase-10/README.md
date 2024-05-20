@@ -1,5 +1,5 @@
 # clase-10
-Para la solemne quise trabajar con Processing y sus bibliotecas. Me interesaba hacer algo interactivo que tuviera tanto imágenes como sonido.
+Para la solemne quise trabajar con Processing y sus bibliotecas. Me interesaba hacer algo interactivo que tuviera tanto imágenes como sonido. También me gustan mucho los gatos así que, al igual que la Solemne anterior, quise trabajar con uno.
 
 Vi este ejemplo en las referencias:
 https://processing.org/examples/mousefunctions.html
@@ -40,7 +40,7 @@ En el video de The Coding Train se mencionaba cómo una imagen funciona casi igu
    ![image](https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/27ceab8c-0211-4017-8c83-2f837c3b09f7)
 
 
-2) Precargué la foto en setup
+2) Precargué la foto en setup https://processing.org/reference/loadImage_.html
    
    ![image](https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/cbd77e92-2680-441d-aaf7-e058b4dce2d4)
 
@@ -91,11 +91,11 @@ Con este código cada vez que hago click suena un sonido de gota de agua que des
 Ahora tocaba intentar que al soltar la imagen del gato hiciera el sonido, así que nuevamente hice otro sketch para practicar. 
 
 
-1) Copié el código del gato que se puede arrastrar
+1) Copié el código del gato que se puede arrastrar.
   
 
 
-2) Le Importe la biblioteca de sonido e hice la variable del sonido
+2) Le Importe la biblioteca de sonido de Processing y el reproductor que permite manipular archivos de audio. https://processing.org/reference/libraries/sound/SoundFile.html
 
 ![image](https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/99257539-14cf-49c9-80fb-b6d232698420)
 
@@ -135,4 +135,12 @@ Ahora me falta añadir sonido a este último sketch
 
 1)
 
+   ![image](https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/d210203f-b40d-4faa-8179-257a0feab8c2)
 
+2)
+
+  ![image](https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/50c1fc06-cbf4-45f8-b278-31ba80d9e382)
+
+3)
+
+  ![image](https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/8b8d4209-c48d-4ac4-b04f-03d5a9fa149d)
