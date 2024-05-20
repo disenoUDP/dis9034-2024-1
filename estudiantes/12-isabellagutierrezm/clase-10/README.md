@@ -65,10 +65,10 @@ tenemos nuestra primera linea con relleno
 
 ![circulo Completo p5js (1)](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/b42c0de1-57ba-425e-9b80-018d1f72298e)!
 
-## LinkS del proyecto
-Loading sound: [
+## Referencias del proyecto
+- Loading sound: [
 ](https://www.youtube.com/watch?v=Pn1g1wjxl_0&t=300s)
-Amplitud de onda: [
+- Amplitud de onda: [
 ](https://www.youtube.com/watch?v=jEwAMgcCgOA&t=482s)
-Configuración de mouse: [
+- Configuración de mouse: [
 ](https://www.youtube.com/watch?v=YcezEwOXun4)
