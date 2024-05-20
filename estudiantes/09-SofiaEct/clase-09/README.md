@@ -87,3 +87,6 @@ void draw() {
 ```
 
 despues de procesar mejor lo que queria hacer para esta solemne, lo que se me ocurrio fue hacer un tipo de instrumento utilizando el codigo + el teclado, seguire intentado en _processing_.
+
+
+https://editor.p5js.org/SofiaEct/sketches/S7keAZ73Jo
