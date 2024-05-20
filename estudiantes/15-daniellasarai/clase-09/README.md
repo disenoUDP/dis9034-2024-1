@@ -16,6 +16,7 @@
 > Investigaré dentro de las referencias presentes para lograr lo que quiero hacer
 ### Referencias sonido P5
 * [triggerRelease](https://p5js.org/es/reference/#/p5.Envelope/triggerRelease)
+* [analyze](https://p5js.org/reference/#/p5.FFT/analyze)
 ### Referencias de Búsqueda
 * [flickeringLines](https://editor.p5js.org/chaski/sketches/IlIKtwLfn)
 * [soundReactive](https://editor.p5js.org/saebin.park/sketches/ISkiuysH-)
