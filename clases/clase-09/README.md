@@ -4,7 +4,7 @@ lunes 13 mayo 2024
 
 instrucciones solemne:
 
-- se termina hoy
+- se empieza hoy
 - se entrega el lunes 20 mayo 2024, hasta las 5:20pm, vía GitHub, en tu fork
 - si hay un commit posterior, no se tomará en cuenta
 - el proyecto es individual
@@ -44,24 +44,21 @@ function setup() {
 }
 
 function draw() {
-  background(255, 5*255/100);
+  background(255, (5 * 255) / 100);
   stroke(255);
-  
-  
+
   push();
   translate(random(width), random(height));
-  rotate(random(0, 2*Math.PI));
+  rotate(random(0, 2 * Math.PI));
   textSize(random(10, 100));
-  text(":)", 0, 0);
+  text(':)', 0, 0);
   pop();
-  
-   push();
+
+  push();
   translate(random(width), random(height));
-  rotate(random(0, 2*Math.PI));
+  rotate(random(0, 2 * Math.PI));
   textSize(random(10, 100));
-  text("ustedes pueden!", 0, 0);
+  text('ustedes pueden!', 0, 0);
   pop();
-  
-  
 }
 ```
