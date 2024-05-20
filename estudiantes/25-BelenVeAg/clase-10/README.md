@@ -127,11 +127,13 @@ s(xxx),
 s(xxx)
 )
 ~~~
-**3: Subir un sonido/contenido de mi biblioteca:** No especifica en qué formato es el que me permite subir, intente con wav y mp3 y ninguno me funcionó. 
+**3: Subir un sonido/contenido de mi biblioteca:** No especifica en qué formato es el que me permite subir, intente con wav y mp3 y ninguno me funcionó. Queda pendiente aprender eso.
 
 **4: Descargar un link con mi código:** Me descargué como 3 links según iba avanzando y en mi computador sí abría mi código, PERO al abrirlo ahora en el compu de la u me abrieron diferentes códigos predeterminados de strudel. En un minuto dado me dio este link que es un link dentro de un link?: <https://strudel.cc/?EuJ49HwytEp_)[https://strudel.cc/?Wam4Rj4DbY-r](https://strudel.cc/?EuJ49HwytEp_>
 
 Observación importante, uno de los links que eestaban dentro de ese gran link sí funcionaba, a diferencia de otro que intenté antes, pero que me mandaba a cualquier lado. El que es válido es: <https://strudel.cc/?EuJ49HwytEp_>
+
+Otra observación: El link feo aparece cuando quiero reemplazar uno de los links ya existentes con uno nuevo, para que no ocurra hay que borrar el viejo y luego pegar el nuevo.
 
 ## Cómo se hace mi melodía
 Link: <https://strudel.cc/?TD4vbgZeqPYr>
