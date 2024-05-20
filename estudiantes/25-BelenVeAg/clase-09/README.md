@@ -40,9 +40,15 @@ y el Workshop de strudel: https://www.youtube.com/watch?v=oqyAJ4WeKoU
 
 La "s" que vemos al anteponer en el código es de "sonido", es una función para definir un sonido y reproducirlo: s function to play back different default samples (bd, sd, hh and misc) to get a drum beat.
 
-Por lo tanto, para poner un sonido usar la sintaxis: **s ("nombre sonido").n(número de la biblioteca)**
+Por lo tanto, para poner un sonido usar la sintaxis: 
+~~~
+s("nombre sonido").n(número de la biblioteca)
+~~~
 
-Otra forma de sintaxis para poner 1 o más sonidos: **s ("nombre sonido1:nº biblioteca nombre sonido2:nº bi").n(número de la biblioteca)**
+Otra forma de sintaxis para poner 1 o más sonidos: 
+~~~
+s("nombre sonido1:nº biblioteca nombre sonido2:nº bib")
+~~~
 
 <img width="786" alt="Captura de pantalla 2024-05-13 a la(s) 16 14 35" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/a7582de8-94f8-4c55-8cab-d3b0f622f523">
 <img width="786" alt="Captura de pantalla 2024-05-13 a la(s) 16 15 14" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/e3bdcb90-9ab0-414c-bdc4-6a8a1f704ca9">
@@ -62,6 +68,7 @@ Biblioteca de VCL, confirmado que se puede: https://github.com/sgossner/VCSL
 
 Otra https://github.com/geikha/tidal-drum-machines
 
+
 # Cómo moverme en el programa
 
 Primero en https://strudel.cc/ ir al menú derecho-> patterns-> user-> new (para crear un nuevo código)
@@ -73,7 +80,9 @@ También existen sonidos que tienen su propia biblioteca, por lo que hay diferen
 
 En el mismo menú puedo importar audios en "import sounds" y seleccionar del ordenador. Para agregarlo se tiene que usar la función: 
 
+~~~
 samples({
+~~~
 
 <img width="776" alt="Captura de pantalla 2024-05-13 a la(s) 16 54 24" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/f5b7263c-7e64-4ac2-8de0-948a7fdc31d8">
 
@@ -92,38 +101,43 @@ https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/f0c83bc4-8ca9-4120-
 https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/ddc5f44f-f998-44ae-add7-043c9c424d63
 
 Pero al intentar con el segundo método que también menciona el video sí me funcionó, es el de la notación:
-
+~~~
 stack (
-s (xxx),
+s(xxx),
 s(xxx)
 )
-
+~~~
 **3: Subir un sonido/contenido de mi biblioteca:** No especifica en qué formato es el que me permite subir, intente con wav y mp3 y ninguno me funcionó. 
 
 # Cómo se hace mi melodía
-Link: https://strudel.cc/?nPk7SeuZ3kmN
+Link: https://strudel.cc/?Wam4Rj4DbY-r]
+
+Por algún motivo salió un segundo link?:
+https://strudel.cc/?EuJ49HwytEp_)[https://strudel.cc/?Wam4Rj4DbY-r](https://strudel.cc/?EuJ49HwytEp_
 
 Código:
+~~~
+//Nota: Cuando haces muchas composiciones solo sonará la última que hiciste. Por lo que para escuchar los que vienen antes, hay que poner las últimas en notación de comentario.
+//Es por esto que para ir leyendo el paso a paso de mejor manera habrá que 1. Sacar los // que anteponen cada código y luego poner play (es una sugerencia de cómo leer esto pero no estoy segura si le gusta?)
 
-//Nota: si tu composición tiene muchos bloques si comentarios, solo sonará el último. Por lo que para escuchar los que vienen antes, hay que poner los últimos en notación de comentarios
-//Por lo tanto, para ir leyendo esto de mejor manera, habrá que sacar los // que anteponen cada código(es una sugerencia de cómo leer esto pero no estoy segura si le gusta?)
+
 //Quiero insertar el sonido del cuervo de la biblioteca, por lo que con s lo defino y con n defino cuál de la biblioteca quiero utilizar (el 0)
-s ("crow").n(1)
+s("crow").n(1)
 
 //Otra forma de hacer exactamente lo mismo pero abreviado es:
-s ("crow:1" )
+s("crow:1" )
 //Fuente: https://www.youtube.com/watch?v=oqyAJ4WeKoU
 
 //Quiero agregar otro sonido. Para esto
-s ("crow:1 fingercymbal:0")
+s("crow:1 fingercymbal:0")
 
 //Para agregar sonidos intercalados, usamos <>:
 //Fuente: https://www.youtube.com/watch?v=oqyAJ4WeKoU
-s ("crow:1 clap:1 fingercymbal:0 <bd bd jazz:1 hh:1>")
+s("crow:1 clap:1 fingercymbal:0 <bd bd jazz:1 hh:1>")
 
 //Para agregar una sub secuencia usamos []
 // Fuente: https://strudel.cc/workshop/recap/
-s ("crow:1 clap:1 fingercymbal:0 <[bd bd] [bd bd jazz:1] hh:1>")
+s("crow:1 clap:1 fingercymbal:0 <[bd bd] [bd bd jazz:1] hh:1>")
 
 //Para agregar una sub-sub secuencia usamos dentro del [] otro []:
 // Fuente: https://strudel.cc/workshop/recap/
@@ -131,7 +145,7 @@ s ("crow:1 clap:1 fingercymbal:0 <[bd bd] [bd bd jazz:1] [[bd bd] jazz:1] hh:1>"
 
 //Para repetir un sonido un n número de veces, poner *n:
 // Fuente: https://strudel.cc/workshop/recap/
-s ("crow:1 clap:1 fingercymbal:0 <[bd bd] [bd bd jazz:1] [[bd bd] jazz:1] hh:1*2>")
+s("crow:1 clap:1 fingercymbal:0 <[bd bd] [bd bd jazz:1] [[bd bd] jazz:1] hh:1*2>")
 
 
 //Voy a hacer un stack/polirritmia:
@@ -199,8 +213,7 @@ s("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ dantranh_tremolo:16/3 ~ ~ ~ ~ ~").lpf(saw.range(200
 s("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ siren:1*4")
 )
 
-//Para agregar un sonido de mi biblioteca:
-
+~~~
 
 
 
