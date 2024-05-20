@@ -6,7 +6,7 @@
 
 ### Descripción del proyecto
 Crear una caja rotativa con cambio de textura (video), al mantener presionado el mouse.
-LINK DEL PROYECTO: https://editor.p5js.org/Janiceeileen1/sketches/F2MQYvC8F
+LINK DEL PROYECTO: [https://editor.p5js.org/Janiceeileen1/sketches/F2MQYvC8F](https://editor.p5js.org/Janiceeileen1/sketches/F2MQYvC8F)
 
 ### Paso a Paso
 # 1 - 
