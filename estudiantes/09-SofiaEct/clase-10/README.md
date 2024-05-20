@@ -2,8 +2,8 @@
 
 # _solemne_02_
 
-_las referencias utilizadas fueron sacdas del canal del youtube_ **_"the coding train"_** y ___reference de p5.js___
-(cada vez que quiero que una cosa pase una sola vez, debo ponerlo en setup, y si quiero que sea constante debo ponerlo en draw)
+_las referencias utilizadas fueron sacadas del canal del youtube_ **_"the coding train"_** y ___reference de p5.js___
+(cada vez que quiero que una cosa pase una sola vez, debo ponerlo en setup, y si quiero que sea constante, debo ponerlo en draw)
 - 10.1: intro to images processing tutorial → <https://youtu.be/-f0WEitGmiw?si=unU45Y5vxbqkgBQ6>
 - 11.1: capture and live video → <https://youtu.be/WH31daSj4nc?si=3VI0VUCymvq0QYxr>
 - 11.2: uso del objeto de película para mostrar vídeos grabados tutorial de processing → <https://www.youtube.com/watch?v=nJWV7X7df9w>
@@ -12,9 +12,9 @@ _las referencias utilizadas fueron sacdas del canal del youtube_ **_"the coding 
 - text  →  https://p5js.org/reference/#/p5/text
 - 
 
-**idea**: reproduccion de video en _processing/p5.js_, al hacer click el video se pone en reverse y viceversa.
+**idea**: reproducción de video en _processing/p5.js_, al hacer click el video se pone en reversa y viceversa.
 
-para familiarizarme con _processing_ antes que todo queria aprender como subir un archivo.jpg/jpeg y editarlo desde ahi, fue muy complicado para mi, pero fue todo un exito, copie el codigo de _"the coding train"_ para generar una prueba de movimiento y color con la imagen.
+para familiarizarme con _processing_ antes que todo quería aprender como subir un archivo.jpg/jpeg y editarlo desde ahí, fue muy complicado para mí, pero fue todo un éxito, copie el código de _"the coding train"_ para generar una prueba de movimiento y color con la imagen.
 
 ```java
 PImage mwah;
@@ -39,7 +39,7 @@ primero busque como poder subir un video y reproducirlo en _processing_, e insta
 
 <img width="730" alt="Captura de pantalla 2024-05-13 a la(s) 15 05 25" src="https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/b97c9002-79c7-4b0f-bc26-6854f25aaea7">
 
-segun el video que vi el codigo para acceder a la grabacion de video es el siguiente:
+según el video que vi el código para acceder a la grabación de video es el siguiente:
 
 ```java
 import processing.video.*;
@@ -60,13 +60,13 @@ void draw() {
 }
 ```
 
-pero tuve errores debido al computador en el que estoy trabajando, por lo que no me permitio la grabacion.
+pero tuve errores debido al computador en el que estoy trabajando, por lo que no me permitió la grabación.
 
 <img width="594" alt="Captura de pantalla 2024-05-13 a la(s) 16 18 44" src="https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/b04803be-858e-4136-b6f6-4c1712c20c07">
 
-el _"Internal data stream error"_ es un error del sistema de computador que no permite ejecutar los archivos, en este caso los que estoy trabajando, por lo que decidi continuar con otras pruebas.
+el _"Internal data stream error"_ es un error del sistema de computador que no permite ejecutar los archivos, en este caso los que estoy trabajando, por lo que decidí continuar con otras pruebas.
 
-probe lo que seria la exportacion de un video a _processing_ y fue ¡todo un exito! no es muy diferente a la exportacion de imagenes.
+probé lo que sería la exportación de un video a _processing_ y fue ¡todo un éxito!, no es muy diferente a la exportación de imágenes.
 
 ```java
 import processing.video.*;
@@ -88,22 +88,22 @@ void draw() {
 }
 ```
 
-despues de procesar mejor lo que queria hacer para esta solemne, lo que se me ocurrio fue hacer un tipo de instrumento utilizando el codigo + el teclado, seguire intentado en _processing_.
+después de procesar mejor lo que quería hacer para esta solemne, lo que se me ocurrió fue hacer un tipo de instrumento utilizando el código + el teclado, seguiré intentado en _processing_.
 
 # p5.js
 
-despues de intentos fallidos en processing, no quise quedarme estancada en eso asi que me pase directamente a trabajar en p5.js (tenia captura de las fallas de processing pero se elimino cuando sincronice el fork), principalmente en esta ocasion decidi a hacer una interaccion con las teclas que reproduce una nota musical (en este caso decidi que fueran de piano)
+después de intentos fallidos en processing, no quise quedarme estancada en eso así que me pase directamente a trabajar en p5.js (tenía captura de las fallas de processing, pero se eliminó cuando sincronice el fork), principalmente en esta ocasión decidí a hacer una interacción con las teclas que reproduce una nota musical (en este caso decidí que fueran de piano)
 
-primero comence subiendo imagenes, en eso decubri que hay un arreglo de [] que permite tener mas de una variable dentro del mismo let
+primero comencé subiendo imágenes, en eso descubrí que hay un arreglo de [] que permite tener más de una variable dentro del mismo let.
 
-(aun que aqui esta sin el arreglo)
+(aun que aquí esta sin el arreglo)
 
 <img width="594" alt="Captura de pantalla 2024-05-20 a la(s) 16 13 39" src="https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/375ef6c2-d881-4bae-b3ac-cac5de5f8a43">
 
 ```javascript
 let fotito = [];
 ```
-depues empece a introducir audio, fue bastante entretenido, a partir del codigo
+después empece a introducir audio, fue bastante entretenido, a partir del código.
 
 ```javascript
 let mySound;
@@ -124,15 +124,15 @@ function canvasPressed() {
   mySound.play();
 }
 ```
-para hacer que segun la tecla cambiara la imagen tanto como el fondo de cada una, el if fue mi salvador, aun que claro tuve problemas ya que personalmente ver ta tantas letras en pantalla me es un poco abrumador, pero me diverti mucho ordenandolos.
+para hacer que según la tecla cambiara la imagen tanto como el fondo de cada una, el if fue mi salvador, aunque claro tuve problemas, ya que personalmente ver ta tantas letras en pantalla me es un poco abrumador, pero me divertí mucho ordenándolos.
 
 <img width="693" alt="Captura de pantalla 2024-05-20 a la(s) 16 23 32" src="https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/1d1760b5-88a3-456a-8f6c-fdd6515b3628">
 
-e aqui el resultado de esta maravilla (me gusta mucho como se ve el codigo de if)
+e aquí el resultado de esta maravilla me gusta mucho como se ve el código de if.
 
-https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/6548cf70-8cc4-46c4-a9af-aa346f525755
+https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/0a1f4549-20ad-41f2-9a1b-62474daf86c0
 
-esto es una 'documentacion' de mi codigo, para no perderlo
+esto es una 'documentación' de mi código, para no perderlo.
 
 ```javascript
 //advertencia, la secuencia rapida de las teclas puedes generar luces intermitentes que pueden afectarte.
@@ -279,6 +279,5 @@ function keyTyped() {
   }
 }
 ```
-
 
 https://editor.p5js.org/SofiaEct/sketches/S7keAZ73Jo
