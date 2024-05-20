@@ -32,8 +32,17 @@ Ejemplo de uso:
 
 ! [img ss4] (./Img_4.png)
 
--> Libro que quiero buscar: Harry Potter and the Sorcerer`s Stone 
+-> Si el libro que quiero buscra es uno de Harry Potter por ejemplo, debo tener los siguientes datos: 
+Harry Potter and the Sorcerer`s Stone 
 Autor: J.K. Rowling
+ISBN:  9781338878929
+Esto funciona utilizando la Key que te proporciona el Nyt para poder utilizar las diferentes funciones que ellos tienen de Api, como en este caso fue la de Book Api, pero cuentan con 10 diferentes bases de datos mediante API.
+
+A pesar de haber contado con mi Key no obtuve resultados de esta (como se puede ver en la siguiente imágen)
+! [img ss5] (./Img_5.png)
+
+Reflexión personal: A pesar de no haber obtenido resultados de mi búsqueda en la Api del Nyt, todos los pasos para llegar a solicitar una información a esta interfaz me incentivaron a querer aprender más y lograr una buena interacción con este tipo de interfaz que cada vez es más utilizada y poco sabida por la gente. 
+
 
 
 
