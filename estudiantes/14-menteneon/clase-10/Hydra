@@ -1,0 +1,8 @@
+osc(70 , 0.09 ,0.50).
+mult(osc(3 , 0.1,1).
+modulate(noise(10,20)).
+rotate(10)).
+posterize([30 ,5,2].fast(10).
+smooth(5)).
+modulateRotate(o0,()=>mouse.x*0.10).
+out().
