@@ -21,6 +21,8 @@
 
 [sketchSonido](https://editor.p5js.org/daniellasarai/sketches/rSB6JZUW3)
 
+### Sketch Final
+
 - Para finalizar agregué una canción de Will Weisenfeld [Ship Interior](https://youtu.be/jCFILSSaJxM?si=_TesD1BADtMM8vGx) de la serie "Bee and Puppycat", para que la reacción del sonido fuera más notoria visualmente, llegando así a la unión de ambos sketches, el de interacción y el de reacción al sonido, generando el skecth final.
 
 <img width="1004" alt="S02_SCI0" src="https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/579238d0-e0cb-471b-9d57-0334f59ba871">
