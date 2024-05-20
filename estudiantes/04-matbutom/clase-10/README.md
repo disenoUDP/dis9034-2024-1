@@ -6,11 +6,14 @@ continuación y finalización de solemne 2 - 20.05.2024
 
 ---
 
+![halftoned](https://github.com/matbutom/dis9034-2024-1/assets/163034603/eff09ea2-78f6-4aa4-8042-0f3fd0040bbd)
 
 
 ---
 
-### continuación y término de solemne ฅ՞•ﻌ•՞ฅ
+### descripción del proyecto ฅ՞•ﻌ•՞ฅ
+
+con este rafita proyect podrás conocer a la clota, la imagen que se muestra en el editor, ella es la mascota de [@rafita.studio](https://www.instagram.com/rafita.studio/?igsh=MXFnbjI3Yzg2Nm10bw%3D%3D), podrás cambiarle el color de la foto con un efecto muy contemporáneo de halftone con sólo presionar el botón! que se encuentra en la parte inferior de la foto. Vuélvete loco viendo cómo la clota cambia de colorsito. DISFRUTA!
 
 ---
 
