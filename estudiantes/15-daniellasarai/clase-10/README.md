@@ -9,7 +9,7 @@
 <img width="1256" alt="S02_intreraccion" src="https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/0a1ab2ba-5c89-4a87-ac45-b8a54f597dd8">
 <img width="1260" alt="S02_inetraccion2" src="https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/7d16a070-6361-428c-a8bd-bb448186b095">
 
-![S02_interaccion](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/90da2fb0-0a80-4541-9b90-6956dea1f396)
+![S02_interaccion](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/1c07de3a-8bf2-4d70-8e82-c798f987613b)
 
 [sketchInteractivo](https://editor.p5js.org/daniellasarai/sketches/pFfc0rd_l)
 
@@ -17,7 +17,7 @@
   
 <img width="1014" alt="S02_sonido" src="https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/8d588fd3-1849-4b64-b0b7-8ac6c322b718">
 
-![S02_sonido](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/ab552751-8083-47bf-a9bb-3157d79b9474)
+![S02_sonido](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/98f96e52-02b3-4547-9ef7-397dc05b1fb8)
 
 [sketchSonido](https://editor.p5js.org/daniellasarai/sketches/rSB6JZUW3)
 
@@ -31,6 +31,6 @@
 
 - El cuál visualmente se vería así:
 
-![S02_SCI](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/fcf5db53-a7c0-4a5e-a643-1e3fb78afe37)
+![S02_SCI (1)](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/86962f37-3698-4fe3-85f4-3d389f97b424)
 
 [sketchFinal](https://editor.p5js.org/daniellasarai/sketches/vohWuwu2E)
