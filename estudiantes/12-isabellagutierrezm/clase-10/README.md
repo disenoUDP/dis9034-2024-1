@@ -74,5 +74,4 @@ tenemos nuestra primera linea con relleno
   <https://www.youtube.com/watch?v=YcezEwOXun4>
 
   - Proyecto final :
-    [
-](https://editor.p5js.org/isabellagutierrezm/sketches/2wt78sLuA)
+<https://editor.p5js.org/isabellagutierrezm/sketches/2wt78sLuA>
