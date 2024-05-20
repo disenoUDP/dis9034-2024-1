@@ -84,7 +84,7 @@ durante el semestre abordaremos estos contenidos:
 | [05](clases/clase-05/) | 2024-04-08 | solemne 01 en clase                |
 | [06](clases/clase-06/) | 2024-04-15 | video e interactividad             |
 | [07](clases/clase-07/) | 2024-04-22 | audio e interactividad             |
-| [08](clases/clase-08/) | 2024-04-29 | objetos y arreglos                 |
+| [08](clases/clase-08/) | 2024-04-29 | detección de presencia humana      |
 | [09](clases/clase-09/) | 2024-05-13 | preparación solemne 02             |
 | [10](clases/clase-10/) | 2024-05-20 | solemne 02 en clase                |
 | [11](clases/clase-11/) | 2024-05-27 | MIDI y OpenSoundControl            |
