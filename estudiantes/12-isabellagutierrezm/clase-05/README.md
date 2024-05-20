@@ -1,11 +1,13 @@
 # clase-05
 
-# Solemne 02
+# Solemne 02: 
+- Lo primero que hice para comezar mi solemne fue buscar referentes sobre la idea inicial que tenía pensada, para ello me base en el video de Arctic Monkeys "Do You Wanna Know?"
+- Donde podemos apreciar el movimiento de onda basado en una sola linea. Para ello, comece la busqueda de las variables necesesarias para p5 y la reproducción de sonido.
 
--Ondas de sonido moviendose por música
+## Ondas de sonido moviendose por música
 
 # Paso 01: Cargamos la canción en el editor
-- Descargamos la canción en versión mp3 y cargamos canción
+- Descargamos la canción en versión mp3 y cargamos canción, donde aprendi que, para garantizar la funcón de sonido necesitamos cargarlo antes de que se solicite reproducirlo, con la variable "preload()"
 siguiendo este tutorial:
 
 - La canción elegida fue "te para tres" de Soda Stereo versión UNPLUGGED, pero probé con muchas otras.
@@ -15,7 +17,6 @@ Seguimos este tutorial para la acción anterior
 
 ![cargarcancion](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/575f4cef-e3b3-4e12-bb78-17ae5e955510)!
 
-sdfgh
 
 - Despúes configuramos el mouse para que la canción suene al hacer clik en la pantalla
 
@@ -57,7 +58,8 @@ tenemos nuestra primera linea con relleno
 
 ![circulo](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/53c2572c-f7ac-4d4e-9581-ca9439705ea5)!
 
-- Hacemos el primer lado de la forma y copiamos para tener la forma completa
+- Hacemos el primer lado de la forma y copiamos para tener la forma completa, en esta funcion es necesaria la variable "index", es decir el indice de la posición de la figura,
+- Estos valores se complementan con valores de seno y coseno
 
 # Paso 04: Probamos con música
 
