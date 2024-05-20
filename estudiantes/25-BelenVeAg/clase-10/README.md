@@ -138,6 +138,11 @@ Otra observación: El link feo aparece cuando quiero reemplazar uno de los links
 ## Cómo se hace mi melodía
 Link: <https://strudel.cc/?TD4vbgZeqPYr>
 
+Video del código funcionando:
+
+<https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/297f520e-e7a9-4f2a-ab34-d4358d86feed>
+
+
 Código: 
 ~~~
 //Nota: Cuando haces muchas composiciones solo sonará la última que hiciste. Por lo que para escuchar los que viene antes, hay que poner las últimas creadas en la notación de comentario.
