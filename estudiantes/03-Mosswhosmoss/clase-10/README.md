@@ -2,12 +2,8 @@
 
 Solemne II: Pieza audiovisual interactiva con el mouse
 
-[https://youtu.be/vwwRWCErx_Q?si=wxnAx28BG8DYDOcP] Comó agregar una biblioteca a p5.js
 
 https://youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&si=7t8-qVAV7vnM_f12 Tutorial de sonido
-
-<img width="1083" alt="330182927-abf43850-b1da-4ded-a6b7-1e4b6cfbc918" src="https://github.com/Mosswhosmoss/dis9034-2024-1/assets/168484044/0bda26a0-7799-49db-876f-da2e9c0eeee0">
-Agregada la biblioteca sound
 
 https://youtu.be/vwwRWCErx_Q?si=gwjWauGi_y4dZbub Tutorial de como agregar sonido a p5.js
 
@@ -21,6 +17,63 @@ Cambie el sonido por el boom vine sound effect
 
 Ahora voy a empezar a agregar imágenes y que aparezcan dependiendo de la posición de donde el cursor se encuentra al hacer click
 
-tutorial de la variable random https://youtu.be/nfmV2kuQKwA?feature=shared
+tutorial de la variable random (https://youtu.be/POn4cZ0jL-o?feature=shared)
 
-p5.js: https://editor.p5js.org/Mosswhosmoss/sketches/oEyUK8WRX
+El codigo actualmente 
+<img width="1574" alt="Captura de pantalla 2024-05-20 a la(s) 16 11 59" src="https://github.com/Mosswhosmoss/dis9034-2024-1/assets/168484044/40144787-68e2-4746-9309-e2866ec157f3">
+
+<img width="1638" alt="Captura de pantalla 2024-05-20 a la(s) 16 19 07" src="https://github.com/Mosswhosmoss/dis9034-2024-1/assets/168484044/653eccfb-df6b-40cc-aaf4-c1d3a2cdb080">
+
+Video sin audio  
+https://github.com/Mosswhosmoss/dis9034-2024-1/assets/168484044/08e7d9c9-baf8-4b5c-a4ec-bcba3627f388
+
+Código 
+https://youtu.be/Pn1g1wjxl_0?si=rlBi-2c8hl32GL-B referente de como agregar el sonido a p5.js
+
+https://p5js.org/reference/#/p5.Image voy a poner una imagen de fondo que explique al usuario que debe hacer click
+
+Let https://p5js.org/reference/#/p5/let
+
+Array https://www.w3schools.com/js/js_arrays.asp
+
+let rocasNombres = ["rock2.jpg", "rock3.jpg", "rock4.jpg"];
+
+let rocas = [];
+
+let song;
+
+variable para la foto de fondo
+let fotito;
+
+https://editor.p5js.org/awade5/sketches/Bye6-04fEreferente que no pude ver si funcionaba de las imagenes
+
+cargo el sonido de explosión de vine
+function preload() {
+  song = loadSound("BoomSound.mp3");
+  fotito = loadImage("Clickme.png");
+}
+
+interacción mouse sonido https://p5js.org/reference/#/p5/soundFormats
+function setup() {
+  createCanvas(400, 400);
+
+  for (let i = 0; i < rocasNombres.length; i++) {
+    agrega una nueva imagen al final del arreglo
+    let nueva = rocasNombres[i];
+    console.log(nueva);
+    rocas[i] = loadImage(nueva);
+  }
+
+  cargo imagen para el fondo
+  image(fotito, 0, 0);
+}
+
+function mousePressed() {
+  song.play();
+  let nuevoNumeroAleatorio = Math.floor(random(rocasNombres.length));
+
+  image(rocas[nuevoNumeroAleatorio], mouseX, mouseY, 320, 353);
+}
+
+editable https://editor.p5js.org/Mosswhosmoss/sketches/xPje3xkGN
+
