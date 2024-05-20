@@ -11,7 +11,7 @@
 
 ![S02_interaccion](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/90da2fb0-0a80-4541-9b90-6956dea1f396)
 
-
+[sketchInteractivo](https://editor.p5js.org/daniellasarai/sketches/pFfc0rd_l)
 
 - Luego de lograr esta interacción decidí buscar una forma de hacer que otro elemento, aparate del de la interacción, pudiera reaccionar ante el sonido. Esto lo probé y realicé otro sketch con la referencia de [Violet Whitney](https://medium.spatialpixel.com/sounds-bd05429aba38) publicada por Spatial Pixel
   
@@ -19,6 +19,7 @@
 
 ![S02_sonido](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/ab552751-8083-47bf-a9bb-3157d79b9474)
 
+[sketchSonido](https://editor.p5js.org/daniellasarai/sketches/rSB6JZUW3)
 
 - Para finalizar agregué una canción de Will Weisenfeld [Ship Interior](https://youtu.be/jCFILSSaJxM?si=_TesD1BADtMM8vGx) de la serie "Bee and Puppycat", para que la reacción del sonido fuera más notoria visualmente, llegando así a la unión de ambos sketches, el de interacción y el de reacción al sonido, generando el skecth final.
 
