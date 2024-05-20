@@ -67,8 +67,8 @@ tenemos nuestra primera linea con relleno
 
 ## Referencias del proyecto
 - Loading sound: [
-](https://www.youtube.com/watch?v=Pn1g1wjxl_0&t=300s)
+<https://www.youtube.com/watch?v=Pn1g1wjxl_0&t=300s)>
 - Amplitud de onda: [
-](https://www.youtube.com/watch?v=jEwAMgcCgOA&t=482s)
+  <https://www.youtube.com/watch?v=jEwAMgcCgOA&t=482s>
 - Configuración de mouse: [
-](https://www.youtube.com/watch?v=YcezEwOXun4)
+  <https://www.youtube.com/watch?v=YcezEwOXun4>
