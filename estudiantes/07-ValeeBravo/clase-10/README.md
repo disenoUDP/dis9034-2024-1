@@ -32,16 +32,16 @@ Objeto de la librería que se llamará "sonido" (se puede poner cualquier nombre
 ![image](https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/187dcf90-59f4-4941-a3cc-1389a36eac4f)
 
 
-Ruido "Marrón llamado "noise", el ruido marrón se puede sacar de la biblioteca de processing de Ejemplos en Java de processing: Sound- Noise-Brown
+Ruido "Marrón llamado "noise", el ruido marrón se puede sacar de la biblioteca de processing de: Ejemplos en Java de processing: Sound- Noise-Brown
 https://processing.org/reference/libraries/sound/BrownNoise.html 
 
 ![image](https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/7e51e664-2b1e-4c47-a9bc-030b525c4c86)
 
-Área de trabajo de 1000 x 600 píxeles. El área de trabajo es del tamaño de la imagen de  Catedrales de Mármol. 
+Área de trabajo de 1000 x 600 píxeles. El área de trabajo es del tamaño de la imagen de Catedrales de Mármol. 
 
 ![image](https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/cbff6b76-017f-4d3e-b3b3-56dbfb03d5ee)
 
-Cargué una imagen a processing de Catedrales de Mármol. La imagen es sacada de internet proveniente de una página de servicios de tour al sur de Chile llamada "marmol.jpg". https://www.servituroffi.com/producto/capilla-de-marmol/ 
+Cargué una imagen a processing de Catedrales de Mármol. La imagen es sacada de internet proveniente de una página de servicios de tour al sur de Chile, esta imagen es llamada "marmol.jpg". https://www.servituroffi.com/producto/capilla-de-marmol/ 
 
 ![image](https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/4bb0e751-e05c-40ff-b2d2-9be5fff344b7)
 
@@ -77,7 +77,7 @@ Variable de número donde "x" es la parte del ancho de la imagen, la "y" es la a
 Color del trazo de los círculos que apareceran de uno a uno de 15 x 15 píxeles. Stroke es el trazo, NoStroke significa que el círculo no tiene trazo alrededor. 
 ![image](https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/e774c920-cdf7-4074-b824-436959fd1e3d)
 
-Color del círculo de 15 x 15 explotando en un píxel de la imagen. 
+Color del círculo de 15 x 15 que aparecen aleatoriamente en la imagen, los círculos van explotando cada vez que pasan por un color de píxel de la imagen. 
 
 ![image](https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/c554c406-da89-47d7-8155-7593918f9d8b)
 
@@ -86,11 +86,11 @@ Círculo que aparecen y se suman en la pantalla de porte 15 x 15 píxeles.
 ![image](https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/ce185df7-7659-4016-8866-fa158238674a)
 
 Se asigna el ancho del sonido que va desde izquierda a derecha MouseX de 1 a 1.0. 
-Cuando la flecha se va a la derecha tiene una frecuencia de 1 y cuando se va a la derecha tiene una frecuencia de 1, 1.0.  Referencia biblioteca de processing: https://processing.org/reference/libraries/sound/BrownNoise.html 
+Cuando la flecha se va a la derecha tiene una frecuencia de 1 y cuando se va a la derecha tiene una frecuencia de 1, 1.0. Es un sonido muy similar.  Referencia biblioteca de processing: https://processing.org/reference/libraries/sound/BrownNoise.html 
 
 ![image](https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/0da624e4-917f-4624-9adf-e82e62d0e080)
 
-Se asigna la amplitud del sonido. MouseY de 1 a 0 para amplitud.Cuando la flecha del mouse se va hacia arriba, en las piedras de la imagen se escucha un ruido mucho más fuerte reflejando el viento, de frecuencia de 1. Referencia biblioteca de processing: https://processing.org/reference/libraries/sound/BrownNoise.html 
+Se asigna la amplitud del sonido. MouseY de 1 a 0 para amplitud. Cuando la flecha del mouse va hacia arriba en la imagen, en las rocas de marmol se puede escuchar un ruido mucho más fuerte reflejando al viento y cuando la flecha va hacia abajo cerca del mar no se escucha ni un sonido reflejando lo que se escuha abajo del mar.  Referencia biblioteca de processing: https://processing.org/reference/libraries/sound/BrownNoise.html 
 
 ![image](https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/cacbec21-b807-45f4-923d-2c62c7794db9)
 
