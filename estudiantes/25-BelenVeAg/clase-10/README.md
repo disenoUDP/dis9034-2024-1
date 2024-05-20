@@ -1,14 +1,14 @@
 # clase-10: Entrega Solemne 2; hacer una melodía en strudel REPL
 
-https://strudel.cc/
+página web: https://strudel.cc/
 
 # Primera parte: Hacer un estudio/acercamiento sobre lo que es Strudel y cómo funciona
 
 Strudel es un entorno de programación musical en vivo para el navegador que traslada el lenguaje de patrones de Tidal Cycles a JavaScript.
 
-Básicamente puedes programar la duración, tipo de sonido.
+Básicamente puedes programar sonidos, instrumentos, su duración, orden, composición, entre otras funciones.
 
-En Tydal cicle buscar referentes de estilo, y también códigos. Entre los referentes: flor de fuega y error 404.cl (Crhistian Oyarzu)
+*En Tydal cicle buscar referentes de estilo, y también códigos. Entre los referentes: flor de fuega y error 404.cl (Crhistian Oyarzu)
 
 Fuentes en donde estoy buscando información sobre el programa y referentes: 
 
@@ -26,7 +26,10 @@ Sobre strudel https://strudel.cc/learn/samples/
 
 Workshop de strudel: https://www.youtube.com/watch?v=oqyAJ4WeKoU
 
+https://strudel.cc/workshop/recap/
+
 # Vocabulario/herramientas de strudel
+
 Información recopilada de: 
 
 https://strudel.cc/learn/samples/
@@ -35,7 +38,7 @@ https://strudel.cc/workshop/recap/
 
 Workshop de strudel: https://www.youtube.com/watch?v=oqyAJ4WeKoU
 
-La "s" que vemos al anteponer en el código es de "sonido", es una función para definir un sonido y reproducirlo: s function to play back different default samples (bd, sd, hh and misc) to get a drum beat.
+Una de las funciones principales es el de "s" que es de "sonido", es una función para definir un sonido y reproducirlo: s function to play back different default samples (bd, sd, hh and misc) to get a drum beat.
 
 Por lo tanto, para poner un sonido usar la sintaxis: 
 ~~~
