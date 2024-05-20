@@ -110,10 +110,7 @@ s(xxx)
 **3: Subir un sonido/contenido de mi biblioteca:** No especifica en qué formato es el que me permite subir, intente con wav y mp3 y ninguno me funcionó. 
 
 # Cómo se hace mi melodía
-Link: https://strudel.cc/?Wam4Rj4DbY-r]
-
-Por algún motivo salió un segundo link?:
-https://strudel.cc/?EuJ49HwytEp_)[https://strudel.cc/?Wam4Rj4DbY-r](https://strudel.cc/?EuJ49HwytEp_
+Link (me salieron varios pero este funciona, aunque se ve un poco extraño): https://strudel.cc/?EuJ49HwytEp_)[https://strudel.cc/?Wam4Rj4DbY-r](https://strudel.cc/?EuJ49HwytEp_
 
 Código:
 ~~~
