@@ -102,12 +102,14 @@ s(xxx)
 ~~~
 **3: Subir un sonido/contenido de mi biblioteca:** No especifica en qué formato es el que me permite subir, intente con wav y mp3 y ninguno me funcionó. 
 
-**4: Descargar un link con mi código:** Me descargué como 3 links según iba avanzando y en mi computador sí abría mi código, PERO al abrirlo ahora en el compu de la u me abrieron diferentes códigos predeterminados de strudel. 
+**4: Descargar un link con mi código:** Me descargué como 3 links según iba avanzando y en mi computador sí abría mi código, PERO al abrirlo ahora en el compu de la u me abrieron diferentes códigos predeterminados de strudel. En un minuto dado me dio este link que es un link dentro de un link?: https://strudel.cc/?EuJ49HwytEp_)[https://strudel.cc/?Wam4Rj4DbY-r](https://strudel.cc/?EuJ49HwytEp_
+
+Observación importante, uno de los links que eestaban dentro de ese gran link sí funcionaba, a diferencia de otro que intenté antes, pero que me mandaba a cualquier lado. El que es válido es: https://strudel.cc/?EuJ49HwytEp_
 
 # Cómo se hace mi melodía
-Link (me salieron varios pero este funciona, aunque se ve un poco extraño): https://strudel.cc/?EuJ49HwytEp_)[https://strudel.cc/?Wam4Rj4DbY-r](https://strudel.cc/?EuJ49HwytEp_
+Link: https://strudel.cc/?EuJ49HwytEp_)[https://strudel.cc/?Wam4Rj4DbY-r](https://strudel.cc/?EuJ49HwytEp_
 
-Código:
+Código: https://strudel.cc/?EuJ49HwytEp_
 ~~~
 //Nota: Cuando haces muchas composiciones solo sonará la última que hiciste. Por lo que para escuchar los que vienen antes, hay que poner las últimas en notación de comentario.
 //Es por esto que para ir leyendo el paso a paso de mejor manera habrá que 1. Sacar los // que anteponen cada código y luego poner play (es una sugerencia de cómo leer esto pero no estoy segura si le gusta?)
