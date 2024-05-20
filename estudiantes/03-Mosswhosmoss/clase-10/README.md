@@ -17,9 +17,9 @@ Cambie el sonido por el boom vine sound effect
 
 Ahora voy a empezar a agregar imágenes y que aparezcan dependiendo de la posición de donde el cursor se encuentra al hacer click
 
-tutorial de la variable random (https://youtu.be/POn4cZ0jL-o?feature=shared)
+Tutorial de la variable random (https://youtu.be/POn4cZ0jL-o?feature=shared)
 
-El codigo actualmente 
+El código actualmente 
 <img width="1574" alt="Captura de pantalla 2024-05-20 a la(s) 16 11 59" src="https://github.com/Mosswhosmoss/dis9034-2024-1/assets/168484044/40144787-68e2-4746-9309-e2866ec157f3">
 
 <img width="1638" alt="Captura de pantalla 2024-05-20 a la(s) 16 19 07" src="https://github.com/Mosswhosmoss/dis9034-2024-1/assets/168484044/653eccfb-df6b-40cc-aaf4-c1d3a2cdb080">
@@ -27,7 +27,7 @@ El codigo actualmente
 Video sin audio  
 https://github.com/Mosswhosmoss/dis9034-2024-1/assets/168484044/08e7d9c9-baf8-4b5c-a4ec-bcba3627f388
 
-Código 
+El código 
 https://youtu.be/Pn1g1wjxl_0?si=rlBi-2c8hl32GL-B referente de como agregar el sonido a p5.js
 
 https://p5js.org/reference/#/p5.Image voy a poner una imagen de fondo que explique al usuario que debe hacer click
