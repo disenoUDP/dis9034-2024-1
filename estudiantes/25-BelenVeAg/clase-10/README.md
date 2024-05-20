@@ -27,9 +27,13 @@ Sobre strudel https://strudel.cc/learn/samples/
 Workshop de strudel: https://www.youtube.com/watch?v=oqyAJ4WeKoU
 
 # Vocabulario/herramientas de strudel
-Información recopilada de: https://strudel.cc/learn/samples/
+Información recopilada de: 
 
-y el Workshop de strudel: https://www.youtube.com/watch?v=oqyAJ4WeKoU
+https://strudel.cc/learn/samples/
+
+https://strudel.cc/workshop/recap/
+
+Workshop de strudel: https://www.youtube.com/watch?v=oqyAJ4WeKoU
 
 La "s" que vemos al anteponer en el código es de "sonido", es una función para definir un sonido y reproducirlo: s function to play back different default samples (bd, sd, hh and misc) to get a drum beat.
 
