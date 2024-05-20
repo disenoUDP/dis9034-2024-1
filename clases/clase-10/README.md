@@ -5,7 +5,7 @@ lunes 20 mayo 2024
 instrucciones solemne 02:
 
 - se termina hoy
-- se entrega el lunes 20 mayo 2024, hasta las 5:20pm, vía GitHub, en tu fork
+- se entrega el lunes 20 mayo 2024, hasta las 5:20pm, vía GitHub, en tu fork, en tu carpeta de la clase-10
 - si hay un commit posterior, no se tomará en cuenta y será una infracción a los aspectos formales
 - el proyecto es individual
 - el proyecto se hace con la tecnología que quieran (HTML, CSS, JS, p5.js, Processing, TidalCycles, etc)
