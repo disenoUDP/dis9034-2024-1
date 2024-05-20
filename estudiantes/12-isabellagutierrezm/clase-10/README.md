@@ -1,7 +1,7 @@
 # clase-10
 # clase-05
 
-##Solemne 01
+##Solemne 02
 
 -Ondas de sonido moviendose por música
 
@@ -41,7 +41,8 @@ Para hacer mover las ondas utilizamos el algoritmo FFT, el cual analiza las frec
 ![linea](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/4fd8b608-66c7-4b67-8169-763c99d39b85)!
 
 ![onadas con stroke](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/7df141c6-bd12-4b23-9674-a1c81fb81812)!
-tenemos nuestra primera linea de onda
+
+-tenemos nuestra primera linea de onda
 
 ![wave 1](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/0474a966-32e1-4c4f-afa6-d0cebc1279da)!
 
