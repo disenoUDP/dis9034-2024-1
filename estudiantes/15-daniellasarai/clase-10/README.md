@@ -31,6 +31,6 @@
 
 - El cuál visualmente se vería así:
 
-![S02_SCI (1)](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/86962f37-3698-4fe3-85f4-3d389f97b424)
+![S02_SCI](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/365ea10e-f540-455f-a660-47d27e2eaf05)
 
 [sketchFinal](https://editor.p5js.org/daniellasarai/sketches/vohWuwu2E)
