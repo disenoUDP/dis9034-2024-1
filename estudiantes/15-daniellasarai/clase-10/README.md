@@ -31,3 +31,4 @@
 
 ![S02_SCI](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/fcf5db53-a7c0-4a5e-a643-1e3fb78afe37)
 
+[sketchFinal](https://editor.p5js.org/daniellasarai/sketches/vohWuwu2E)
