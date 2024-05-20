@@ -109,6 +109,8 @@ s(xxx)
 ~~~
 **3: Subir un sonido/contenido de mi biblioteca:** No especifica en qué formato es el que me permite subir, intente con wav y mp3 y ninguno me funcionó. 
 
+**4: Descargar un link con mi código:** Me descargué como 3 links según iba avanzando y en mi computador sí abría mi código, PERO al abrirlo ahora en el compu de la u me abrieron diferentes códigos predeterminados de strudel. 
+
 # Cómo se hace mi melodía
 Link (me salieron varios pero este funciona, aunque se ve un poco extraño): https://strudel.cc/?EuJ49HwytEp_)[https://strudel.cc/?Wam4Rj4DbY-r](https://strudel.cc/?EuJ49HwytEp_
 
