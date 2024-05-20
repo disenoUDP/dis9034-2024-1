@@ -1,8 +1,7 @@
 # Clase 10:
 
 # Solemne 02: 
-- Lo primero que hice para comezar mi solemne fue buscar referentes sobre la idea inicial que tenía pensada, para ello me base en el video de Arctic Monkeys "Do You Wanna Know?"
-- Donde podemos apreciar el movimiento de onda basado en una sola linea. Para ello, comece la busqueda de las variables necesesarias para p5 y la reproducción de sonido.
+- Lo primero que hice para comezar mi solemne fue buscar referentes sobre la idea inicial que tenía pensada, la cual era poder encontrar una forma de poder visualizar las ondas de sononido de una de mis canciones favoritas, a tráves de una figura a elección, en este caso un circulo.
 
 ## Ondas de sonido moviendose por música
 
@@ -22,7 +21,7 @@ Seguimos este tutorial para la acción anterior
 
 ![clickmouse](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/7866bdfc-fff1-49f9-b8c2-fd9f2473b3d8)!
 
-- siguiendo referencia de p5js
+- siguiendo referencia de p5js, establecemos las condicionales para la pantalla
 
 # # Usamos condisicionales
 
@@ -51,18 +50,20 @@ tenemos nuestra primera linea con relleno
 
 ![wave 1](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/0474a966-32e1-4c4f-afa6-d0cebc1279da)!
 
-# Paso 03 :Decidmos usar un circulo como forma y vamos variando que estilo se ve mejor
+# Paso 03: Decidmos usar un circulo como forma y vamos variando que estilo se ve mejor
 
 ![p52](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/5c3ba37a-55cf-48dc-bf31-65f2a13af2c9)!
 - Centramos la forma
 
 ![circulo](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/53c2572c-f7ac-4d4e-9581-ca9439705ea5)!
 
-- Hacemos el primer lado de la forma y copiamos para tener la forma completa, en esta funcion es necesaria la variable "index", es decir el indice de la posición de la figura,
+- Hacemos el primer lado de la forma y copiamos para tener la forma completa, en esta funcion es necesaria la variable "index", es decir el indice de la posición de la figura
 - Estos valores se complementan con valores de seno y coseno
 
 # Paso 04: Probamos con música
 
 ![circulo Completo p5js (1)](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/b42c0de1-57ba-425e-9b80-018d1f72298e)!
+
+## Link del proyecto
 
 <https://editor.p5js.org/isabellagutierrezm/sketches/2wt78sLuA>
