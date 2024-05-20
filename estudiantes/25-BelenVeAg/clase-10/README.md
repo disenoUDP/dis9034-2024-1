@@ -1,18 +1,20 @@
 # clase-10: Entrega Solemne 2; hacer una melodía en strudel REPL
 
-página web: <https://strudel.cc/>
+Página web: <https://strudel.cc/>
 
 ## Primera parte: Hacer un estudio/acercamiento sobre lo que es Strudel y cómo funciona
 
 Strudel es un entorno de programación musical en vivo para el navegador que traslada el lenguaje de patrones de Tidal Cycles a JavaScript.
 
-Básicamente puedes programar sonidos, instrumentos, su duración, orden, composición, entre otras funciones.
+Básicamente, puedes programar música, sonidos, instrumentos, modificar su duración, orden, composición, entre otras funciones.
 
-*En Tydal cicle buscar referentes de estilo, y también códigos. Entre los referentes: flor de fuega y error 404.cl (Crhistian Oyarzu)
+*Recomendación del profe: En Tydal cicle buscar referentes de estilo y también códigos. Entre los referentes: flor de fuega y error 404.cl (Crhistian Oyarzu)
 
-Fuentes en donde estoy buscando información sobre el programa y referentes: 
+## Fuentes en donde busqué información sobre el programa y referentes: 
 
-En Tydal más abajo en la ección seleccionada <https://tidalcycles.org/docs/showcase>
+En Tydal: <https://tidalcycles.org/docs/showcase>
+
+<img width="1380" alt="Captura de pantalla 2024-05-20 a la(s) 14 44 06" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/5c74732f-52fb-4217-8323-474395993622">
 
 Error 404: <https://www.error404.cl/coyarzun.htm>
 
@@ -28,6 +30,13 @@ Workshop de strudel: <https://www.youtube.com/watch?v=oqyAJ4WeKoU>
 
 <https://strudel.cc/workshop/recap/>
 
+## Bibliotecas de sonido
+<img width="563" alt="Captura de pantalla 2024-05-13 a la(s) 16 28 24" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/3aae9f0d-70e8-4c2a-8810-2b08c125585f">
+
+Biblioteca de VCL, confirmado que se puede: <https://github.com/sgossner/VCSL>
+
+Otra <https://github.com/geikha/tidal-drum-machines>
+
 ## Vocabulario/herramientas de strudel
 
 Información recopilada de: 
@@ -38,40 +47,51 @@ Información recopilada de:
 
 Workshop de strudel: <https://www.youtube.com/watch?v=oqyAJ4WeKoU>
 
-Una de las funciones principales es la de "s" que es de "sonido", es una función para definir un sonido y reproducirlo: "s function to play back different default samples (bd, sd, hh and misc) to get a drum beat".
+Una de las funciones principales es la de "s" que es de "sonido", es una función para definir un sonido y reproducirlo. Definición textual desde strudel: "s function to play back different default samples (bd, sd, hh and misc) to get a drum beat".
+
+Importante: La mayoría de los sonidos en la biblioteca tienen más de un repertorio, por lo que hay que señalar cuál versión del mismo estamos usando.
 
 Por lo tanto, para poner un sonido usar la sintaxis: 
 ~~~
-s("nombre sonido").n(número de la biblioteca)
+s("nombre sonido").n(número del repertorio)
 ~~~
 
-Otra forma de sintaxis para poner 1 o más sonidos: 
+Otra sintaxis para lo mismo pero más fácil/simplificada:
 ~~~
-s("nombre sonido1:nº biblioteca nombre sonido2:nº bib")
+s("nombre sonido1:número del repertorio")
 ~~~
+
+Para poner 1 o más sonidos: 
+~~~
+s("nombresonido1:nºrepertorio nombresonido2:nºrepertorio")
+~~~
+
+
+Algunos ejemplos de los sonidos disponibles en la biblioteca de sonidos:
 
 <img width="786" alt="Captura de pantalla 2024-05-13 a la(s) 16 14 35" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/a7582de8-94f8-4c55-8cab-d3b0f622f523">
+
+Lista básica de los sonidos de una batería:
 <img width="786" alt="Captura de pantalla 2024-05-13 a la(s) 16 15 14" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/e3bdcb90-9ab0-414c-bdc4-6a8a1f704ca9">
 
 
-Para **intercalar un sonido en la serie** hay que poner los dos sonidos dentro de la sintaxis anterior en la parte que desees, pero ambos elemnteos deben estar encerrados en un **< sonido1 sonido2 sonido3 >**
+**Intercalar un sonido en la serie:** Dentro de la sintaxis s anterior hay que poner los sonidos en la parte que desees, pero los elemnteos deben estar encerrados en un **< sonido1 sonido2 sonido3 >**
+
+<img width="579" alt="Captura de pantalla 2024-05-20 a la(s) 14 56 05" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/e7bed364-9712-4d71-b4ab-e172f9674299">
+
 
 Varias herramientas (resumen) en: <https://strudel.cc/workshop/recap/>
+
 <img width="816" alt="Captura de Pantalla 2024-05-19 a la(s) 21 42 44" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/6e32075b-cc84-4120-acbe-8467cdd3f588">
 
-stack: es para hacer polirritmias. Llamamos polirritmia a la utilización simultánea de dos o más ritmos que no se perciben como simples derivados el uno del otro, definición de: <https://recursos.march.es/web/musica/jovenes/africa-inspira-a-occidente/html/polirritmias.html>
 
-## Bibliotecas de sonido
-<img width="563" alt="Captura de pantalla 2024-05-13 a la(s) 16 28 24" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/3aae9f0d-70e8-4c2a-8810-2b08c125585f">
-
-Biblioteca de VCL, confirmado que se puede: <https://github.com/sgossner/VCSL>
-
-Otra <https://github.com/geikha/tidal-drum-machines>
+**stack**: es para hacer polirritmias. Llamamos polirritmia a la utilización simultánea de dos o más ritmos que no se perciben como simples derivados el uno del otro, definición de: <https://recursos.march.es/web/musica/jovenes/africa-inspira-a-occidente/html/polirritmias.html>
 
 
 ## Cómo moverme en el programa
 
 Primero en <https://strudel.cc/> ir al menú derecho-> patterns-> user-> new (para crear un nuevo código)
+
 
 En la barra izquierda de strudel click en sounds-> samples y hay una gran biblioteca de sonidos que no son instrumentos
 
