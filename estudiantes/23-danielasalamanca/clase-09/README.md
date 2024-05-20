@@ -2,7 +2,7 @@
 
 ## idea del proyecto
 
-el objetivo de mi proyecto es crear un código que captura video de la cámara y aplica el filtro *threshold* al gritar
+el objetivo de mi proyecto es crear un código en p5.js que capture el video de la cámara y aplique el filtro *threshold* al gritar
 
 ***
 ### proceso del código
