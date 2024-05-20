@@ -64,5 +64,7 @@ https://github.com/disenoUDP/dis9034-2024-1/assets/163039247/c9d17e1d-fd84-4c5d-
 7. no logro comprender bien como utilizar la biblioteca
 8. por cuestion del tiempo, no alcanzo a editar el video
 9. por hacer: [pixelar](https://editor.p5js.org/ismanfromes/sketches/QYJuxVFTl0)
-10. pixelado!!!
-https://github.com/disenoUDP/dis9034-2024-1/assets/163039247/2fc7e4b7-fee7-4506-8acd-4c3c86e7ca4d
+10. [pixelado!!!](https://github.com/disenoUDP/dis9034-2024-1/assets/163039247/2fc7e4b7-fee7-4506-8acd-4c3c86e7ca4d)
+
+
+# [mi solemne numero dos](https://editor.p5js.org/jacinta/sketches/QqiIpPK4C)
