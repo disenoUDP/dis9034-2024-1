@@ -16,7 +16,7 @@ Investigué las variables. Primero entré aquí http://www.sc.ehu.es/sbweb/fisic
 ![image](https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/0eb141f1-472b-4460-b3e2-8e7c452b4f53)
 
             
-Float almacena números con parte entera y decimal. Boolean tiene solo dos valores: verdadero o falso. Int almacena valores enteros. https://www.youtube.com/watch?v=wsI6N9hfW7E&list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_
+Float almacena números con parte entera y decimal. Boolean tiene solo dos valores: verdadero o falso. Int almacena valores enteros. Vi este video de The Coding Train acerca de las expresiones Boolean https://www.youtube.com/watch?v=wsI6N9hfW7E&list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_
 
 
 Luego investigué la siguiente parte del código, la cual se encarga de detectar si el cursor está dentro del rectángulo. Y abajo de esto, también la parte del código que le da un trazo blanco al rectángulo si se cumple la condición.
