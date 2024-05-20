@@ -175,4 +175,3 @@ código original le pertenece a: // licensed with CC BY-NC-SA 4.0 https://creati
 ![img ss5](./ss5.png)
 ![img ss6](./ss6.png)
 
-
