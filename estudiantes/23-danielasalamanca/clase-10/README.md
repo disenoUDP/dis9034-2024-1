@@ -72,8 +72,6 @@ let volumen = mic.getLevel();
 ```
 #### si se cumple la condición:
 
-8.1 
-
 ```javascript
     // obtiene la imagen capturada por la cámara web y la "almacena" en una variable llamada camara
     let camara = capturaWeb.get();
@@ -93,7 +91,9 @@ let volumen = mic.getLevel();
 
 - mis referentes para activar el video fueron <https://www.youtube.com/watch?v=hHZcIMppkFc&t=835s> y <https://p5js.org/es/reference/#/p5/createCapture> así supe cómo acceder a la cámara, voltear el video (para que sea como un espejo), establecer el tamaño y ocultar la vista previa de video que muestra p5
 
+- mi referente para el uso de *if* <https://es.javascript.info/ifelseZ>
 
+- mi referente de uso de filtros <https://p5js.org/es/reference/#/p5.Image/filter>
 
 ***
 ### link de acceso:
