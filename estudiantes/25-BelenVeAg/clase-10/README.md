@@ -1,8 +1,8 @@
 # clase-10: Entrega Solemne 2; hacer una melodía en strudel REPL
 
-página web: https://strudel.cc/
+página web: <https://strudel.cc/>
 
-# Primera parte: Hacer un estudio/acercamiento sobre lo que es Strudel y cómo funciona
+## Primera parte: Hacer un estudio/acercamiento sobre lo que es Strudel y cómo funciona
 
 Strudel es un entorno de programación musical en vivo para el navegador que traslada el lenguaje de patrones de Tidal Cycles a JavaScript.
 
@@ -12,33 +12,33 @@ Básicamente puedes programar sonidos, instrumentos, su duración, orden, compos
 
 Fuentes en donde estoy buscando información sobre el programa y referentes: 
 
-En Tydal más abajo en la ección seleccionada https://tidalcycles.org/docs/showcase
+En Tydal más abajo en la ección seleccionada <https://tidalcycles.org/docs/showcase>
 
-Error 404: https://www.error404.cl/coyarzun.htm
+Error 404: <https://www.error404.cl/coyarzun.htm>
 
-https://soundcloud.com/imavoodoochild/groove_rudiments_demo
+<https://soundcloud.com/imavoodoochild/groove_rudiments_demo>
 
-https://www.youtube.com/watch?v=3QdTgtWpRWw
+<https://www.youtube.com/watch?v=3QdTgtWpRWw>
 
-Proyecto sobre clima https://www.error404.cl/cimatica/
+Proyecto sobre clima <https://www.error404.cl/cimatica/>
 
-Sobre strudel https://strudel.cc/learn/samples/
+Sobre strudel <https://strudel.cc/learn/samples/>
 
-Workshop de strudel: https://www.youtube.com/watch?v=oqyAJ4WeKoU
+Workshop de strudel: <https://www.youtube.com/watch?v=oqyAJ4WeKoU>
 
-https://strudel.cc/workshop/recap/
+<https://strudel.cc/workshop/recap/>
 
-# Vocabulario/herramientas de strudel
+## Vocabulario/herramientas de strudel
 
 Información recopilada de: 
 
-https://strudel.cc/learn/samples/
+<https://strudel.cc/learn/samples/>
 
-https://strudel.cc/workshop/recap/
+<https://strudel.cc/workshop/recap/>
 
-Workshop de strudel: https://www.youtube.com/watch?v=oqyAJ4WeKoU
+Workshop de strudel: <https://www.youtube.com/watch?v=oqyAJ4WeKoU>
 
-Una de las funciones principales es el de "s" que es de "sonido", es una función para definir un sonido y reproducirlo: s function to play back different default samples (bd, sd, hh and misc) to get a drum beat.
+Una de las funciones principales es la de "s" que es de "sonido", es una función para definir un sonido y reproducirlo: "s function to play back different default samples (bd, sd, hh and misc) to get a drum beat".
 
 Por lo tanto, para poner un sonido usar la sintaxis: 
 ~~~
@@ -56,22 +56,22 @@ s("nombre sonido1:nº biblioteca nombre sonido2:nº bib")
 
 Para **intercalar un sonido en la serie** hay que poner los dos sonidos dentro de la sintaxis anterior en la parte que desees, pero ambos elemnteos deben estar encerrados en un **< sonido1 sonido2 sonido3 >**
 
-Varias herramientas (resumen) en: https://strudel.cc/workshop/recap/
+Varias herramientas (resumen) en: <https://strudel.cc/workshop/recap/>
 <img width="816" alt="Captura de Pantalla 2024-05-19 a la(s) 21 42 44" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/6e32075b-cc84-4120-acbe-8467cdd3f588">
 
-stack: es para hacer polirritmias. Llamamos polirritmia a la utilización simultánea de dos o más ritmos que no se perciben como simples derivados el uno del otro, definición de: https://recursos.march.es/web/musica/jovenes/africa-inspira-a-occidente/html/polirritmias.html
+stack: es para hacer polirritmias. Llamamos polirritmia a la utilización simultánea de dos o más ritmos que no se perciben como simples derivados el uno del otro, definición de: <https://recursos.march.es/web/musica/jovenes/africa-inspira-a-occidente/html/polirritmias.html>
 
-# Bibliotecas de sonido
+## Bibliotecas de sonido
 <img width="563" alt="Captura de pantalla 2024-05-13 a la(s) 16 28 24" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/3aae9f0d-70e8-4c2a-8810-2b08c125585f">
 
-Biblioteca de VCL, confirmado que se puede: https://github.com/sgossner/VCSL
+Biblioteca de VCL, confirmado que se puede: <https://github.com/sgossner/VCSL>
 
-Otra https://github.com/geikha/tidal-drum-machines
+Otra <https://github.com/geikha/tidal-drum-machines>
 
 
-# Cómo moverme en el programa
+## Cómo moverme en el programa
 
-Primero en https://strudel.cc/ ir al menú derecho-> patterns-> user-> new (para crear un nuevo código)
+Primero en <https://strudel.cc/> ir al menú derecho-> patterns-> user-> new (para crear un nuevo código)
 
 En la barra izquierda de strudel click en sounds-> samples y hay una gran biblioteca de sonidos que no son instrumentos
 
@@ -88,17 +88,17 @@ samples({
 
 Si se desaparece la barra de herramientas, va a aparecer en la parte de abajo y al apretar vuelve a estar donde antes.
 
-# Problemas 
+## Problemas 
 
 **1: Poner más de un sonido:** Era muy fácil y expliqué cómo se hace arriba, pero estube una hora intentando llegar a eso y al intentarlo me metí en un segundo problema:
 
 **2: Hacer stacks**: Por algun motivo que desconosco el programa dice que tengo un problema de notación al hacer esta función:
 
-https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/f0c83bc4-8ca9-4120-86e6-4b28df8733b5
+<https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/f0c83bc4-8ca9-4120-86e6-4b28df8733b5>
 
 
 
-https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/ddc5f44f-f998-44ae-add7-043c9c424d63
+<https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/ddc5f44f-f998-44ae-add7-043c9c424d63>
 
 Pero al intentar con el segundo método que también menciona el video sí me funcionó, es el de la notación:
 ~~~
@@ -109,14 +109,14 @@ s(xxx)
 ~~~
 **3: Subir un sonido/contenido de mi biblioteca:** No especifica en qué formato es el que me permite subir, intente con wav y mp3 y ninguno me funcionó. 
 
-**4: Descargar un link con mi código:** Me descargué como 3 links según iba avanzando y en mi computador sí abría mi código, PERO al abrirlo ahora en el compu de la u me abrieron diferentes códigos predeterminados de strudel. En un minuto dado me dio este link que es un link dentro de un link?: https://strudel.cc/?EuJ49HwytEp_)[https://strudel.cc/?Wam4Rj4DbY-r](https://strudel.cc/?EuJ49HwytEp_
+**4: Descargar un link con mi código:** Me descargué como 3 links según iba avanzando y en mi computador sí abría mi código, PERO al abrirlo ahora en el compu de la u me abrieron diferentes códigos predeterminados de strudel. En un minuto dado me dio este link que es un link dentro de un link?: <https://strudel.cc/?EuJ49HwytEp_)[https://strudel.cc/?Wam4Rj4DbY-r](https://strudel.cc/?EuJ49HwytEp_>
 
-Observación importante, uno de los links que eestaban dentro de ese gran link sí funcionaba, a diferencia de otro que intenté antes, pero que me mandaba a cualquier lado. El que es válido es: https://strudel.cc/?EuJ49HwytEp_
+Observación importante, uno de los links que eestaban dentro de ese gran link sí funcionaba, a diferencia de otro que intenté antes, pero que me mandaba a cualquier lado. El que es válido es: <https://strudel.cc/?EuJ49HwytEp_>
 
-# Cómo se hace mi melodía
-Link: https://strudel.cc/?EuJ49HwytEp_)[https://strudel.cc/?Wam4Rj4DbY-r](https://strudel.cc/?EuJ49HwytEp_
+## Cómo se hace mi melodía
+Link: <https://strudel.cc/?EuJ49HwytEp_>
 
-Código: https://strudel.cc/?EuJ49HwytEp_
+Código: 
 ~~~
 //Nota: Cuando haces muchas composiciones solo sonará la última que hiciste. Por lo que para escuchar los que vienen antes, hay que poner las últimas en notación de comentario.
 //Es por esto que para ir leyendo el paso a paso de mejor manera habrá que 1. Sacar los // que anteponen cada código y luego poner play (es una sugerencia de cómo leer esto pero no estoy segura si le gusta?)
