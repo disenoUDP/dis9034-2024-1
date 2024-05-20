@@ -1,8 +1,9 @@
 # Clase 10:
 
 # Solemne 02: 
-- Lo primero que hice para comezar mi solemne fue buscar referentes sobre la idea inicial que tenía pensada, la cual era poder encontrar una forma de poder visualizar las ondas de sononido de una de mis canciones favoritas, a tráves de una figura a elección, en este caso un circulo.
+- Lo primero que hice para comezar mi solemne fue buscar referentes sobre la idea inicial que tenía pensada, la cual era poder encontrar una forma de poder visualizar las ondas de sononido de una de mis canciones favoritas, a tráves de una figura a elección, en este caso un circulo. Para ello me base en el video de la canción "Do You Wanna Know" de Arctic Monkeys
 
+  
 ## Ondas de sonido moviendose por música
 
 # Paso 01: Cargamos la canción en el editor
@@ -53,7 +54,7 @@ tenemos nuestra primera linea con relleno
 # Paso 03: Decidmos usar un circulo como forma y vamos variando que estilo se ve mejor
 
 ![p52](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/5c3ba37a-55cf-48dc-bf31-65f2a13af2c9)!
-- Centramos la forma
+- Centramos la forma en el lienzo
 
 ![circulo](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/53c2572c-f7ac-4d4e-9581-ca9439705ea5)!
 
@@ -64,6 +65,10 @@ tenemos nuestra primera linea con relleno
 
 ![circulo Completo p5js (1)](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/b42c0de1-57ba-425e-9b80-018d1f72298e)!
 
-## Link del proyecto
-
-<https://editor.p5js.org/isabellagutierrezm/sketches/2wt78sLuA>
+## LinkS del proyecto
+Loading sound: [
+](https://www.youtube.com/watch?v=Pn1g1wjxl_0&t=300s)
+Amplitud de onda: [
+](https://www.youtube.com/watch?v=jEwAMgcCgOA&t=482s)
+Configuración de mouse: [
+](https://www.youtube.com/watch?v=YcezEwOXun4)
