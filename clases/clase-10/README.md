@@ -1,4 +1,4 @@
-# Clase 09: Registro de proyecto :)
+# Clase 10: Registro de proyecto :)
 ![perritollorón](https://github.com/disenoUDP/dis9034-2024-1/assets/163899952/8c985b00-099e-4f2d-af9f-3f90e3ec7e73)
 
 
