@@ -23,4 +23,19 @@ Paso 3: Luego de esto ya estará creada, y podrás verificar viendo en la barra 
 
 ! [img ss3] (./Img_3.png)
 
+Ejemplo de uso:
+
+-> Si quisiera buscar una reseña de un libro que este leyendo, con una cita en específico del libro.
+- Utilizar Books Api junto a el comando de /reviews.json y ahi me encontraré con una tabla que me pidirá datos del libro ( isbn, nombre y autor del libro)
+
+  * Dato: El ISBN (International Standard Book Number) " es un número de 13 cifras que identifica de una manera única a cada libro o producto de editorial publicado en el mundo. Su propósito es identificar un título o la edición de un título de un editor específico". Fuente: (https://www.isbn.org/isbn_spanish#:~:text=International%20Standard%20Book%20Number%20(ISBN,el%20mundo%20con%20caracter%C3%ADsticas%20semejantes.&text=Para%20qu%C3%A9%20sirve%20el%20ISBN%3F,t%C3%ADtulo%20de%20un%20editor%20espec%C3%ADfico.)
+
+! [img ss4] (./Img_4.png)
+
+-> Libro que quiero buscar: Harry Potter and the Sorcerer`s Stone 
+Autor: J.K. Rowling
+
+
+
+
 
