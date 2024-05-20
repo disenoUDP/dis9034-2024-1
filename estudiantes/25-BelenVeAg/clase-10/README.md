@@ -134,33 +134,34 @@ s(xxx)
 Observación importante, uno de los links que eestaban dentro de ese gran link sí funcionaba, a diferencia de otro que intenté antes, pero que me mandaba a cualquier lado. El que es válido es: <https://strudel.cc/?EuJ49HwytEp_>
 
 ## Cómo se hace mi melodía
-Link: <https://strudel.cc/?EuJ49HwytEp_>
+Link: <https://strudel.cc/?TD4vbgZeqPYr>
 
 Código: 
 ~~~
-//Nota: Cuando haces muchas composiciones solo sonará la última que hiciste. Por lo que para escuchar los que vienen antes, hay que poner las últimas en notación de comentario.
-//Es por esto que para ir leyendo el paso a paso de mejor manera habrá que 1. Sacar los // que anteponen cada código y luego poner play (es una sugerencia de cómo leer esto pero no estoy segura si le gusta?)
+//Nota: Cuando haces muchas composiciones solo sonará la última que hiciste. Por lo que para escuchar los que viene antes, hay que poner las últimas creadas en la notación de comentario.
+//Por lo tanto, al poner el play ahora se va a escuchar la última melodía/código. Entonces los códigos anteriores son el paso a paso de cómo llegué a lo último.
 
 
-//Quiero insertar el sonido del cuervo de la biblioteca, por lo que con s lo defino y con n defino cuál de la biblioteca quiero utilizar (el 0)
+//Quiero insertar el sonido del cuervo de la biblioteca, por lo que con "s" lo defino y con "n" defino cuál de la biblioteca quiero utilizar (el 0)
 s("crow").n(1)
 
 //Otra forma de hacer exactamente lo mismo pero abreviado es:
-s("crow:1" )
 //Fuente: https://www.youtube.com/watch?v=oqyAJ4WeKoU
+s("crow:1" )
 
-//Quiero agregar otro sonido. Para esto
+//Quiero agregar otro sonido. Para esto:
+//Fuente: https://www.youtube.com/watch?v=oqyAJ4WeKoU
 s("crow:1 fingercymbal:0")
 
 //Para agregar sonidos intercalados, usamos <>:
 //Fuente: https://www.youtube.com/watch?v=oqyAJ4WeKoU
 s("crow:1 clap:1 fingercymbal:0 <bd bd jazz:1 hh:1>")
 
-//Para agregar una sub secuencia usamos []
+//Para agregar una sub secuencia dentro de la secuencia, usamos []:
 // Fuente: https://strudel.cc/workshop/recap/
 s("crow:1 clap:1 fingercymbal:0 <[bd bd] [bd bd jazz:1] hh:1>")
 
-//Para agregar una sub-sub secuencia usamos dentro del [] otro []:
+//Para agregar una sub-sub secuencia, usamos dentro del [] otro []:
 // Fuente: https://strudel.cc/workshop/recap/
 s ("crow:1 clap:1 fingercymbal:0 <[bd bd] [bd bd jazz:1] [[bd bd] jazz:1] hh:1>")
 
@@ -223,7 +224,7 @@ s("~ ~ ~ ~ ~ dantranh_tremolo:16*8 ~ ~ ~ ~ ~ ~ ~ ~ ~").lpf(saw.range(200,500)),
 s("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ siren:1*4")
 )
 
-//Suena mejor como antes, pero y si lo hacemos más lento? Para eso hay que poner la función slow down= /:
+//Suena mejor como antes. ¿Pero y si lo hacemos más lento? Para eso hay que poner la función slow down con /:
 //Fuente: https://strudel.cc/workshop/recap/
 stack (
 
@@ -233,5 +234,49 @@ s("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ dantranh_tremolo:16/3 ~ ~ ~ ~ ~").lpf(saw.range(200
 
 s("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ siren:1*4")
 )
+
+//Vamos a agregar la función .scope() que agrega un oscilófono visual que actúa según el comportamiento del ritmo:
+//Fuente: https://strudel.cc/blog/#new-visualizations
+stack (
+
+s("crow:1 clap:1 fingercymbal:0 <[bd bd] [bd bd jazz:1] [[bd bd] jazz:1] hh:1*2>"),
+
+s("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ dantranh_tremolo:16/3 ~ ~ ~ ~ ~").lpf(saw.range(200,500)),
+
+s("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ siren:1*4")
+)
+.scope()
+
+//Vamos a agregar otro efecto visual que se comporta según el ritmo, para esto vamos a usar la función  ._spiral({colorizeInactive: true}) 
+//Fuente: https://strudel.cc/?bNV60Egwhd9P        10958: Korvai experiment by yaxu
+
+stack (
+
+s("crow:1 clap:1 fingercymbal:0 <[bd bd] [bd bd jazz:1] [[bd bd] jazz:1] hh:1*2>"),
+
+s("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ dantranh_tremolo:16/3 ~ ~ ~ ~ ~").lpf(saw.range(200,500)),
+
+s("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ siren:1*4")
+)
+.scope()
+
+  
+  ._spiral({colorizeInactive: true})
+
+//Vamos a modificar la visualidad del spiral y darle colores según la parte de la melodía que predomina o aparece:
+//Fuente: https://strudel.cc/?bNV60Egwhd9P       10958: Korvai experiment by yaxu
+stack (
+
+s("crow:1 clap:1 fingercymbal:0 <[bd bd] [bd bd jazz:1] [[bd bd] jazz:1] hh:1*2>").color("blue"),
+
+s("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ dantranh_tremolo:16/3 ~ ~ ~ ~ ~").lpf(saw.range(200,500)).color("pink"),
+
+s("~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ siren:1*4").color("yellow")
+)
+.scope()
+
+  
+  ._spiral({colorizeInactive: true})
+
 
 ~~~
