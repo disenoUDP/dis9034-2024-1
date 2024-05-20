@@ -50,7 +50,7 @@ En el video de The Coding Train se mencionaba cómo una imagen funciona casi igu
    ![image](https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/05bc22fc-61e3-45df-9be4-3e99277e1a55)
 
 
-4) Con lo que aprendí en https://processing.org/reference/imageMode_.html y https://processing.org/reference/rectMode_.html reemplacé el rectángulo por la imagen, y le di el modo de (CENTER) en vez de (RADIUS)
+4) Con lo que aprendí en https://processing.org/reference/imageMode_.html y https://processing.org/reference/rectMode_.html reemplacé el rectángulo por la imagen, y le di el modo de (CENTER) en vez de (RADIUS) 
 
    
  ![image](https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/2a0a5974-be3c-4e4c-afa4-1ada7fbd4425)
