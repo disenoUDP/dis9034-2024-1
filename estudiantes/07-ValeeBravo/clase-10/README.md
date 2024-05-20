@@ -50,7 +50,7 @@ La imagen se encuentra en medio del área de trabajo, permite que todos los cír
 
 ![image](https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/23282692-3314-465f-b012-810b7c719d66)
 
-Objeto que se llama "sonido" es igual a SoundFile que permite cargar el sonido "ocean.mp3" cargado de una página de internet. : https://pixabay.com/es/sound-effects/search/mar/
+Objeto que se llama "sonido" es igual a SoundFile que permite cargar el sonido "ocean.mp3". El sonido fue descargado de una página de internet. : https://pixabay.com/es/sound-effects/search/mar/
 
 ![image](https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/058bc516-1f5b-4d48-8efc-0933404e1047)
 
