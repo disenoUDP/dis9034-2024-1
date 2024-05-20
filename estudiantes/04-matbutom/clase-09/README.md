@@ -10,19 +10,19 @@
 
 ## ideas para el desarrollo
 
-luego de que encontré la librería `p5.riso` que sirve para p5, siento que puedo transformar varias fotos o dibujos en impresiones risográficas. Las impresiones risográficas son un sistema de impresión digital de alta velocidad fabricado por Riso pewKagaku Corporation, este tipo de impresiones en Chile son escazas, existen pocos estudios de diseño que ofrecen el servicio de este tipo de impresión, por eso siento que puedo usar esta librería para crear mis propias risos y usarlas para @rafita.studio y poder sacarle el jugo.
+luego de que encontré la biblioteca `p5.riso` que sirve para p5, siento que puedo transformar varias fotos o dibujos en impresiones risográficas. Las impresiones risográficas son un sistema de impresión digital de alta velocidad fabricado por Riso pewKagaku Corporation, este tipo de impresiones en Chile son escazas, existen pocos estudios de diseño que ofrecen el servicio de este tipo de impresión ([rata estudio](https://www.instagram.com/rataestudio.cl/), [aoi club](https://www.instagram.com/aoiclub.cl/), [dormidaeditoria](https://www.instagram.com/dormidaeditora/), etc), por eso siento que puedo usar esta biblioteca para crear mis propias risos y usarlas para @rafita.studio y poder sacarle el jugo. 
 
 _link del proyecto p5.riso: <https://antiboredom.github.io/p5.riso/>_
 
-deseo explorar la interactividad con la combinación de colores que ofrece la librería en variedad de fotos y dibujos.
+deseo explorar la interactividad con la combinación de colores que ofrece la biblioteca en variedad de fotos y dibujos.
 
 ---
 
-encontré la librería en p5.js llamada `p5.riso` que transforma fotos y te ayuda a generar tus sketches o dibujos en impresiones risográficas
+encontré la biblioteca en p5.js llamada `p5.riso` que transforma fotos y te ayuda a generar tus sketches o dibujos en impresiones risográficas
 
 <img width="763" alt="Captura de pantalla 2024-05-13 a la(s) 15 31 02" src="https://github.com/matbutom/dis9034-2024-1/assets/163034603/cc674424-0cb7-4b1d-aec5-040e077e4f51">
 
-_screenshot de la web que explica la librería_
+_screenshot de la web que explica la biblioteca_
 
 ---
 
@@ -44,7 +44,7 @@ luego tocó insertar la siguiente línea de código en la carpeta del editor `in
 
 ## ACTUALIZACIÓN 13.05.2024 17:30
 
-acabo de descubrir que la función de la librería nos ayuda a la separación de colores para la impresión risográfica, es una función muy buena, que nos ayuda a acortar la pega de la turtuosa separación de colores. Lo que no me ayuda mucho ya que yo pensaba que esta librería nos crearía imágenes con una especie de simulación de textura de impresión risográfica, lo que no hace :(
+acabo de descubrir que la función de la biblioteca nos ayuda a la separación de colores para la impresión risográfica, es una función muy buena, que nos ayuda a acortar la pega de la turtuosa separación de colores. Lo que no me ayuda mucho ya que yo pensaba que esta biblioteca nos crearía imágenes con una especie de simulación de textura de impresión risográfica, lo que no hace :(
 
 AHORA NO SÉ QUÉ HACER VOY A SEGUIR INVESTIGANDO
 
