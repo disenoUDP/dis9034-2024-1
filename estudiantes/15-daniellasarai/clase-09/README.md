@@ -21,4 +21,8 @@
 * [flickeringLines](https://editor.p5js.org/chaski/sketches/IlIKtwLfn)
 * [soundReactive](https://editor.p5js.org/saebin.park/sketches/ISkiuysH-)
 * [soundAnalyzer](https://editor.p5js.org/paigem/sketches/KLvXoDZZ_)
+### Referencias trabajo final 
+* [interactiveAlbumCover](https://youtu.be/QjCtbMNLRuc?si=rBw3hPVEzGknCbXR)
+* [soundsVioletWhitney](https://medium.spatialpixel.com/sounds-bd05429aba38)
+* [referenceP5js](https://p5js.org/reference/)
 
