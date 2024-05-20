@@ -10,7 +10,7 @@
 
 ## ideas para el desarrollo
 
-luego de que encontré la biblioteca `p5.riso` que sirve para p5, siento que puedo transformar varias fotos o dibujos en impresiones risográficas. Las impresiones risográficas son un sistema de impresión digital de alta velocidad fabricado por Riso pewKagaku Corporation, este tipo de impresiones en Chile son escazas, existen pocos estudios de diseño que ofrecen el servicio de este tipo de impresión (rata estudio, aoi club, dormidaeditoria, etc), por eso siento que puedo usar esta biblioteca para crear mis propias risos y usarlas para @rafita.studio y poder sacarle el jugo. 
+luego de que encontré la biblioteca `p5.riso` que sirve para p5, siento que puedo transformar varias fotos o dibujos en impresiones risográficas. Las impresiones risográficas son un sistema de impresión digital de alta velocidad fabricado por Riso pewKagaku Corporation, este tipo de impresiones en Chile son escazas, existen pocos estudios de diseño que ofrecen el servicio de este tipo de impresión ([rata estudio](https://www.instagram.com/rataestudio.cl/), [aoi club](https://www.instagram.com/aoiclub.cl/), [dormidaeditoria](https://www.instagram.com/dormidaeditora/), etc), por eso siento que puedo usar esta biblioteca para crear mis propias risos y usarlas para @rafita.studio y poder sacarle el jugo. 
 
 _link del proyecto p5.riso: <https://antiboredom.github.io/p5.riso/>_
 
