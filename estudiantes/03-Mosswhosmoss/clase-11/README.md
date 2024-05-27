@@ -50,3 +50,5 @@ Logré esto en el trabajo, voy a seguir intentando hacer mas cosas en la casa
 
 <img width="1638" alt="Captura de pantalla 2024-05-27 a la(s) 17 19 43" src="https://github.com/Mosswhosmoss/dis9034-2024-1/assets/168484044/e66d6138-2568-48ce-a65a-5df6c57043db">
 
+p5.js: https://editor.p5js.org/Mosswhosmoss/sketches/GGBpkLg_V
+
