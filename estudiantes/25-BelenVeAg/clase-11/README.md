@@ -48,6 +48,9 @@ dir: "ltr" --> dir: de dirección. ltr: de izquierda a derecha.
 Los periodistas hacen appis para estar al día con las noticias, les avisan lo que les importa, automatizar.
 
 
+<https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/761af763-5ac8-41bb-8855-04677e17770f>
+
+
 ## JSON y P5
 Uno puede utilizar parte del código del JSON para hacer cosas con eso. Lo difícil es encontrar/saber el contenido del código para poder usarlo.
 
@@ -62,3 +65,32 @@ Cuando ponemos datos.image es porque image sale dentro de datos.
 <img width="997" alt="Captura de pantalla 2024-05-27 a la(s) 16 32 22" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/f3cc2a61-b301-4d8b-99fe-8caebea172e7">
 
 Para sacar los JSON hay que entrar a las appis de las págs web.
+
+Cuando sacas JSON de appis solo utiliza los que están completamente desarrollados.
+
+Error al subir imágenes de wikipedia:
+
+![IMG_1342](https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/ef1ff5b5-b4bd-4fb7-808b-ceab5e038adf)
+
+```
+let datos;
+
+
+function preload() {
+  datos = loadJSON("./27.json", cargado);
+}
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+}
+
+function cargado() {
+  console.log(datos.image.file_page)
+  
+}
+```
+https://editor.p5js.org/BelenVeAg/sketches/XhoOnWcwq
