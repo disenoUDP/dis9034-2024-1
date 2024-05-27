@@ -44,4 +44,14 @@ Y luego un código en p5js
 
 ![img ss1](./Img_1.png) 
 
-- Dato util: Al poner un punto (.) al programar, estoy pidiendo que abra una carpeta. 
+- Datos útiles: 
+->Al poner un punto (.) al programar, estoy pidiendo que abra una carpeta
+-> Si está después de una coma (,) y entremedio de un paréntesis entonces es una carpeta. 
+
+Adjunto de imagenes de exploración de Json en p5js
+
+![img ss2](./Img_2.png) 
+![img ss3](./Img_3.png) 
+![img ss4](./Img_4.png) 
+![img ss5](./Img_5.png)  
+
