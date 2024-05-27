@@ -46,4 +46,7 @@ Uno puede cargar archivos JSON para trabajar en p5.js, lo más complejo es encon
 <img width="1638" alt="Captura de pantalla 2024-05-27 a la(s) 16 37 51" src="https://github.com/Mosswhosmoss/dis9034-2024-1/assets/168484044/576c5291-80b9-45fd-9fce-a1f38c6824ba">
 
 ## Trabajo en clases
+Logré esto en el trabajo, voy a seguir intentando hacer mas cosas en la casa
+
+<img width="1638" alt="Captura de pantalla 2024-05-27 a la(s) 17 19 43" src="https://github.com/Mosswhosmoss/dis9034-2024-1/assets/168484044/e66d6138-2568-48ce-a65a-5df6c57043db">
 
