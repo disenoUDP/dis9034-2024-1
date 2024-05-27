@@ -43,3 +43,5 @@ Y acceder al link, ese link descargarlo para luego subirlo a p5js
 Y luego un código en p5js
 
 ![img ss1](./Img_1.png) 
+
+- Dato util: Al poner un punto (.) al programar, estoy pidiendo que abra una carpeta. 
