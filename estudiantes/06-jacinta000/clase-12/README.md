@@ -3,7 +3,8 @@
 # aleatoriedad 
 
 [programming design system](https://programmingdesignsystems.com/what-is-a-design-system/index.html#what-is-a-design-system-OQAaTNQ)   
-[the coding train](https://thecodingtrain.com/)
+[the coding train](https://thecodingtrain.com/)   
+[brian eno](https://www.google.com/search?q=brian+eno+works&sca_esv=f1a846ccc6d720d5&sca_upv=1&udm=2&biw=1200&bih=937&ei=LDNeZsvKMf3d5OUPsaKfqAo&ved=0ahUKEwjLkPqCrsCGAxX9LrkGHTHRB6UQ4dUDCBA&uact=5&oq=brian+eno+works&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2JyaWFuIGVubyB3b3Jrc0jMDVCBAliZDHABeACQAQCYASagAcIBqgEBNrgBA8gBAPgBAZgCBaACkgHCAgoQABiABBhDGIoFwgIFEAAYgATCAgQQABgewgIGEAAYBRgewgIGEAAYCBgemAMAiAYBkgcBNaAHgxE&sclient=gws-wiz-serp)
 
 numeros random [random en js](https://www.w3schools.com/js/js_random.asp)   
 ken perlin -> perlin noise: texturas parecidas a la realidad: funcion matematica.   
