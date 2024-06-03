@@ -1,6 +1,6 @@
 # clase-12
 
-# aleatoreidad 
+# aleatoriedad 
 
 [programming design system](https://programmingdesignsystems.com/what-is-a-design-system/index.html#what-is-a-design-system-OQAaTNQ)   
 [the coding train](https://thecodingtrain.com/)
