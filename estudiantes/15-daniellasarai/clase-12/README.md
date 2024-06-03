@@ -23,4 +23,4 @@ Hizo el logo de IBM
 > Referencias
 - [Genekogan](https://genekogan.com/code/p5js-perlin-noise/)
 - [Math.random](https://www.w3schools.com/js/js_random.asp)
-> Trabajo en clase desde p5.js[Aquí](https://editor.p5js.org/daniellasarai/sketches/Hb8b0Mvgk) 
+> Trabajo en clase desde p5.js [aquí](https://editor.p5js.org/daniellasarai/sketches/Hb8b0Mvgk) 
