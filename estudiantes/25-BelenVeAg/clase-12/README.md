@@ -64,4 +64,9 @@ Pelícua Tron 1982: Muchos avances de este tipo.
 
 El ruido gráfico es un sonido que no se escucha, pero se ve.
 
+## Investsigación perlin noise
+
 <https://www.youtube.com/watch?v=Qf4dIN99e2w>
+<https://genekogan.com/code/p5js-perlin-noise/>
+<https://p5js.org/es/reference/#/p5.Noise>
+
