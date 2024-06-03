@@ -1,6 +1,6 @@
 # clase-12
 ### Links de la clase
-- [Mechanic](https://mechanic.design/). No vamos a ver Mechanic Design
+- [Mechanic](https://mechanic.design/). (no vamos a ver Mechanic Design)
 - [Rune.js](https://runemadsen.github.io/rune.js/)
 - [Pentagram](https://www.pentagram.com/)
 - [material](https://m2.material.io/components)
