@@ -7,3 +7,5 @@ luego fuimos (+ @capitaldebulgaria) a las referencias de p5.js y empezamos a apr
 
 con el ejemplo que nos mostraba le profe, también nos recordó el muro de la entropía ⚡️ 
 ![IMG_2524](https://github.com/vaalentinya/dis9034-2024-1/assets/163034795/91843181-bd68-48b5-8168-ea9013dfff99)
+
+ver el README de @capitaldebulgaria para más!!! 🍓
