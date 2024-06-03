@@ -1,5 +1,5 @@
 # clase-12
-´´´javascript
+```javascript
 
 //variables de los valores RGB de cada color
 let r;
@@ -25,4 +25,4 @@ function draw() {
   
   
 }
-´´´
+```
