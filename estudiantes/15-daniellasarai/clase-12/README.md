@@ -1,4 +1,5 @@
 # clase-12
+## Aleatoriedad
 ### Links de la clase
 - [Mechanic](https://mechanic.design/) (no vamos a ver Mechanic Design)
 - [Rune.js](https://runemadsen.github.io/rune.js/)
