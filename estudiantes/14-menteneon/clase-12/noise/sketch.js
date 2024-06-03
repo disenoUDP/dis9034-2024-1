@@ -7,7 +7,7 @@ function setup() {
 
 function draw() {
   background(0, 0, 255);
-
+  // 0, 0, 255 es el color azul  
   
   // Set the noise level and scale.
   let noiseLevel = 100;
@@ -27,3 +27,5 @@ function draw() {
     line(x, 0, x, y);
   }
 }
+
+// informaciòn rescatada de https://p5js.org/es/reference/#/p5/noise
