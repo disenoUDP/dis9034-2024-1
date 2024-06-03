@@ -70,3 +70,42 @@ El ruido gráfico es un sonido que no se escucha, pero se ve.
 <https://genekogan.com/code/p5js-perlin-noise/>
 <https://p5js.org/es/reference/#/p5.Noise>
 
+stroke(nº): Define el color usado para dibujar l%C3%ADneas y bordes de figuras. Este color especificado en t%C3%A9rminos de color RGB o HSB. O stroke (x,x,x)
+
+fill(nº): Define el color usado para rellenar las figuras. O fill(x,x,x)
+
+Ejemplos de código para p5 con explicaciones
+
+```
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(150);
+  //noFill: para que las lineas no generen figuras con relleno.
+  noFill();
+  stroke(255);
+
+  //beginShape():sin esta función aparece una linea que señala el camino entre el primer punto y el último de la forma 
+  
+  beginShape();
+  //Aquí utilizamos las variables para generar mi pseudo random
+  for (var x = 0; x < width; x++) {
+	var nx = map(x, 0, width, 0, 10);
+	var y = height * noise(nx);
+	vertex(x, y);
+  }
+  endShape();
+}
+```javascript
+
+```
+
+Para hacer diseño paramétrico es mejor definir el comportamiento de los elementos con variables (no con un número exacto) porque así lo podemos modificar de fomar más fácil en el tiempo.
+
+Al lograr aleatoriedad nos acercamos a lo análogo. Agregar ruido a sus obras de forma controlada para que tenga un uso estético.
+
+John Cage: Música aleatoria. 
+
+Brian Eno: Incorpora mucha aleatoriedad y elementos no 
