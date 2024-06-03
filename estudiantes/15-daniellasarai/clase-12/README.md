@@ -9,6 +9,7 @@
 - [Programming Design Systems](https://programmingdesignsystems.com/shape/basic-shapes/index.html)
 - [Random](https://www.random.org/)
 - [Python Random Seed](https://www.w3schools.com/python/ref_random_seed.asp)
+- [The Coding Train](https://thecodingtrain.com/)
 
 ### Paul Rand
 Hizo el logo de IBM
