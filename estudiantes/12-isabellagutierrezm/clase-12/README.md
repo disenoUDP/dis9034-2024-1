@@ -46,6 +46,18 @@ https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/4e04cf80-3
 
 ![perlin noise graficado (1)](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/9e4388bc-96c3-4bfb-8f7c-06b2da6769b9)
 
--Pasamos el efecto de Perlin noise a dos dimensiones, calculando el índice  de los píxeles y sus colores, para poder crear la visualización predeterminada de la versión bidimensional de perlin noise 
+## Paso 06: Pasamos el efecto de Perlin noise a dos dimensiones, 
+- calculando el índice  de los píxeles y sus colores, para poder crear la visualización predeterminada de la versión bidimensional de perlin noise 
 // inc es incremento de la mezcla de píxeles, y se desenfoca 
-suaviza la aleatoriedad de cada píxel con una escala de grises  
+suaviza la aleatoriedad de cada píxel con una escala de grises
+
+![desenfoque (1)](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/8b590155-d732-4170-8469-9b2400f0956a)
+## Paso 07:
+-Pasamos de crear pixeles a vectores, para ello agregamos la variable escala, derivando columnas y filas 
+
+![cuadricula (1)](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/93658e30-eaf2-4296-918d-86289e6c21fc)
+
+
+
+https://editor.p5js.org/isabellagutierrezm/sketches/b5r_AORpl
+
