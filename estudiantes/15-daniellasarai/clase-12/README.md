@@ -18,3 +18,5 @@ Hizo el logo de IBM
 - [Math.random](https://www.w3schools.com/js/js_random.asp) no da un número aleatoria, dad uno seudo aleatorio
 - Perlin Noise
 - Agregar aletoriedad y perlin noise
+
+### Código con Math.random() y Perlin noise
