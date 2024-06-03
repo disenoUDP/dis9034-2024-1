@@ -1,1 +1,19 @@
 # clase-12
+
+- <https://mechanic.design/>
+- <https://programmingdesignsystems.com>
+- <https://m3.material.io/>
+- <https://designsystems.international>
+- <https://www.pentagram.com/>
+- <https://es.wikipedia.org/wiki/Paul_Rand>
+- <https://aframe.io/docs/1.5.0/introduction/>
+- <https://developers.google.com/ar>
+- <https://developer.apple.com/augmented-reality/arkit/>
+- <https://www.random.org/>
+- <https://en.wikipedia.org/wiki/Pseudorandomness>
+- <https://www.w3schools.com/python/ref_random_seed.asp>
+- <https://www.w3schools.com/python/ref_random_seed.asp>
+- <https://es.wikipedia.org/wiki/Distribuci%C3%B3n_uniforme_continua>
+- <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random>
+- <https://p5js.org/reference/#/p5/noise>
+- <https://www.youtube.com/watch?v=c6K-wJQ77yQ>
