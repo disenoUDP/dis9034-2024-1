@@ -26,4 +26,3 @@ function draw() {
     line(x, 0, x, y);
   }
 }
-´´´
