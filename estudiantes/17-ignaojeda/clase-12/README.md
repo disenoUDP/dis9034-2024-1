@@ -65,5 +65,6 @@ function draw() {
 }
 
 link p5: https://editor.p5js.org/ignaojeda/full/5jPnm5LRa 
-img 
+
+![img ss1](./Img_1.png) 
 
