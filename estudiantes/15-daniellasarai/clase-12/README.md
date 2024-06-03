@@ -20,3 +20,7 @@ Hizo el logo de IBM
 - Agregar aletoriedad y perlin noise
 
 ### Código con Math.random() y Perlin noise
+> Referencias
+- [Genekogan](https://genekogan.com/code/p5js-perlin-noise/)
+- [Math.random](https://www.w3schools.com/js/js_random.asp)
+> Trabajo en clase desde p5.js[Aquí](https://editor.p5js.org/daniellasarai/sketches/Hb8b0Mvgk) 
