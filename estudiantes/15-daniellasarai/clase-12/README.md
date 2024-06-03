@@ -14,4 +14,4 @@ Hizo el logo de IBM
 
 ### Random
 - Atmospheric noise, la aletoreidad proviene del ruido atmosférico
-- Dentro del código no se puede hacer algo realmente aleatorio pero se puede simular, como el ejemplo de [Python Random Seed]
+- Dentro del código no se puede hacer algo realmente aleatorio pero se puede simular, como el ejemplo de [Python Random Seed](https://www.w3schools.com/python/ref_random_seed.asp)
