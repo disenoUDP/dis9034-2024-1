@@ -26,3 +26,28 @@ function draw() {
   
 }
 ```
+```javascript
+function setup() {
+  createCanvas(500, 500);
+
+}
+
+function draw() {
+  background(255);
+
+
+  let noiseLevel = 400;
+  let noiseScale = 0.1;
+
+  
+  let nt = noiseScale * frameCount;
+
+  // posición x e y del punto
+  let x = noiseLevel * noise(nt);
+  let y = noiseLevel * noise(nt + 10000);
+
+ 
+  strokeWeight(40);
+  point(x, y);
+}
+```
