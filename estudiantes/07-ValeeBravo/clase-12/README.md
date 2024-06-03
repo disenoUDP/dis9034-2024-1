@@ -1,5 +1,5 @@
 # clase-12
-´´´javascript
+```javascript
 //Referencia sacada de noise() https://p5js.org/es/reference/#/p5/noise 
 //Canvas de 200x200 píxeles.
 function setup() {
