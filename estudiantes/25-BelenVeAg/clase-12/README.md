@@ -109,3 +109,5 @@ Al lograr aleatoriedad nos acercamos a lo análogo. Agregar ruido a sus obras de
 John Cage: Música aleatoria. 
 
 Brian Eno: Incorpora mucha aleatoriedad y elementos no 
+
+Ejemplo modificado no terminado: <https://editor.p5js.org/BelenVeAg/sketches/naP1mF5en>
