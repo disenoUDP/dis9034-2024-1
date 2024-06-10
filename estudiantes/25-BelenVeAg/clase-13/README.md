@@ -22,6 +22,8 @@ Su proyecto consiste en proyectar con bits en  la vida real, salirse sdel 2d.
 
 Otro referente: <https://chino.kim/> , physical-> Rube Telephone, basado en Rube Goldberg (que dibujaba máquinas super complejas para hacer acciones simples). Las partes con ampolletas se prenden según en qué lugar está el mensaje.
 
+![image](https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/6426789d-ca54-4be9-a6ca-7f55f713601a)
+
 OCR: Optical Character Recognition
 
 bit: pedacito donde cabe info. El lenguaje progrmático es muy coloquial. 1 Byte son 8 bits. Con 1 bit solo puedo escribir 2 valores/posibilidades (0,1), 2 bits (2^2), 3 bits (2^3), ... Por eso van los colores de 0 a 255
