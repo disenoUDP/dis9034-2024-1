@@ -12,4 +12,6 @@
 - nyu itp physical computing: llevar la computacion al fisico, sensores de reconocimiento.
 - media.mit.edu, tangible media _Hiroshi ishii_: bits tangibles y atomos circulares, su proyecto consiste de inventar nuevas interacciones tangibles y corporales que inspiren y atraigan a la gente.
 - chino.kim
+
 ## EXAMEN ## 
+Encuentro muy muy muy bacan el trabajo de juanpareschi, tal vez utilice su solemne I como inspiración https://editor.p5js.org/juan.pareschi_g/sketches/B-cufMCbO
