@@ -24,4 +24,6 @@ Application Programming Interface: intermediario de dos sistemas que permite se 
 - [strudel](https://github.com/disenoUDP/dis9034-2024-1/tree/main/estudiantes/25-BelenVeAg/clase-10) 25-BelenVeAg wow
 - [Fmmpeg](https://github.com/disenoUDP/dis9034-2024-1/tree/main/estudiantes/06-jacinta000/clase-10) 06-jacinta000 revisar
   
-###
+### Para estudiar
+-[p5 sound](https://github.com/processing/p5.js-sound) revisar referentes al final de la página
+-[Cargar y reproducir sonido p5](https://p5js.org/es/examples/sound-load-and-play-sound.html)
