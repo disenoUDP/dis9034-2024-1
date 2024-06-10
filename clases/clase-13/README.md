@@ -31,7 +31,7 @@ la pauta es:
 
 ## requisitos formales de la entrega
 
-- subir a tu carpeta de la clase-04 tu proceso, y luego a la clase-05 tu entrega final, incluyendo TODOS tus archivos index.html, style.css, script.js, y otros archivos necesarios (imágenes, videos, etc) para que corra la web.
+- subir a tu carpeta de CADA clase de ahora en adelante tu proceso, y así hasta tu entrega final, incluyendo TODOS tus archivos index.html, style.css, script.js, y otros archivos necesarios (imágenes, videos, etc) para que corra tu proyecto.
 - variables y archivos sin espacios, en camelCase o notación camello.
 - los comentarios se escriben en la línea de arriba del código
 - los comentarios se escriben en español
