@@ -1,7 +1,5 @@
 # clase-13
 
-# clase-09
-
 lunes 13 mayo 2024
 
 instrucciones examen:
