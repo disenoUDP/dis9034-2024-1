@@ -19,7 +19,7 @@ Application Programming Interface: intermediario de dos sistemas que permite se 
 - [WolfarmAlpha](https://www.wolfarmalpha.com): Los colores van del 0 al 255, se seleccionan 8bits para rojo, verde y azul respectivamente ya que son 24bits en total. #f significa el número máximo cuando hay 4bits, más que eso puede colapsar el color. En un color hex (#000000) corresponde a #RRGGBB.
 ****
 ### Exploración repositorio:
-- [Salvapantallas](https://editor.p5js.org/cielqz/sketches/kPYFXThiQ): Autorreferenteeee, me gusta el resultado final, le puse mucho cariño a los cubitos y la acción de rotar con la que cuentan. Se aplicó el dibujar figuras geométricas bi y tridimensionales, añadir media, media en vivo y aparición aleatoria de los objetos.
+- [Salvapantallas](https://github.com/cielqz/dis9034-2024-1/blob/main/estudiantes/10-cielqz/clase-10/README.md): -ahora sí está arriba- Autorreferenteeee, me gusta el resultado final, le puse mucho cariño a los cubitos y la acción de rotar con la que cuentan. Se aplicó el dibujar figuras geométricas bi y tridimensionales, añadir media, media en vivo y aparición aleatoria de los objetos.
 - [Catedrales de Mármol](https://github.com/disenoUDP/dis9034-2024-1/tree/main/estudiantes/07-ValeeBravo/clase-10) 07-ValeeBravo interesante para estudiar y revisar sus referentes :)
 - [Do I Wanna Know](https://github.com/disenoUDP/dis9034-2024-1/tree/main/estudiantes/12-isabellagutierrezm/clase-10) 12-isabellagutierrezm interesante el trabajo con sonido, pensé en hacer algo similar pero no tenía idea concreta.
 - [15-daniellasarai](https://github.com/disenoUDP/dis9034-2024-1/tree/main/estudiantes/15-daniellasarai/clase-10) 15-daniellasarai muy buen resultado, buen referente
