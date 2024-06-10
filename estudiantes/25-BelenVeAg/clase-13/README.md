@@ -30,4 +30,25 @@ bit: pedacito donde cabe info. El lenguaje progrmático es muy coloquial. 1 Byte
 
 Los humanos percivimos hast 10 millones de colores, por lo que los bits superaron ese número con 2^24, 8 para c/color: verde, azul y rojo. 
 
-bits para definir colores no utiliza el lenguaje (0,1), se emplea lenguaje HEXADECIMAL (lenguaje que después del 9 viene ABC...)-> 
+bits para definir colores no utiliza el lenguaje (0,1), se emplea lenguaje HEXADECIMAL (lenguaje que después del 9 viene ABC...)
+
+Crear cosas interesantes para uno, porque más adelante puede que cuando la gente las vea quiera invertir en ellas.
+
+## Proyectos de mis compañeros que me interesaron:
+
+19: Sol 1. <https://editor.p5js.org/juan.pareschi_g/sketches/B-cufMCbO>
+
+20: Maca <https://editor.p5js.org/MacaParrao/sketches/xYmDkVLFS>
+
+22. Cami rojas :) <https://editor.p5js.org/Camilarg7/sketches/vRdqsPs_x>
+
+12. Isa Sol 2: <https://editor.p5js.org/isabellagutierrezm/sketches/2wt78sLuA>
+
+11. Emi Sol 1: <https://editor.p5js.org/emiguerra/sketches/nx8CDSPMr>
+    Sol 2: <https://editor.p5js.org/emiguerra/sketches/SDxSn4E1b> ver sus apuntes también.
+
+
+
+
+Revizar:
+Pendiente el del simón
