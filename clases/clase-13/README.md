@@ -18,7 +18,7 @@ la solemne tiene nota máxima 7.0, tienen 1 punto base más estos 6 puntos evalu
 1. 1 punto por aspectos formales: subir los archivos indicados en la carpeta correcta, sin branches extra, **sin faltas de ortografía**, e inclusión de referentes y citas formales en tu documentación, incluyendo software con la versión específica que estás usando (ej p5.js v1.2.3)
 2. 1 punto por documentación textual en lenguaje MarkDown en tu archivo README.md sobre el funcionamiento de tu proyecto
 4. 1 punto por orden y comentarios de tu código
-5. punto por investigación y aplicación de bibliotecas (Processing Sound, three.js, API de NYtimes, etc...)
+5. 1 punto por investigación y aplicación de bibliotecas (Processing Sound, three.js, API de NYtimes, etc...)
 6. 2 puntos por autoevaluación fundamentada, incluyendo reflexión sobre tu proceso a lo largo del semestre.
 
 la pauta es:
