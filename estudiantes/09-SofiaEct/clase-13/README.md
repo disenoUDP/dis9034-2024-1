@@ -15,4 +15,4 @@
 
 - personalmente quiero hacer algo personal jaja, sobre lo conversado en la clase quiero hacer algo mucho mas significativo para mi, en formato juego en p5.js, creo que sera un proceso MUY duro, pero pienso en este proyecto como algo que quedara para siempre en mi (si es que funciona claro)
 - pincipalmente este trabajo esta inspirado en [chino kim](https://chino.kim/) y en su trabajo [...and](http://chjno.github.io/...and/)
-- 
+- https://es.wikipedia.org/wiki/Oregon_Trail_(videojuego) no olvidarrrr
