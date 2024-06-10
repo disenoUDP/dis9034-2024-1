@@ -23,4 +23,4 @@ Application Programming Interface: intermediario de dos sistemas que permite se 
 - [Catedrales de Mármol](https://github.com/disenoUDP/dis9034-2024-1/tree/main/estudiantes/07-ValeeBravo/clase-10) 07-ValeeBravo interesante para estudiar y revisar sus referentes :)
 - [Do I Wanna Know](https://github.com/disenoUDP/dis9034-2024-1/tree/main/estudiantes/12-isabellagutierrezm/clase-10) 12-isabellagutierrezm interesante el trabajo con sonido, pensé en hacer algo similar pero no tenía idea concreta.
 - [15-daniellasarai](https://github.com/disenoUDP/dis9034-2024-1/tree/main/estudiantes/15-daniellasarai/clase-10) 15-daniellasarai muy buen resultado, buen referente
-- 
+- [strudel](https://github.com/disenoUDP/dis9034-2024-1/tree/main/estudiantes/25-BelenVeAg/clase-10) 25-BelenVeAg wow
