@@ -9,3 +9,5 @@
 - video de referencia:
 - https://www.youtube.com/watch?v=m3_eUixh89I
 - https://timrodenbroeker.de/redrawing-images/
+- https://www.youtube.com/watch?v=f0KN7etR-d0
+- 
