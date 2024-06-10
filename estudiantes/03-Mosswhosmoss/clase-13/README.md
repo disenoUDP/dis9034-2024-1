@@ -14,4 +14,8 @@
 - chino.kim
 
 ## EXAMEN ## 
-Encuentro muy muy muy bacan el trabajo de juanpareschi, tal vez utilice su solemne I como inspiración https://editor.p5js.org/juan.pareschi_g/sketches/B-cufMCbO
+Encuentro muy muy muy bacan el trabajo de juanpareschi y matbutom, tal vez utilice la solemne I de juanpareschi como inspiración https://editor.p5js.org/juan.pareschi_g/sketches/B-cufMCbO y para el tratado de imagen el de matbutom https://editor.p5js.org/matbutom/sketches/bQ8mW54_V
+El examen sería un trabajo audiovisual sobre mí, mis gustos y persona
+- Estudiar bien la funcion createGraphics()
+- El tratado de imagen seria en semitono
+- Estudiar p5js riso
