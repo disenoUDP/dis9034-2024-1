@@ -28,6 +28,7 @@ sonido como una coleccion de potencia de ruido y su amplitud
 
 [link de la referencia](http://responsivedesign.de/wp-content/uploads/2016/05/tutorial-06_processing-soundmapping2.pdf)
 
+lo que se busca hacer es dibujar distintos circulos con un tamaño que lo define el moemnto actual de la cancion
 ``` java  
 import processing.sound.*;
 
