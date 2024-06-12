@@ -25,6 +25,9 @@ sonido como una coleccion de potencia de ruido y su amplitud
 ## FFT y creacion de graficas
 
 # ayuda con este codigo por fis
+
+[link de la referencia](http://responsivedesign.de/wp-content/uploads/2016/05/tutorial-06_processing-soundmapping2.pdf)
+
 ``` java  
 import processing.sound.*;
 
