@@ -43,7 +43,7 @@
 
 //p5 color
 
-//ejercicio de como usar funciones: https://editor.p5js.org/BelenVeAg/sketches/J9ukkHO9-
+//ejercicio de como usar funciones y bucles: https://editor.p5js.org/BelenVeAg/sketches/J9ukkHO9-
 
 //Ejercicio experimental: https://editor.p5js.org/BelenVeAg/sketches/94DqnZeo0
 
