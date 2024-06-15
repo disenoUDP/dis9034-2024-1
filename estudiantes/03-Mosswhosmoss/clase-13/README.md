@@ -19,3 +19,5 @@ El examen sería un trabajo audiovisual sobre mí, mis gustos y persona
 - Estudiar bien la funcion createGraphics()
 - El tratado de imagen seria en semitono
 - Estudiar p5js riso
+
+createGraphics(): Es un lienzo fuera de la pantalla, es decir, puedo tener más de un lienzo haciendo cosas distintas en el mismo código, esta función además permite tener más ordenado el código. 
