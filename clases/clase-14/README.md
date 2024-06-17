@@ -59,7 +59,7 @@ let font;
 font = loadFont('assets/nombreDeLaTipografía.otf');
 ```
 
-### 2. cómo cambiar los parámetros de la tipografía
+### 3. cómo cambiar los parámetros de la tipografía
 
 encontré que en p5 existen los `Sliders` que son elementos interactivos que nos crean barras con las que podemos editar una variable, siento que es una buena opción para comenzar a experimentar los distintos elementos que pueden ser editados.
 
