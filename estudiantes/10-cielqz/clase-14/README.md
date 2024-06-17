@@ -1,6 +1,6 @@
 # Preparación de examen
 
-El proyecto se trata de un reproductor de audio con interacción de mouse, en el que se puede reproducir, paurar, subir y bajar volumen e interactuar con los colores de la pantalla con clic, rueda de mouse y movimiento del mismo. Se trabajan dos versiones de un mismo proyecto. En la primera versión se utiliza la canción Hips Don't Lie se Shakira en versión Barcore/Medieval. En la segunda versión se utiliza el tema principal del anime Sailor Moon en versión piano.
+El proyecto se trata de un reproductor de audio con interacción de mouse, en el que se puede reproducir, paurar, subir y bajar volumen e interactuar con los colores de la pantalla con clic, rueda de mouse y movimiento del mismo. Se trabajan dos versiones de un mismo proyecto. En la primera versión se utiliza la canción Hips Don't Lie se Shakira en versión Barcore/Medieval. En la segunda versión se utiliza el tema principal del anime Sailor Moon en versión piano. [Uno de mis referentes](https://p5js.org/es/examples/sound-load-and-play-sound.html)
 ### Elementos a utilizar
 - Versión 1 - Shakira
   - Imágenes de fondo
