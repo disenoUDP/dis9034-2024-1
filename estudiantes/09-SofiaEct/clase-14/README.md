@@ -20,7 +20,7 @@ https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/2583edcc-482a-4fad-b
 
 como mencione en el punteo de los planes para este examen, quiero hacer algo mas personal, asi que hare una pequeña sinopsis del juego: "Sofìa una niña de 14 años recorre un largo camino para encontrarse con su gato 'simio' que es lo que mas quiere en este vida, por que tendra que pasar obstaculos y tomar decisiones en medio de su aventura para estar con su amigo felino`
 
-primero estoy viendo lo que es el personaje pero debo de hacer cada paso dibujandolo por lo que lo dejare para despues, me basare en el diseño de personaje de @Tezumines para hacerlo, y demas cosas de su github [Tezumine Github](https://github.com/Tezumie/into-the-mines)
+primero estoy viendo lo que es el personaje pero debo de hacer cada paso dibujandolo por lo que lo dejare para despues (ya que los necesito pa poder usar el cofdigo), me basare en el diseño de personaje de @Tezumines para hacerlo, y demas cosas de su github [Tezumine Github](https://github.com/Tezumie/into-the-mines)
 
 ![playerSprite](https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/8ffc2fd0-c2f1-4041-90c5-bcbffa4c85c2)
 
