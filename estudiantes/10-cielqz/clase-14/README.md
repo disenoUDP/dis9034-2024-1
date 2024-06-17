@@ -28,7 +28,7 @@ function preload() {
 }
 ```
 
-Una vez creado el lienzo y cargado el fondo del proyecto, se crea el relleno del marco. Para que este no sea un color sólido, se integra una gradiente que cambia conforme se mueve el mouse en el lienzo siguiendo el eje X en la versión 1 y eje Y en la versión 2
+Una vez creado el lienzo y cargado el fondo del proyecto, se crea el relleno del marco. Para que este no sea un color sólido, se integra una gradiente que cambia conforme se mueve el mouse en el lienzo siguiendo el eje X en la versión 1 y eje Y en la versión 2. [Enlace de referencia.](https://editor.p5js.org/owenroberts/sketches/HyKFHeS7Q)
  ```javascript
   push();
   r = map(mouseY, 0, 800, 208, 255);
@@ -77,7 +77,7 @@ function mouseWheel(rueda) {
 }
 ```
 ### Resultados
-Resultados cargados en nube online
+Resultados cargados en nube online (en procesoooo)
 - [Video Versión #1](https://www.dropbox.com/scl/fi/vvmj8jr2dsgec4o06vjnc/Shakira_Barcore.mov?rlkey=ya82z4h8tyu0d5iq82l7kwvao&st=n3wz6bea&dl=0)
 - [Video Versión #2](https://www.dropbox.com/scl/fi/z9yd469fi4zw7hzdsfpfi/Grabaci-n-de-pantalla-2024-06-17-a-la-s-16.27.08.mov)
 #### comentarios
