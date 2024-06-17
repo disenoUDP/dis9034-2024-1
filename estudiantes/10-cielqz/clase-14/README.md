@@ -76,6 +76,10 @@ function mouseWheel(rueda) {
   audio.setVolume(currentVolume);
 }
 ```
+### Resultados
+Resultados cargados en nube online
+- [Video Versión #1](https://www.dropbox.com/scl/fi/vvmj8jr2dsgec4o06vjnc/Shakira_Barcore.mov?rlkey=ya82z4h8tyu0d5iq82l7kwvao&st=n3wz6bea&dl=0)
+- [Video Versión #2](https://www.dropbox.com/scl/fi/z9yd469fi4zw7hzdsfpfi/Grabaci-n-de-pantalla-2024-06-17-a-la-s-16.27.08.mov)
 #### comentarios
 ```javascript
 También aprendí a poner los códigos en el readme en este formato, ya que antes no sabía y cargaba capturas de pantalla. jeje
