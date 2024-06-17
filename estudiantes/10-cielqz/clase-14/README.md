@@ -8,15 +8,14 @@ El proyecto se trata de un reproductor de audio con interacción de mouse, en el
 ### Elementos a utilizar
 - Versión 1 - Shakira
   - [Imagen de fondo](https://github.com/cielqz/dis9034-2024-1/assets/163901464/50301f10-9336-4020-a948-16fd6ad06a78)
-
-  - Audios
-  - Marcos
+  - Audio
+  - Marco
   - Paleta de colores
 
 - Versión 2 - Densetsu
-  - [Imagen Fondo](https://github.com/cielqz/dis9034-2024-1/assets/163901464/bfa86924-345e-49fb-ae47-88d0a042b4bc)
-- Audios
-- Marcos
+- [Imagen Fondo](https://github.com/cielqz/dis9034-2024-1/assets/163901464/bfa86924-345e-49fb-ae47-88d0a042b4bc)
+- Audio
+- Marco
 - Paleta de colores
    
 ### Proceso versión 2 - densetsu
