@@ -15,3 +15,55 @@ El proyecto se trata de un reproductor de audio con interacción de mouse, en el
     - [Fondo #2](https://github.com/cielqz/dis9034-2024-1/assets/163901464/bfa86924-345e-49fb-ae47-88d0a042b4bc)
    
 ### Proceso
+Se cargan elementos multimedia a utilizar, marco, audio e imagen de fondo. 
+```javascript
+let img;
+let audio;
+let bgd;
+
+function preload() {
+  audio = loadSound("Densetsu.mp3");
+  img = loadImage("corazon.png");
+  bgd = loadImage("bgd.jpg");
+}
+```
+
+Una vez creado el lienzo y cargado el fondo del proyecto, se crea el relleno del marco. Para que este no sea un color sólido, se integra una gradiente que cambia conforme se mueve el mouse en el lienzo siguiendo el eje Y.
+ ```javascript
+  push();
+  r = map(mouseY, 0, 800, 208, 255);
+  g = map(mouseY, 0, 800, 191, 248);
+  b = map(mouseY, 0, 800, 255, 201);
+  fill(r, g ,b);
+  noStroke();
+  ellipse(0, 0, 720);
+  pop();
+
+//se carga la imagen del marco y se añade la función rotate siguiendo el eje Z.
+  push();
+  rotateZ(frameCount * 0.004);
+  image(img, -400, -400, 800, 800);
+  pop();
+```
+
+El audio se reproduce y se pausa cuando se hace un click en computadores y al tacto en dispositivos móviles (en tablet funciona, en celulares el sonido no carga :c) con la función touchStarted() . Se intenta hacer que el fondo también cambie al hacer click, pero al hacerlo el marco deja un camino sobre el fondo nuevo mientras rota ya que la función no está en draw, por lo que no se reinicia. Aún se está intentando. :c 
+```javascript
+function touchStarted() {
+  if (audio.isPlaying()) {
+    audio.pause();
+    background(198, 235, 197);
+  } else {
+    audio.play();
+    // background(188, 90, 148); cambia de color con clic, se está resolviendo
+  }
+}
+
+```
+
+
+
+
+```javascript
+
+
+```
