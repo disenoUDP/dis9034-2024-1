@@ -57,7 +57,23 @@ function touchStarted() {
     // background(188, 90, 148); cambia de color con clic, se está resolviendo
   }
 }
+```
 
+Una vez listo el audio, se configura la rueda del mouse para que esté a cargo del volumen desde 0, siendo lo mínimo, hasta el 1, siendo lo máximo.
+```javascript
+function mouseWheel(rueda) {
+  let currentVolume = audio.getVolume();
+  if (rueda.delta > 0) {
+    currentVolume = max(0, currentVolume - 0.02);
+  } else {
+    currentVolume = min(1, currentVolume + 0.02);
+  }
+  audio.setVolume(currentVolume);
+}
+```
+#### comentarios
+```javascript
+También aprendí a poner los códigos en el readme en este formato, ya que antes no sabía y cargaba capturas de pantalla. jeje
 ```
 
 
