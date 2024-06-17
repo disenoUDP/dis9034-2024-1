@@ -2,7 +2,7 @@
 
 El proyecto se trata de un reproductor de audio con interacción de mouse, en el que se puede reproducir, paurar, subir y bajar volumen e interactuar con los colores de la pantalla con clic, rueda de mouse y movimiento del mismo. Se trabajan dos versiones de un mismo proyecto. En la primera versión se utiliza la canción Hips Don't Lie se Shakira en versión Barcore/Medieval. En la segunda versión se utiliza el tema principal del anime Sailor Moon en versión piano.
 ### Elementos a utilizar
-- Versión 1
+- Versión 1 - Shakira
   - Imágenes de fondo
      - [Fondo #1](https://github.com/cielqz/dis9034-2024-1/assets/163901464/50301f10-9336-4020-a948-16fd6ad06a78)
 
@@ -10,11 +10,11 @@ El proyecto se trata de un reproductor de audio con interacción de mouse, en el
   - Marcos
   - Paleta de colores
 
-- Versión 2
+- Versión 2 - Densetsu
   - Imagen de Fondo
     - [Fondo #2](https://github.com/cielqz/dis9034-2024-1/assets/163901464/bfa86924-345e-49fb-ae47-88d0a042b4bc)
    
-### Proceso
+### Proceso versión 2 - densetsu
 Se cargan elementos multimedia a utilizar, marco, audio e imagen de fondo. 
 ```javascript
 let img;
@@ -28,7 +28,7 @@ function preload() {
 }
 ```
 
-Una vez creado el lienzo y cargado el fondo del proyecto, se crea el relleno del marco. Para que este no sea un color sólido, se integra una gradiente que cambia conforme se mueve el mouse en el lienzo siguiendo el eje Y.
+Una vez creado el lienzo y cargado el fondo del proyecto, se crea el relleno del marco. Para que este no sea un color sólido, se integra una gradiente que cambia conforme se mueve el mouse en el lienzo siguiendo el eje X en la versión 1 y eje Y en la versión 2
  ```javascript
   push();
   r = map(mouseY, 0, 800, 208, 255);
