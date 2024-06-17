@@ -45,6 +45,11 @@ Una vez creado el lienzo y cargado el fondo del proyecto, se crea el relleno del
   image(img, -400, -400, 800, 800);
   pop();
 ```
+#### Versión #1 Shakira Barcore
+<img width="749" alt="Captura de pantalla 2024-06-17 a la(s) 16 31 56" src="https://github.com/cielqz/dis9034-2024-1/assets/163901464/8404b5b6-91f1-4fed-81fb-f030380db0c5">
+
+#### Versión #2 Densetsu Sailor Moon
+<img width="744" alt="Captura de pantalla 2024-06-17 a la(s) 16 31 50" src="https://github.com/cielqz/dis9034-2024-1/assets/163901464/8d7cd3a7-cea7-4d15-af40-bc6541f16851">
 
 El audio se reproduce y se pausa cuando se hace un click en computadores y al tacto en dispositivos móviles (en tablet funciona, en celulares el sonido no carga :c) con la función touchStarted() . Se intenta hacer que el fondo también cambie al hacer click, pero al hacerlo el marco deja un camino sobre el fondo nuevo mientras rota ya que la función no está en draw, por lo que no se reinicia. Aún se está intentando. :c 
 ```javascript
