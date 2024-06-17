@@ -1,10 +1,10 @@
 # clase-13
 
-*el objetivo es hacer un mini piano, de cinco notas, que logre sonar con cada una y que tenga un efecto visual de noise, cada vez que suene una tecla*
+*El objetivo es hacer un mini piano, de cinco notas, que logre sonar con cada una y que tenga un efecto visual de noise, cada vez que suene una tecla*
 
 ---
 
-primero que todo, referencias iniciales:
+Primero que todo, referencias iniciales:
 
 - piano, por monniqian: https://editor.p5js.org/monniqian/sketches/TwckaaeGl
 - Keyboard Piano, por mrbombmusic: https://editor.p5js.org/mrbombmusic/sketches/ryeLfZTd-
@@ -36,6 +36,6 @@ function piano(){
 }
 ```
 
-resultado: 
+Resultado: 
 
 <img width="1374" alt="Captura de pantalla 2024-06-17 a la(s) 16 46 41" src="https://github.com/vaalentinya/dis9034-2024-1/assets/163034795/766a8baa-ebb5-4e69-8e24-10b6f79e8beb">
