@@ -7,16 +7,14 @@ El proyecto se trata de un reproductor de audio con interacción de mouse, en el
 - [Code an Audio Visualizer in p5js](https://www.youtube.com/watch?v=uk96O7N1Yo0&ab_channel=ColorfulCoding)
 ### Elementos a utilizar
 - Versión 1 - Shakira
-  - Imagen de fondo
-     - [Fondo #1](https://github.com/cielqz/dis9034-2024-1/assets/163901464/50301f10-9336-4020-a948-16fd6ad06a78)
+  - [Imagen de fondo](https://github.com/cielqz/dis9034-2024-1/assets/163901464/50301f10-9336-4020-a948-16fd6ad06a78)
 
   - Audios
   - Marcos
   - Paleta de colores
 
 - Versión 2 - Densetsu
-  - Imagen de Fondo
-    - [Fondo #2](https://github.com/cielqz/dis9034-2024-1/assets/163901464/bfa86924-345e-49fb-ae47-88d0a042b4bc)
+  - [Imagen Fondo](https://github.com/cielqz/dis9034-2024-1/assets/163901464/bfa86924-345e-49fb-ae47-88d0a042b4bc)
 - Audios
 - Marcos
 - Paleta de colores
