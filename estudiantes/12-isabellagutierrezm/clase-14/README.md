@@ -63,4 +63,10 @@ y aceleración de estas partículas. Creo que este fue el paso más difícil ya 
 ![particulas en linea ](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/675ac63e-ae06-4057-ba82-f2a37fa36632)
 ![colores](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/8bb55a6e-fde8-45b1-a84d-e1c2a8332151)
 
+ ## Final: 
+ 
+https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/0a76e3a7-d0b1-47ef-b71b-e14a1aa7a613
+
+
+
 
