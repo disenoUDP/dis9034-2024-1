@@ -44,9 +44,14 @@ El tutorial de antes se llama "Cómo empezar" te muestra las funciones básicas 
 <img width="328" alt="Captura de pantalla 2024-06-17 a la(s) 15 40 02" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/41623ab3-1ace-4cf6-92a9-f1dfe5e9c18d">
 
 ## ¿Cuáles son las herramientas del menú.
-1. **Código:** se encarga de la programación y las acciones que quieres que ocurrana en tu proyecto.
-2. **Disfraz:**
-3. **Sonido:** 
+1. **Código:** apartado de la programación y las acciones que quieres que ocurran en los elementos de tu proyecto. Dichos elementos pueden ser un "objeto" o un "fondo".
+2. **Disfraz/Fondo:** apartado para hacer modificaciones visuales del objeto u fondo.
+3. **Sonido:** apartado
 
-**IMPORTANTE** para deshacer una acción NO apretes cmd+z o ctrl+z, tienes que usar las flechitas de deshacer que están en el menú de opciones.
+**IMPORTANTE** para deshacer una acción **NO** apretes cmd+z o ctrl+z, tienes que usar las flechitas de deshacer que están en el menú de opciones.
+
+
+**Grabación mostrando el cambio de opciones entre objeto y fondo**
+
+<https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/d72fd4b7-7120-4244-bc82-07a05b7f1eb5>
 
