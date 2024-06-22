@@ -36,7 +36,7 @@ x += random(-30, 30);
 y += random(-30, 30);
 image(grafico, x, y, 50, 50);
 ```
-Con esto logré que el modulo "gráfico" se dibujara de forma random encima de la foto de la faad, pero era muy rápido. Así que entré en la referencia de frameRate https://p5js.org/es/reference/#/p5/frameRate. Para hacerlo más lento tenía que darle un frame rate menor, así que lo dejé en 10 fotogramas por segundo.
+Con esto logré que el modulo "gráfico" se dibujara de forma random encima de la foto de la faad, pero era muy rápido. Así que entré en la referencia de frameRate https://p5js.org/es/reference/#/p5/frameRate. Para hacerlo más lento tenía que darle un frame rate menor, así que lo dejé en 10 fotogramas por segundo, ya que el default son 60.
 ``` javascript
 function setup() {
 frameRate(10)
