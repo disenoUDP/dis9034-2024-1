@@ -90,11 +90,15 @@ Este programa es de mucha experimentación, prueba y error, aquí se ve como est
 
 Ejemplos útiles de algunos tutoriales
 
+## Tutorial 1:
+
 <img width="335" alt="Captura de Pantalla 2024-06-22 a la(s) 15 51 38" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/7d7119b8-2859-46de-aff8-29cae3e8868c">
 
 <img width="469" alt="Captura de Pantalla 2024-06-22 a la(s) 15 53 54" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/90c6fa32-5aef-4bcf-b58c-738ca38744a2">
 
 <img width="476" alt="Captura de Pantalla 2024-06-22 a la(s) 15 55 55" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/c3839130-4b5b-4b8c-b05b-35ad64f0d085">
+
+## Tutorial 2:
 
 <img width="312" alt="Captura de Pantalla 2024-06-22 a la(s) 16 01 46" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/55f86e97-d65f-4dc4-8950-e08b7f4c400f">
 
@@ -102,4 +106,18 @@ Ejemplos útiles de algunos tutoriales
 
 <img width="493" alt="Captura de Pantalla 2024-06-22 a la(s) 15 59 00" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/4524bfe9-b3a2-42ea-a06b-1191a08ac42f">
 
-Quería que al apretar A mi elemento de inicio cambiara a otro elemento, pero no me dejaba a hacerlo. Después me di cuenta de que había una opción que me dejaba "cambiar de disfraz" al activar un comando. Por lo tanto, en vez de cambiar elementos, decidí cambiar cambiar disfrazes y para eso, os elementos los transformé en disfraces
+También existen unos tutoriales de cartoon network que explican acciones más avanzadas.
+
+<img width="318" alt="Captura de Pantalla 2024-06-22 a la(s) 17 02 26" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/c17d95c8-4c5e-4058-8202-44973bf42c05">
+
+<img width="309" alt="Captura de Pantalla 2024-06-22 a la(s) 17 02 39" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/3c530a45-1edc-4055-9ce1-cdd96aa17277">
+
+
+Quería que al apretar la tecla A mi elemento de inicio cambiara a otro elemento, pero no me dejaba a hacerlo. Después me di cuenta de que había una opción que me dejaba "cambiar de disfraz" al activar un comando. Por lo tanto, en vez de cambiar elementos, decidí cambiar cambiar disfrazes y para eso, os elementos los transformé en disfraces
+
+<https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/8fde3fdd-73a3-4445-bbc7-351927025189>
+
+## Más cosas que aprendí en el camino:
+Si pongo dos acciones que ocurren con un mismo accionador de forma separada, ambas van a ocurrir simultáneamente. 
+
+<img width="269" alt="Captura de Pantalla 2024-06-22 a la(s) 16 58 10" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/3d8bea11-c292-4064-9295-fd685b47845c">
