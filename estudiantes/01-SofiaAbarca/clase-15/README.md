@@ -94,15 +94,21 @@ Finalmente tocaba agregar algo de interactividad con el mouse. Encontré un ejem
 if (mouseIsPressed) {
 const randWidth = int(random(40, 50));
 const randHeight = int(random(30, 80));
+copy(mouseX, mouseY, 1, randHeight, mouseX, mouseY, randWidth, randHeight);
 }
 ```
+Es muy parecido a lo anterior, pero se activa mientras está presionado el mouse, selecciona los pixeles y gracias a copy() https://p5js.org/es/reference/#/p5.Image/copy, se copian los pixeles que están debajo del mouse y los repite hacia el lado y hacia abajo, usando las constantes anteriores.
+
+Finalmente lo probé y funciona, pero a veces salta un error en la consola.
+``` javascript
+> p5.js says: copy() was expecting Integer for parameter #1 (zero-based index), received number instead at blob:https://preview.p5js.org/77c42ecf-36ea-4529-b563-32e626c539d7:92:5. [http://p5js.org/reference/#p5/copy]
+```
+Aún no lo puedo solucionar
+
+Sketch del examen final: https://editor.p5js.org/SofiaAbarca/sketches/zn0A3Amwa
 
 
-
-Sketch del examen final:
-
-
-Otras cosas que probé/investigué en el proceso del examen:
+Otras cosas que probé/investigué en el proceso del examen: 
 
 
 
