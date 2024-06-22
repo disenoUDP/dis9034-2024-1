@@ -2,9 +2,9 @@
 
 ## planes examen 
 
-- personalmente quiero hacer algo personal jaja, sobre lo conversado en la clase quiero hacer algo mucho mas significativo para mi, en formato juego en p5.js, creo que sera un proceso MUY duro, pero pienso en este proyecto como algo que quedara para siempre en mi (si es que funciona claro)
-- pincipalmente este trabajo esta inspirado en [chino kim](https://chino.kim/) y en su trabajo [...and](http://chjno.github.io/...and/)
-- [oregon trail](https://es.wikipedia.org/wiki/Oregon_Trail_(videojuego)) no olvidarrrr
+- personalmente quiero hacer algo personal jaja, sobre lo conversado en la clase, quiero hacer algo mucho mas significativo para mí, en formato juego en p5.js, creo que será un proceso MUY duro, pero pienso en este proyecto como algo que quedará para siempre en mí (si es que funciona, claro).
+- pincipalmente este trabajo está inspirado en [chino kim](https://chino.kim/) y en su trabajo [...and](http://chjno.github.io/...and/)
+- [oregon trail](https://es.wikipedia.org/wiki/Oregon_Trail_(videojuego)) no olvidar!
 - quiero ver bien mis referentes antes de mepezar a hacer algo
 - INCREIBLE, me pse a ver lo juegos hecho en p5.js en [p5play](https://p5play.org/lang/es/index.html) y de tdos los increibles trabajo el que mas se acercaba a lo que queria hacer fue ["into the mines"](https://tezumie.github.io/into-the-mines/?_gl=1*7im9tm*_ga*MjA0Nzk4MDQ2Ni4xNzE4NjQ5OTgw*_ga_EHXNCTSYLK*MTcxODY0OTk3OS4xLjEuMTcxODY1MDEzMy4wLjAuMA..) de @Tezumies
 
@@ -25,3 +25,5 @@ primero estoy viendo lo que es el personaje pero debo de hacer cada paso dibujan
 ![playerSprite](https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/8ffc2fd0-c2f1-4041-90c5-bcbffa4c85c2)
 
 ya en p5.js estuve probando usar las capas con las imagenes que hice previamente e intentar animar mi sprite con la referencia de @p5play en su apartado de [aprender](https://p5play.org/lang/es/learn/) estan los codigos para animar nuestro personaje [p5play: Animation](https://p5play.org/lang/es/learn/animation.html?page=4)
+
+https://editor.p5js.org/SofiaEct/sketches/vpzen2j8u
