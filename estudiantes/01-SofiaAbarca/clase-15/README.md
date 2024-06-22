@@ -29,7 +29,16 @@ Para esto primero creé dos variables de posción x e y al principio del sketch.
 let x = 200
 let y = 200
 ```
-Después dentro de draw() 
+Después dentro de draw() usar estas variables de posción junto con random(), para cambiar la posición de la foto. En este caso puse que la foto se dibujara entre -30 y 30 pixeles de distancia desde la posición original cada vez.
+``` javascript
+function draw() {
+x += random(-30, 30);
+y += random(-30, 30);
+image(grafico, x, y, 50, 50);
+```
+
+
+
 
 
 
