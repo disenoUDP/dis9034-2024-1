@@ -81,6 +81,8 @@ El tutorial de antes se llama "Cómo empezar" te muestra las funciones básicas 
 
 **¿Cómo subir tu proyecto de la app a tu cuenta de internet?**
 
-<>
+<https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/4fd74512-568b-4de8-a81f-0916e150dec6>
+
+
 
 
