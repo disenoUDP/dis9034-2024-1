@@ -23,3 +23,5 @@ como mencione en el punteo de los planes para este examen, quiero hacer algo mas
 primero estoy viendo lo que es el personaje pero debo de hacer cada paso dibujandolo por lo que lo dejare para despues (ya que los necesito pa poder usar el cofdigo), me basare en el diseño de personaje de @Tezumines para hacerlo, y demas cosas de su github [Tezumine Github](https://github.com/Tezumie/into-the-mines)
 
 ![playerSprite](https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/8ffc2fd0-c2f1-4041-90c5-bcbffa4c85c2)
+
+ya en p5.js estuve probando usar las capas con las imagenes que hice previamente e intentar animar mi sprite con la referencia de @p5play en su apartado de [aprender](https://p5play.org/lang/es/learn/) estan los codigos para animar nuestro personaje [p5play: Animation](https://p5play.org/lang/es/learn/animation.html?page=4)
