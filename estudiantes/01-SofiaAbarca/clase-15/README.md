@@ -89,7 +89,7 @@ push()
       image(moda, c, d, 40, 40);
   pop()
 ```
-Finalmente tocaba agregar algo de interactividad con el mouse. Encontré un ejemplo de p5 que ampliaba los pixeles al arrastrar el mouse, así que lo quise replicar en mi sketch siguiendo con el concepto. Voldí a la referencia de mouseIsPressed https://p5js.org/es/reference/#/p5/mouseIsPressed. Hice dos constantes, para el largo y para el ancho.
+Finalmente tocaba agregar algo de interactividad con el mouse. Encontré un ejemplo de p5 que ampliaba los pixeles al arrastrar el mouse, así que lo quise replicar en mi sketch siguiendo con el concepto. Volví a la referencia de mouseIsPressed https://p5js.org/es/reference/#/p5/mouseIsPressed. Hice dos constantes, para el largo y para el ancho.
 ``` javascript
 if (mouseIsPressed) {
 const randWidth = int(random(40, 50));
@@ -97,6 +97,12 @@ const randHeight = int(random(30, 80));
 }
 ```
 
+
+
+Sketch del examen final:
+
+
+Otras cosas que probé/investigué en el proceso del examen:
 
 
 
