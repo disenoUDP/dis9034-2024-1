@@ -108,7 +108,7 @@ Aún no lo puedo solucionar
 Sketch del examen final: https://editor.p5js.org/SofiaAbarca/sketches/zn0A3Amwa
 
 
-Otras cosas que probé/investigué en el proceso del examen: 
+Otras cosas que probé/investigué en el proceso de hacer el examen:  https://editor.p5js.org/SofiaAbarca/sketches/Jq0uTJ95m , https://editor.p5js.org/SofiaAbarca/sketches/q4jZJ43bD , https://editor.p5js.org/SofiaAbarca/sketches/ZPv8fBjEU , 
 
 
 
