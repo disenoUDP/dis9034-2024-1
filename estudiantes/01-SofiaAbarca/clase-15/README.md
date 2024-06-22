@@ -59,7 +59,28 @@ a += random(-30, 30);
   b += random(-30, 30);
       image(industrial, a, b, 80, 80);
 ```
-Hasta aquí todo funcionaba bien, pero cuando le quise dar el modo de fusión blendMode(SOFT_LIGHT) no se aplicaba. Al parecer el primer modo de fusión afectaba a todo el sketch. Tuve que investigar si era posible tener 
+Hasta aquí todo funcionaba bien, pero cuando le quise dar el modo de fusión blendMode(SOFT_LIGHT) no se aplicaba. Al parecer el primer modo de fusión afectaba a todo el sketch. Tuve que investigar si era posible tener más de un modo de fusión. Estrés. Tras buscar en las referencias encontré algo muy útil, push() y pop() https://p5js.org/es/reference/#/p5/push. También me vi el video de The Coding Train que explica como funcionaba esto https://www.youtube.com/watch?v=o9sgjuh-CBM.
+Entonces lo probé en mi sketch. Hice un grupo con push() y pop () para ambas tranformaciones de módulos.
+``` javascript
+push()
+blendMode(EXCLUSION)
+x += random(-30, 30);
+y += random(-30, 30);
+image(grafico, x, y, 50, 50);
+pop()
+```
+``` javascript
+push()
+blendMode(SOFT_LIGHT)
+  a += random(-30, 30);
+  b += random(-30, 30);
+      image(industrial, a, b, 80, 80);
+  pop()
+
+```
+Así logré tener dos modos de fusión distintos para cada una de las dos imágenes. Con esto solucionado repetí todo lo anterior con el tercer módulo llamado "moda".
+``` javascript
+```
 
 
 
