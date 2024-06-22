@@ -241,6 +241,8 @@ https://github.com/matbutom/dis9034-2024-1/assets/163034603/5cbd5265-e876-4b24-b
 
 ---
 
+link al proyecto: <https://editor.p5js.org/matbutom/sketches/yAIz-rD9f>
+
 referencias:
 1. text(): <https://p5js.org/reference/#/p5/text>
 2. textFont(): <https://p5js.org/reference/#/p5/textFont>
