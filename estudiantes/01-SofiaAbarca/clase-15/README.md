@@ -47,7 +47,7 @@ Tras esto pensé que quedaría bien ponerle algún filtro a la imagen para que s
 ``` javascript
 blendMode(EXCLUSION)
 ```
-Investigué en esta página que era lo que hacía exactamente los modos de fusión. //www.dzoom.org.es/modos-de-fusion-photoshop/ , ya que los conocía de photshop pero nunca lo había investigado más en profundidad.
+Investigué en esta página que era lo que hacía exactamente los modos de fusión. https://helpx.adobe.com/cl/photoshop/using/blending-modes.html , ya que los conocía de photshop pero nunca lo había investigado más en profundidad.
 
 Ahora quise hacer lo mismo con el módulo llamado "industrial" pero dandole un modo de fusión distinto. Hice otras dos variables de posición al principio del sketch y repetí el random() para darle aleatoriedad.
 ``` javascript
