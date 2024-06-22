@@ -78,9 +78,25 @@ blendMode(SOFT_LIGHT)
   pop()
 
 ```
-Así logré tener dos modos de fusión distintos para cada una de las dos imágenes. Con esto solucionado repetí todo lo anterior con el tercer módulo llamado "moda".
+Así logré tener dos modos de fusión distintos para cada una de las dos imágenes. Con esto solucionado repetí todo lo anterior con el tercer módulo llamado "moda", usando el modo overlay.
 ``` javascript
+let c = 30
+let d = 30
+push()
+  blendMode(OVERLAY)
+  c += random(-30, 30);
+  d += random(-30, 30);
+      image(moda, c, d, 40, 40);
+  pop()
 ```
+Finalmente tocaba agregar algo de interactividad con el mouse. Encontré un ejemplo de p5 que ampliaba los pixeles al arrastrar el mouse, así que lo quise replicar en mi sketch siguiendo con el concepto. Voldí a la referencia de mouseIsPressed https://p5js.org/es/reference/#/p5/mouseIsPressed. Hice dos constantes, para el largo y para el ancho.
+``` javascript
+if (mouseIsPressed) {
+const randWidth = int(random(40, 50));
+const randHeight = int(random(30, 80));
+}
+```
+
 
 
 
