@@ -43,15 +43,44 @@ El tutorial de antes se llama "Cómo empezar" te muestra las funciones básicas 
 
 <img width="328" alt="Captura de pantalla 2024-06-17 a la(s) 15 40 02" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/41623ab3-1ace-4cf6-92a9-f1dfe5e9c18d">
 
-## ¿Cuáles son las herramientas del menú.
-1. **Código:** apartado de la programación y las acciones que quieres que ocurran en los elementos de tu proyecto. Dichos elementos pueden ser un "objeto" o un "fondo".
-2. **Disfraz/Fondo:** apartado para hacer modificaciones visuales del objeto u fondo.
+## ¿Cuáles son las herramientas del menú?
+1. **Código:** apartado de la programación y las acciones que quieres que ocurran en los elementos de tu proyecto. Dichos elementos pueden ser un "objeto", un "fondo" y sonidos.
+2. **Disfraz/Fondo:** apartado para hacer modificaciones visuales de un objeto u fondo. Es muy similar a lo que sería la interfaz de photoshop, aunque trabaja con vectores en lugar de pixeles. También puedes subir tus propios archivos.
 3. **Sonido:** apartado
-
+   
+   *Tanto la herramineta de sonido y disfraz/fondo tiene una biblioteca en la que puedes explorar, o sino puedes subir tus propios archivos y trabajar con ellos. En el caso de los objetos es recomendable que se encuentren en png.
+   
 **IMPORTANTE** para deshacer una acción **NO** apretes cmd+z o ctrl+z, tienes que usar las flechitas de deshacer que están en el menú de opciones.
 
 
 **Grabación mostrando el cambio de opciones entre objeto y fondo**
 
 <https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/d72fd4b7-7120-4244-bc82-07a05b7f1eb5>
+
+**Problema que se convirtió en oportunidad:** Scratch estuvo en mantenimiento el viernes por lo que tuve que descargar la app "Scratch3" que mostró el mismo citio para avanzar en mi proyecto. La interfaz es muy similar a la web y funciona offline, por lo que el mantenimiento no la afectó. Otro descubrimiento es que en mi propio computador no me causó problemas usar el cmd+z para deshacer ni en la web ni en la aplicación. 
+
+**Imagen de Scratch en mantenimiento, abajo sale la opción de descargae la app**
+
+<img width="1276" alt="Captura de Pantalla 2024-06-21 a la(s) 19 06 43" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/e13325df-088e-45dd-bb48-58191b3dea4e">
+
+**Editando una foto en "Disfraz"**
+
+<https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/4792518d-40aa-4868-a50d-ed79e0f48329>
+
+**Creando una imagen en disfraz**
+
+<https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/0a1ff2d4-7343-4f31-a5fe-0bacdb1e4779>
+
+<https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/4996ddaf-26d1-4290-90f1-8ec1819996fe>
+
+
+
+**Con estos comandos podemos hacer que nuesto objeto se mueva con las teclas del mousepad**
+
+<img width="258" alt="Captura de Pantalla 2024-06-21 a la(s) 20 17 44" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/da269def-e7b7-48ca-8416-3b8a16385d1e">
+
+**¿Cómo subir tu proyecto de la app a tu cuenta de internet?**
+
+<>
+
 
