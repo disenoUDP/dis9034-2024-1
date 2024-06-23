@@ -112,6 +112,10 @@ También existen unos tutoriales de cartoon network que explican acciones más a
 
 <img width="309" alt="Captura de Pantalla 2024-06-22 a la(s) 17 02 39" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/3c530a45-1edc-4055-9ce1-cdd96aa17277">
 
+## ¿Cómo ver el código de otros proyectos?
+
+https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/a29a8a83-dbcf-4b58-9961-a989e60df6a1
+
 
 Quería que al apretar la tecla A mi elemento de inicio cambiara a otro elemento, pero no me dejaba a hacerlo. Después me di cuenta de que había una opción que me dejaba "cambiar de disfraz" al activar un comando. Por lo tanto, en vez de cambiar elementos, decidí cambiar cambiar disfrazes y para eso, os elementos los transformé en disfraces
 
