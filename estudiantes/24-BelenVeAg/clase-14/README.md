@@ -121,3 +121,11 @@ Quería que al apretar la tecla A mi elemento de inicio cambiara a otro elemento
 Si pongo dos acciones que ocurren con un mismo accionador de forma separada, ambas van a ocurrir simultáneamente. 
 
 <img width="269" alt="Captura de Pantalla 2024-06-22 a la(s) 16 58 10" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/3d8bea11-c292-4064-9295-fd685b47845c">
+
+## Errores que en un futuro pueden servir de algo:
+
+<img width="402" alt="Captura de Pantalla 2024-06-23 a la(s) 01 37 15" src="https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/115278a5-c9f6-412f-8280-c95892e61aa3">
+
+<https://github.com/BelenVeAg/dis9034-2024-1/assets/163448892/29c8d62f-0240-4217-aff8-b9f6fbcb1f4a>
+
+
