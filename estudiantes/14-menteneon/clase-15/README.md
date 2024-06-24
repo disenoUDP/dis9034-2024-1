@@ -16,7 +16,7 @@ Por otro lado se debe correr en el navegador para emular
 Al entrar a su Github podemos ver que la actualización más reciente fue hace 6 años y algunas carpetas que no han sido actualizadas en 9 años, esto hace que sea altamente probable que tenga errores. D hecho hay ingresar al README de su Github podemos ver un aviso importante que nos puede alertar de esto 
 
 
-![img ss1](./Ss1.png)
+![img ss1](./ss1.png)
 
 
 
@@ -41,19 +41,19 @@ Fácil de utilizar !
 
 Al intentar hacerlo funcionar en Chrome no funciona, pero es por la razón que hay que dar un permiso desde la configuración del computador y no tengo acceso a la contraseña de administración del computador 
 
-![img ss2](./Ss2.png)
+![img ss2](./ss2.png)
 Hay otra variación de Geolocalizacion la cual da unos mapas al momento de encontrar la latitud y longitud, Esta versiòn le pertenece a The_Exceptionist 
 
-![img ss3](./Ss3.png)
+![img ss3](./ss3.png)
 Por otro lado lo intente desde Safari porque vi que en los permisos del computador se encuentran disponibles el permiso de ubicación desde Safari y no fundionò
 
-![img ss4](./Ss4.png)
+![img ss4](./ss4.png)
 
 # Windows 
 
 Al intentarlo desde un windows y en Chrome, se despliega una pantalla de carga que no carga 
 
-![img ss5](./Ss5geo5.png)
+![img ss5](./ss5geo5.png)
 
 La versiòn original ya no funcina, se probo en 2 computadores con sistema operativo windows y IOS, tambièn se probò en un celular y tampoco funcionò 
 
