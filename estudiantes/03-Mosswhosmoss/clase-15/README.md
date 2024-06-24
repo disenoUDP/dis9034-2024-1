@@ -118,8 +118,7 @@ Y ya como el último punto se hizo la página de "carga" o introducción al proy
 ```
 ## Visualización del proyecto
 
-https://github.com/Mosswhosmoss/dis9034-2024-1/assets/168484044/fdddc56d-70d7-4349-8647-e36ff1f1cb4b
-
+https://github.com/Mosswhosmoss/dis9034-2024-1/assets/168484044/8084f351-b48d-4ca1-9b23-296cf3a495d4
 
 ## p5.js
 [Editor](https://editor.p5js.org/Mosswhosmoss/sketches/OBxD-Xc5I)
