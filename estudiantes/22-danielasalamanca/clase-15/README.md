@@ -1,9 +1,9 @@
 # clase-15
 
-## examen
+## dress up game
 
 ### idea del proyecto
-el objetivo de mi proyecto es crear un código en p5.js que funcione como un juego de vestir a un personaje, mediante el uso de botones el usuario podrá elegir la polera del personaje, los pantalones y sus zapatitos.
+el objetivo de mi proyecto es crear un código en p5.js que funcione como un juego de vestir a un personaje, mediante el uso de botones el usuario podrá elegir la polera del personaje, los pantalones y sus zapatitos
 
 ***
 ### antes de programar
@@ -226,7 +226,8 @@ let currentPantalonImage = pantalones[currentPantalon];
 ```
 #### function changePolera()
 16. con la función para cambiar la polera `function changePolera()`podremos actualizar el índice ´currentPolera´ para cambiar a la siguiente polera
-17. al incrementar el valor actual de 'currentPolera' en 1 se moverá el índice a la siguiente polera. El operador módulo (%) se usará para asegurar que el índice vuelva a 0 cuando alcance el final de la lista de poleras.
+17. al incrementar el valor actual de 'currentPolera' en 1 se moverá el índice a la siguiente polera. El modulo operator o resto (%) se usará para asegurar que el índice vuelva a 0 cuando alcance el final de la lista de poleras
+18. `poleras.lenght` es el número total de poleras que tengo (6)
 ```js
   currentPolera = (currentPolera + 1) % poleras.length;
 ```
@@ -255,6 +256,7 @@ for (let i = 0; i < 5; i++) {
 ```
 - array functions: <https://happycoding.io/tutorials/p5js/array-functions#push>
 - referente de como utilizar una imagen como botón: <https://gist.github.com/lizzybrooks/54045563e4e8321718cc40297db999f9>
+- usar el modulo operator: <https://keepcoding.io/blog/operador-modulo-en-javascript/>
 - el logo utilizado pertenece a @rafita.studio
 
 
