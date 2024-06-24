@@ -16,6 +16,8 @@ la tipografía base con la que puedes jugar se llama BD Supper, que fue creada p
 
 ahora veremos cómo fue programado y el proceso que se llevó a cabo. Disfruta!
 
+nuestro instagram para más cositas [rafita.studio](https://www.instagram.com/rafita.studio/)
+
 ---
 
 ## proceso creativo y código
