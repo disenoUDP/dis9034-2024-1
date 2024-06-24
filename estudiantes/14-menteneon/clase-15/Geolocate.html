@@ -1,0 +1,52 @@
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=0.7">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/>
+   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+</head>
+<body>
+  <h2 id="head">I know your location!</h2>
+  <div>You are at:<br>
+  latitude: <span id="lat"></span>&deg;<br>
+  longitude: <span id="lon"></span>&deg;</div><br>
+  <div id="map" style="height:170px;width:340px"></div>
+  <script>
+    if('geolocation' in navigator){
+      navigator.geolocation.getCurrentPosition(pos => {
+        document.getElementById('lat').textContent=pos.coords.latitude;
+        document.getElementById('lon').textContent=pos.coords.longitude;
+        drawMap(pos.coords.latitude,pos.coords.longitude);
+      });
+    }else{
+      documemt.body.innerHTML="please click on allow or use a different browser after refreshing the page.";
+    }
+    
+    function drawMap(latitude,longitude){
+      let map = L.map('map').setView([latitude,longitude], 14);
+      const attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
+      const tilesURL='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+      const tiles=L.tileLayer(tilesURL,{attribution});
+      tiles.addTo(map);
+      let marker = L.marker([latitude, longitude]);
+      marker.addTo(map);
+      connect(latitude,longitude).catch(error => {console.error(error)});
+    }
+    
+    async function connect(latitude,longitude){
+      let data={latitude,longitude};
+      const options={
+        method: 'POST',
+        headers:{
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(data)
+      };
+      const response=await fetch('/api',options);
+      //const json=await response.json();
+      console.log(response,data);
+    }
+  </script>
+</body>
