@@ -105,9 +105,12 @@ Finalmente lo probé y funciona, pero a veces salta un error en la consola.
 ```
 Aún no lo puedo solucionar pero funciona.
 
-<img width="597" alt="Captura de pantalla 2024-06-24 a la(s) 14 41 34" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/b9a78f45-c652-4d7d-8d04-2b7c08635a37">
+Al llegar a la U el código dejó de funcionar. Así que hablé con el profe y volví a la referencia de copy(). Nos dimos cuenta que faltaba el parámetro de source image, es decir, la imagen fuente que era copiada y dibujada de nuevo. Le puse de fuente la imagen "faad" y se solucionó el problema. :)
+``` javascript
+ copy(faad, mouseX, mouseY, 1, randHeight, mouseX, mouseY, randWidth, randHeight);
+```
 
-
+<img width="603" alt="Captura de pantalla 2024-06-24 a la(s) 15 23 49" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/fcfcf9a0-6751-461e-999c-355f462560f7">
 
 Sketch del examen final: https://editor.p5js.org/SofiaAbarca/sketches/zn0A3Amwa
 
