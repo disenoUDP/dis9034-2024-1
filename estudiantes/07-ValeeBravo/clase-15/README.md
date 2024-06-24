@@ -135,3 +135,24 @@ function mousePressed() {
     }
   }
 }
+```
+
+
+```javascript
+//Cada vez que se presiona el mouse se mueve la imagen en eje x y en eje y. 
+function mouseDragged() {
+  if (dragging) {
+    // Actualiza la imagen mientras se arrastran. 
+    let img = images.find(img => {
+      
+      //Let Imagen en ancho y alto
+      let imgWidth = img.width;
+      let imgHeight = img.height;
+      
+      //Se mueve la imagen en eje x y en eje y
+      let imgX = img.x - imgWidth / 2;
+      let imgY = img.y - imgHeight / 2;
+```
+
+```javascript
+      
