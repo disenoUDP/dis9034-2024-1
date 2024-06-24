@@ -36,7 +36,7 @@ x += random(-30, 30);
 y += random(-30, 30);
 image(grafico, x, y, 50, 50);
 ```
-Con esto logré que el modulo "gráfico" se dibujara de forma random encima de la foto de la faad, pero era muy rápido. Así que entré en la referencia de frameRate https://p5js.org/es/reference/#/p5/frameRate. Para hacerlo más lento tenía que darle un frame rate menor, así que lo dejé en 10 fotogramas por segundo.
+Con esto logré que el modulo "gráfico" se dibujara de forma random encima de la foto de la faad, pero era muy rápido. Así que entré en la referencia de frameRate https://p5js.org/es/reference/#/p5/frameRate. Para hacerlo más lento tenía que darle un frame rate menor, así que lo dejé en 10 fotogramas por segundo, ya que el default son 60.
 ``` javascript
 function setup() {
 frameRate(10)
@@ -47,7 +47,7 @@ Tras esto pensé que quedaría bien ponerle algún filtro a la imagen para que s
 ``` javascript
 blendMode(EXCLUSION)
 ```
-Investigué en esta página que era lo que hacía exactamente los modos de fusión. //www.dzoom.org.es/modos-de-fusion-photoshop/ , ya que los conocía de photshop pero nunca lo había investigado más en profundidad.
+Investigué en esta página que era lo que hacía exactamente los modos de fusión. https://helpx.adobe.com/cl/photoshop/using/blending-modes.html , ya que los conocía de photshop pero nunca lo había investigado más en profundidad.
 
 Ahora quise hacer lo mismo con el módulo llamado "industrial" pero dandole un modo de fusión distinto. Hice otras dos variables de posición al principio del sketch y repetí el random() para darle aleatoriedad.
 ``` javascript
@@ -94,15 +94,21 @@ Finalmente tocaba agregar algo de interactividad con el mouse. Encontré un ejem
 if (mouseIsPressed) {
 const randWidth = int(random(40, 50));
 const randHeight = int(random(30, 80));
+copy(mouseX, mouseY, 1, randHeight, mouseX, mouseY, randWidth, randHeight);
 }
 ```
+Es muy parecido a lo anterior, pero se activa mientras está presionado el mouse, selecciona los pixeles y gracias a copy() https://p5js.org/es/reference/#/p5.Image/copy, se copian los pixeles que están debajo del mouse y los repite hacia el lado y hacia abajo, usando las constantes anteriores.
+
+Finalmente lo probé y funciona, pero a veces salta un error en la consola.
+``` javascript
+> p5.js says: copy() was expecting Integer for parameter #1 (zero-based index), received number instead at blob:https://preview.p5js.org/77c42ecf-36ea-4529-b563-32e626c539d7:92:5. [http://p5js.org/reference/#p5/copy]
+```
+Aún no lo puedo solucionar
+
+Sketch del examen final: https://editor.p5js.org/SofiaAbarca/sketches/zn0A3Amwa
 
 
-
-Sketch del examen final:
-
-
-Otras cosas que probé/investigué en el proceso del examen:
+Otras cosas que probé/investigué en el proceso de hacer el examen:  https://editor.p5js.org/SofiaAbarca/sketches/Jq0uTJ95m , https://editor.p5js.org/SofiaAbarca/sketches/q4jZJ43bD , https://editor.p5js.org/SofiaAbarca/sketches/ZPv8fBjEU , 
 
 
 
