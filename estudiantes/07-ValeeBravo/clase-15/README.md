@@ -9,6 +9,9 @@ Explicación de mi examen
 Examen realizado en P5.js.v0.10.2
 
 Mi proyecto consiste en desarrollar un puzzle interactivo en bucle, con una ilustración inspirada en gatos creada por mí. La idea surgió mientras interactuaba con mi sobrina de 5 años y observé su interés por los rompecabezas. Dado que también disfruta usando el ordenador y mostrando interés en mi trabajo en él, decidí crear este rompecabezas interactivo en bucle que requiere coordinación de movimientos y el uso de las teclas del teclado. La imagen está diseñada digitalmente, con una composición inspirada en el estilo de Tsuguharu Foujita, un artista conocido por dedicar sus ilustraciones a sus gatos. 
+
+
+
 Instrucciones para jugar: En un principio hay un loop de 6 imágenes y al apretar la tecla de espacio el loop para y se pueden acomodar las imagenes como un puzzle. Tiene varias posibilidades de crear una imagen.
 
 Como se ve:
