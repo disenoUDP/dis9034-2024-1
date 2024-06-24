@@ -6,8 +6,9 @@ Link examen https://editor.p5js.org/ValeeBravo/sketches/tI2Hapzul
 
 Explicación de mi examen
 
+Examen realizado en P5.js.v0.10.2
 
-Mi proyecto consiste en desarrollar un puzzle interactivo en bucle, con una ilustración inspirada en gatos creada por mí. La idea surgió mientras interactuaba con mi sobrina y observé su interés por los rompecabezas. Dado que también disfruta usando el ordenador y mostrando interés en mi trabajo en él, decidí crear este rompecabezas interactivo en bucle que requiere coordinación de movimientos y el uso de las teclas del teclado. La imagen está diseñada digitalmente, con una composición inspirada en el estilo de Tsuguharu Foujita, un artista conocido por dedicar sus ilustraciones a sus gatos. 
+Mi proyecto consiste en desarrollar un puzzle interactivo en bucle, con una ilustración inspirada en gatos creada por mí. La idea surgió mientras interactuaba con mi sobrina de 5 años y observé su interés por los rompecabezas. Dado que también disfruta usando el ordenador y mostrando interés en mi trabajo en él, decidí crear este rompecabezas interactivo en bucle que requiere coordinación de movimientos y el uso de las teclas del teclado. La imagen está diseñada digitalmente, con una composición inspirada en el estilo de Tsuguharu Foujita, un artista conocido por dedicar sus ilustraciones a sus gatos. 
 Instrucciones para jugar: En un principio hay un loop de 6 imágenes y al apretar la tecla de espacio el loop para y se pueden acomodar las imagenes como un puzzle. Tiene varias posibilidades de crear una imagen.
 
 Referentes
@@ -63,7 +64,7 @@ function setup() {
   imageMode(CENTER);
   ```
 Ordena las imagenes en el canvas y las posiciona aleatoriamente en el lienzo.
-Ordena la rápidez en la que aparecen las imagenes en el lienzo.
+Ordena la rápidez o velocidad en la que aparecen las imagenes en el lienzo.(frameRate (10)) 
 ```javascript
  //Ordena cada imagen en el tamalo squareSize.
 //Asigna posiciones aleatorias (x e y) a cada imagen dentro del lienzo.
@@ -78,7 +79,8 @@ Ordena la rápidez en la que aparecen las imagenes en el lienzo.
   frameRate(10);
 }
 ```
-Color de fondo del canvas
+Color de fondo del canvas en 20
+Está la opción if (paused) para que se muevan la imagenes mientras el trabajo no está pausado. 
 ```javascript
 function draw() {
   //Color de fondo negro.
@@ -111,7 +113,8 @@ function draw() {
   }
 }
 ```
-Funcion para presionar el mouse, para que logre mover las imágenes.
+Función para presionar el mouse, esto permite que se pueda  mover cada imagen. 
+Cuando se presiona el mouse en una imagen se puede mover y arrastrar por todo el lienzo.
 ```javascript
 //Referencia de mouse pressed: https://p5js.org/es/reference/#/p5/mousePressed. //https://www.geeksforgeeks.org/p5-js-mousepressed-function/
 function mousePressed() {
@@ -140,7 +143,7 @@ function mousePressed() {
   }
 }
 ```
-
+Esto capta el click en el lienzo para que identifique las imágenes en eje x,y y en ellado ancho y alto del canvas.
 
 ```javascript
 //Cada vez que se presiona el mouse se mueve la imagen en eje x y en eje y. 
@@ -158,6 +161,7 @@ function mouseDragged() {
       let imgY = img.y - imgHeight / 2;
 ```
 Let es para que cuando se apreta el click en una pantalla.
+Esto permite que el click capte las imagenes que están esparcidas en el lienzo. 
 ```javascript
    //Se mueve la imagen en eje x y en eje y
       let imgX = img.x - imgWidth / 2;
@@ -175,7 +179,8 @@ Let es para que cuando se apreta el click en una pantalla.
   }
 }     
 ```
-Esta función permite que pueda soltar la imagen con el click 
+Esta función permite que pueda soltar la imagen con el click del mouse.
+También está la función KeyPressed dónde se puede presionar la tecla espaciadora para que el loop de la imagen se pause o para que siga. 
 ```javascript
 // Esta función deja arrastrar la imagen al soltar el click del mouse.
 function mouseReleased() {
