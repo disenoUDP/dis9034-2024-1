@@ -41,10 +41,32 @@ function setup() {
 - Dentro de funtion draw() se llama a loadPixels lo cual permite realizar un mapeo del video pixel a pixel.
 - Generar una función que permita separar los canales rgb para que estos se traduzcan en densidades luego.
 - Hacer un promedio de estos canales con avg.
+
+```javascript
+function draw() {
+ 
+// Hacer mapeo de pixel por pixel para que cada uno dentro del rgb tenga un caracter asignado
+// Llamar a loadPixels(); 
+
+  video.loadPixels();
+  let asciiImage = "";
+  for (let j = 0; j < video.height; j++) {
+    for (let i = 0; i < video.width; i++) {
+      const pixelIndex = (i + j * video.width) * 4;
+      const r = video.pixels[pixelIndex + 0];
+      const g = video.pixels[pixelIndex + 1];
+      const b = video.pixels[pixelIndex + 2];   
+      
+      // Hacer un promedio del brillo basandose en los valores rgb
+      
+      const avg = (r + g + b) / 3;
 ```
 
-```
 ![doc-2](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/5ecd822e-0f21-4acf-bff5-c94932d7a10e)
+
+```javascript
+
+```
 
 ![doc-3](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/e86a6c45-5cfa-489f-9f8f-b9b4c3d672f2)
 
