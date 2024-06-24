@@ -1,6 +1,8 @@
 # Examen
 **Explicación de idea y concepto: Quiero relacionar el examen con un área del diseño que me interesa como es la ilustración. La idea principal es hacer un oráculo interactivo, donde aparezca un personaje principal que será una clarividente, con una bola de cristal y tres cartas, además de ponerle un fondo que vaya cambiando y música que se relacione con la estética de la animación. La interacción estará dada al hacer click sobre una de las tres cartas y de acuerdo a eso, aparecerá un mensaje del oráculo en la bola de cristal de la clarividente.**
 
+**Referencia: En este proyecto reutilicé una ilustración que hice hace tiempo y animé con after effects pero ahora la idea es hacerla interactiva y animarla con p5js. Esta es la animación de referencia** https://www.instagram.com/reel/CyERPA8xHyd/?igsh=MTM5YzdoNTBxYWc1Ng==
+
 **Proyecto:** https://editor.p5js.org/MacaParrao/sketches/Tyg4ZhxX8
 
 **Busqué una canción que tuviera relación con la temática de magia o fantasía, encontré música sin copyright en la página pixabay y la descargué, le puse de nombre "encantada". Añadí el archivo en el p5js y lo cargué al proyecto, esto lo hice con la referencia de p5js https://p5js.org/es/reference/#/p5.SoundFile.** 
