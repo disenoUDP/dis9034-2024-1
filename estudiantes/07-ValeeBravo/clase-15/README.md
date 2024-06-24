@@ -21,3 +21,42 @@ https://p5js.org/es/reference/#/p5/mouseClicked
 •Para usar el término Push
 https://p5js.org/es/reference/#/p5/push 
 
+Variables para que funcione las variables a continuación. 
+´´´javascript
+//variable para cargar imágenes.
+let images = [];
+//Tamaño de las imágenes en 200 pixeles cada una. 
+const squareSize = 200;
+let paused = false;
+
+// Offset es para el arrastre de la imagen.
+let offsetX = 0; 
+let offsetY = 0;
+// Variable para saber si se está arrastrando una imagen
+let dragging = false; // Variable para saber si se está arrastrando una imagen
+
+´´´
+
+
+Carga de la ilustración repartida en 6 imágenes png.
+´´´javascript
+//Carga de 6 imágenes en png llamadas "cat-01.png", "cat-02.png", etc.  La imagen principal mide 600x400 píxeles y está cortada en 6 partes iguales. Push es una variante para que se usa para mover la imagen.
+//Referencia para images.push: https://editor.p5js.org/KevinWorkman/sketches/7PvZ_jOrO 
+function preload() {
+  images.push(loadImage("cat-01.png"));
+  images.push(loadImage("cat-02.png"));
+  images.push(loadImage("cat-03.png"));
+  images.push(loadImage("cat-04.png")); 
+  images.push(loadImage("cat-05.png"));
+  images.push(loadImage("cat-06.png"));  
+}
+
+´´´javascript
+//Tamaño de canvas de 600x400 píxeles
+function setup() {
+  createCanvas(600, 400);
+  //Establece el modo de imagen para que se creen desde su centro.
+  imageMode(CENTER);
+  ´´´
+
+  hhh
