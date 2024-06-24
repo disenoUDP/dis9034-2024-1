@@ -124,7 +124,7 @@ https://github.com/Mosswhosmoss/dis9034-2024-1/assets/168484044/8084f351-b48d-4c
 [Editor](https://editor.p5js.org/Mosswhosmoss/sketches/OBxD-Xc5I)
 
 ## Referencias
-- La presentación formal del proyecto: [solemne I juan.parschi](https://editor.p5js.org/juan.pareschi_g/sketches/B-cufMCbO) aun que ahora no voy a usar createGraphics
+- La presentación formal del proyecto: [solemne I juan.parschi](https://editor.p5js.org/juan.pareschi_g/sketches/B-cufMCbO) 
 - createGraphics: [function](https://www.youtube.com/watch?v=TaluaAD9MKA) 
 - Riso: [Biblioteca](https://antiboredom.github.io/p5.riso/#get)
         [halftone](https://github.com/antiboredom/p5.riso/tree/master/examples/Halftone)
