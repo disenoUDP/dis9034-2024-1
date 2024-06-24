@@ -1,19 +1,3 @@
-# clase-14
-*Continuación de examen*
-
----
-
-### Referencias usadas:
-- **Solemne 2** de _vaalentinya_ <https://editor.p5js.org/vaalentinya/sketches/0LNUVHekw>
-- **Hand detection** de _fffiloni_ <https://editor.p5js.org/fffiloni/sketches/CP_ONAcl_>
-- **Documentación** de _ml5js_ <https://docs.ml5js.org/#/>
-  
----
-
-
-Partí definiendo las variables
-
-```javascript
 // que tome la mano
 let handpose;
 // que pueda detectar
@@ -24,10 +8,7 @@ let canvas;
 let video;
 // que aparezca el dado y que al inicio muestre el valor 1
 let valorDado = 1; 
-```
-Luego definí el _setup_ para el uso del _canvas_
 
-```javascript
 function setup() {
   // creación del canvas y su tamaño
   canvas = createCanvas(640, 480);
@@ -39,10 +20,7 @@ function setup() {
   video.size(width, height);
 
   const options = {};
-```
-Identifiqué los puntos/vértices de las articulaciones principales de la mano
 
-```javascript
   // identificación de la mano con los puntos (modelo)
   handpose = ml5.handpose(video, options, modelReady);
   // color de los (puntitos) vértices de la mano
@@ -58,11 +36,7 @@ function modelReady() {
 // que muestre el estado del modelo cargado desde html
   select('#status').html('Model Loaded');
 }
-```
 
-Empieza la detección de manos, identificando si la mano está abierta o cerrada e identificando cada dedo
-
-```javascript
 function draw() {
   clear();
   image(video, 0, 0, width, height);
@@ -117,10 +91,6 @@ function drawLandmarks(indexArray, hue) {
     }
   }
 }
-```
-Aquí se dibuja el dado y sus puntos
-
-```javascript
 // dibuja el dado
 function drawDado(x, y, value) {
   // fondito blanco del dado
@@ -158,26 +128,3 @@ function drawDado(x, y, value) {
     ellipse(x + dx, y + dy, 10, 10);
   }
 }
-```
-#### *Cabe recalcar que al momento de hacer el código la función ml5.js pasó por una actualización en la versión, por lo que a mi referente _fffiloni_ dejó de funcionarle el código, igual como me pasó a mi, pero yendo a buscar en el repositorio _ml5js_ en github pude obtener la nueva versión
-<p id="latest-version">
-
-* You can use the latest version (0.12.2) by adding it to the head section of your HTML document:
-
-**v0.12.2**
-
-    <script src="https://unpkg.com/ml5@0.12.2/dist/ml5.min.js" type="text/javascript"></script>
-
-</p data-id="latest-version">
-
-- <https://github.com/ml5js/ml5-library>
-
-## Resultado
-
-<https://editor.p5js.org/capitaldebulgaria/sketches/Sn7Cd3Yw1>
-
-
-
-https://github.com/capitaldebulgaria/dis9034-2024-1/assets/163035824/d3f6d2ff-c10d-4710-94f2-7cc1d22c3760
-
-
