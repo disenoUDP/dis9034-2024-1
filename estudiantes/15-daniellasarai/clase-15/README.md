@@ -16,8 +16,11 @@
 > Dentro de funtion draw() se llama a loadPixels lo cual permite realizar un mapeo del video pixel a pixel.
 > Generar una función que permita separar los canales rgb para que estos se traduzcan en densidades luego.
 > Hacer un promedio de estos canales con avg.
+
 ![doc-2](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/5ecd822e-0f21-4acf-bff5-c94932d7a10e)
+
 ![doc-3](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/e86a6c45-5cfa-489f-9f8f-b9b4c3d672f2)
+
 > Finalmente en el espacio de style.css agregar el color de fondo,la tipografía, su color espaciado y tamaño.
 ![doc-4](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/821379a5-e4bf-47e6-b2fd-076acb40b975)
 > Dando este resultado final:
