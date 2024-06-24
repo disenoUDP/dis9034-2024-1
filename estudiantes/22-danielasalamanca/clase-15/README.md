@@ -238,6 +238,9 @@ function changeZapatitos() {
   currentZapatitos = (currentZapatitos + 1) % zapatitos.length;
 }
 ```
+y listo!!! ya puedes vestir al osito! 
+<img width="699" alt="image" src="https://github.com/danielasalamanca/dis9034-2024-1/assets/163034169/f77ca925-e5a2-42c6-a29e-9a44995d2424">
+
 ***
 ### referentes:
 - mi referente de como crear y utilizar arrays: <https://happycoding.io/tutorials/p5js/arrays>, especialmente en como declararlos `let circleY = [];` y también para utilizarlos para loops considerando que quería que las prendas volvieran a empezar desde la primera al pasar la última
