@@ -74,4 +74,64 @@ Ordena las imagenes en el canvas.
   frameRate(10);
 }
 ```
+Color de fondo del canvas
+```javascript
+function draw() {
+  //Color de fondo negro.
+  background(20);
+  
+  
+ // Si no está pausado, dibuja imágenes rotadas aleatoriamente.
+  //Si está pausado,  dibuja imágenes estáticas en sus posiciones actuales.
+  // Referecia de if paused: https://www.geeksforgeeks.org/p5-js-ispaused-function/
 
+  if (!paused) {
+    for (let img of images) {
+      // Dibujar imágenes en posiciones aleatorias si no está pausado
+      const x = img.x;
+      const y = img.y;
+      
+      translate(x, y);
+      
+      const r = (PI / 2) * random([0, 1, 2, 3]);
+      rotate(r);
+       image(random(images), 0, 0);
+      
+      resetMatrix(); 
+    }
+  } else {
+    // Dibujar imágenes en sus posiciones actuales si está pausado
+    for (let img of images) {
+      image(img, img.x, img.y);
+    }
+  }
+}
+```
+Funcion para presionar el mouse, para que logre mover las imágenes.
+```javascript
+//Referencia de mouse pressed: https://p5js.org/es/reference/#/p5/mousePressed. //https://www.geeksforgeeks.org/p5-js-mousepressed-function/
+function mousePressed() {
+  if (paused) {
+    // Verifica si se hizo click sobre alguna imagen en ancho y alto.
+    for (let img of images) {
+      let imgWidth = img.width;
+      let imgHeight = img.height;
+    
+      //Verifica si se hizo click en una imagen en eje x y eje y. 
+      let imgX = img.x - imgWidth / 2;
+      let imgY = img.y - imgHeight / 2;
+      
+      if (mouseX > imgX && mouseX < imgX + imgWidth &&
+          mouseY > imgY && mouseY < imgY + imgHeight) {
+        
+        // Calcula el  mouse respecto al centro de la imagen
+        offsetX = mouseX - img.x;
+        offsetY = mouseY - img.y;
+        
+        // Comienza a arrastrar la imagen. Referencia para arrastrar una imagen      https://editor.p5js.org/coloringchaos/sketches/SJkE4CHtz 
+        dragging = true;  
+        break;
+      }
+    }
+  }
+}
