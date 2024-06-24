@@ -96,7 +96,8 @@ un mapeo de un audio en el software p5js v1.9.4 a traves de su libreria sound y 
 
 
 
-[docExamen](./docExamen.gif)
-https://github.com/jacinta000/dis9034-2024-1/assets/163039247/79cde0d0-bde5-4671-93fb-81f0a17f498f
+[docExamen](./docExamen.gif)    
+
+
 
 
