@@ -62,7 +62,8 @@ function setup() {
   //Establece el modo de imagen para que se creen desde su centro.
   imageMode(CENTER);
   ```
-Ordena las imagenes en el canvas.
+Ordena las imagenes en el canvas y las posiciona aleatoriamente en el lienzo.
+Ordena la rápidez en la que aparecen las imagenes en el lienzo.
 ```javascript
  //Ordena cada imagen en el tamalo squareSize.
 //Asigna posiciones aleatorias (x e y) a cada imagen dentro del lienzo.
