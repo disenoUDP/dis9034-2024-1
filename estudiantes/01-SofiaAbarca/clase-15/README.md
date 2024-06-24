@@ -1,5 +1,5 @@
 # clase-15
-Examen hecho p5.js: v0.10.2
+Examen hecho en p5.js: v0.10.2
 
 Para este examen quiero hacer algo que pueda usar para el Taller de Branding. En el taller estamos trabajando en una identidad visual basada en el concepto de "prueba y error", por lo que estoy pensando en crear algunas texturas usando los módulos que diseñamos y que pueda usar en las gráficas más adelante. 
 
