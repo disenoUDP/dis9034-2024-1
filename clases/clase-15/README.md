@@ -1,7 +1,5 @@
 # clase-15
 
-# clase-14
-
 lunes 24 de junio 2024, última clase!
 
 instrucciones examen:
