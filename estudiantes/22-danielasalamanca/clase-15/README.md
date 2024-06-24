@@ -93,7 +93,11 @@ function setup() {
   currentZapatitos = 0;
 ```
 
-7. definimos la posición en la que deberían ir cada una de las poleras para que estas calcen en el cuerpo del osito, hacemos lo mismo con los pantalones y zapatos
+7. definimos la posición en la que deberían ir cada una de las poleras para que estas calcen en el cuerpo del osito, hacemos lo mismo con los pantalones y zapatos. Para saber la posición x e y de las prendas, al igual que la altura y ancho, me guié por las medidas que trabajé en mi archivo illustrator
+
+<img width="236" alt="image" src="https://github.com/danielasalamanca/dis9034-2024-1/assets/163034169/ccbc8683-a554-4081-8fa6-f3abe6968c46">
+
+
 ```js
 // define la posición en la que deberían ir cada una de las poleras para que estas calcen en el cuerpo del osito
   poleraPositions = [
@@ -239,6 +243,7 @@ function changeZapatitos() {
 }
 ```
 y listo!!! ya puedes vestir al osito! 
+
 <img width="699" alt="image" src="https://github.com/danielasalamanca/dis9034-2024-1/assets/163034169/f77ca925-e5a2-42c6-a29e-9a44995d2424">
 
 ***
