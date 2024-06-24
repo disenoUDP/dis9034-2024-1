@@ -2,6 +2,9 @@
 
 ## dress up game
 
+#### puedes acceder a mi examen [AQUI](https://editor.p5js.org/danielasalamanca/sketches/fptcbXC_F)
+
+***
 ### idea del proyecto
 el objetivo de mi proyecto es crear un código en p5.js que funcione como un juego de vestir a un personaje, mediante el uso de botones el usuario podrá elegir la polera del personaje, los pantalones y sus zapatitos
 
@@ -259,6 +262,5 @@ for (let i = 0; i < 5; i++) {
 - usar el modulo operator: <https://keepcoding.io/blog/operador-modulo-en-javascript/>
 - el logo utilizado pertenece a @rafita.studio
 
+***
 
-
-#### puedes acceder a mi examen [AQUI](https://editor.p5js.org/danielasalamanca/sketches/fptcbXC_F)
