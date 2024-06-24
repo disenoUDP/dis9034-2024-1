@@ -247,7 +247,7 @@ for (let i = 0; i < 5; i++) {
 ```
 - array functions: <https://happycoding.io/tutorials/p5js/array-functions#push>
 - referente de como utilizar una imagen como botón: <https://gist.github.com/lizzybrooks/54045563e4e8321718cc40297db999f9>
-
+- el logo utilizado pertenece a @rafita.studio
 
 
 
