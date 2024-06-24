@@ -6,7 +6,7 @@ finalización de examen! 24.06.2024
 
 ---
 
-## •·.·' RAFITA TYPE CREATOR '·.·•
+## [•·.·' RAFITA TYPE CREATOR '·.·•](https://editor.p5js.org/matbutom/full/yAIz-rD9f)
 
 en este proyecto podrás cambiar las propiedades de una tipografía y jugar con sus características! puedes escribir el mensaje que desees, cambiar su tamaño, su estilo y color! 
 
@@ -15,6 +15,8 @@ la tipografía base con la que puedes jugar se llama BD Supper, que fue creada p
 *"es una tipografía grotesca geométrica-orgánica humana, amigable y humorística. Un buen amigo, siempre al lado de un editor y un diseñador."*
 
 ahora veremos cómo fue programado y el proceso que se llevó a cabo. Disfruta!
+
+nuestro instagram para más cositas [rafita.studio](https://www.instagram.com/rafita.studio/)
 
 ---
 
