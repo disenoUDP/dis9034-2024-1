@@ -26,8 +26,8 @@ Encima de la foto de la faad quería que se fuera repitiendo el modulo llamado "
 
 Para esto primero creé dos variables de posción x e y al principio del sketch.
 ``` javascript
-let x = 200
-let y = 200
+let x = 200;
+let y = 200;
 ```
 Después dentro de draw() usé estas variables de posición junto con random(), para cambiar la posición de la foto. En este caso puse que la foto se dibujara entre -30 y 30 pixeles de distancia desde la posición original cada vez.
 ``` javascript
@@ -39,20 +39,20 @@ image(grafico, x, y, 50, 50);
 Con esto logré que el modulo "gráfico" se dibujara de forma random encima de la foto de la faad, pero era muy rápido. Así que entré en la referencia de frameRate https://p5js.org/es/reference/#/p5/frameRate. Para hacerlo más lento tenía que darle un frame rate menor, así que lo dejé en 10 fotogramas por segundo, ya que el default son 60.
 ``` javascript
 function setup() {
-frameRate(10)
+frameRate(10);
 }
 ```
 
 Tras esto pensé que quedaría bien ponerle algún filtro a la imagen para que se mezclara mejor con el fondo, y aplicar lo que vimos con los filtros https://p5js.org/es/reference/#/p5.Image/filter.  Los probé y ninguno me convenció, pero investigando las referencias encontré blendMode() https://p5js.org/es/reference/#/p5/blendMode y me gustaron más los efectos. Decidí ponerle a la imagen el modo exclusión.
 ``` javascript
-blendMode(EXCLUSION)
+blendMode(EXCLUSION);
 ```
 Investigué en esta página que era lo que hacía exactamente los modos de fusión. https://helpx.adobe.com/cl/photoshop/using/blending-modes.html , ya que los conocía de photshop pero nunca lo había investigado más en profundidad.
 
 Ahora quise hacer lo mismo con el módulo llamado "industrial" pero dandole un modo de fusión distinto. Hice otras dos variables de posición al principio del sketch y repetí el random() para darle aleatoriedad.
 ``` javascript
-let a = 400
-let b = 400
+let a = 400;
+let b = 400;
 ```
 ``` javascript
 a += random(-30, 30);
@@ -63,31 +63,31 @@ Hasta aquí todo funcionaba bien, pero cuando le quise dar el modo de fusión bl
 Entonces lo probé en mi sketch. Hice un grupo con push() y pop () para ambas tranformaciones de módulos.
 ``` javascript
 push()
-blendMode(EXCLUSION)
+blendMode(EXCLUSION);
 x += random(-30, 30);
 y += random(-30, 30);
 image(grafico, x, y, 50, 50);
 pop()
 ```
 ``` javascript
-push()
+push();
 blendMode(SOFT_LIGHT)
   a += random(-30, 30);
   b += random(-30, 30);
       image(industrial, a, b, 80, 80);
-  pop()
+  pop();
 
 ```
 Así logré tener dos modos de fusión distintos para cada una de las dos imágenes. Con esto solucionado repetí todo lo anterior con el tercer módulo llamado "moda", usando el modo overlay.
 ``` javascript
-let c = 30
-let d = 30
-push()
-  blendMode(OVERLAY)
+let c = 30;
+let d = 30;
+push();
+  blendMode(OVERLAY);
   c += random(-30, 30);
   d += random(-30, 30);
       image(moda, c, d, 40, 40);
-  pop()
+  pop();
 ```
 Finalmente tocaba agregar algo de interactividad con el mouse. Encontré un ejemplo de p5 que ampliaba los pixeles al arrastrar el mouse, así que lo quise replicar en mi sketch siguiendo con el concepto. Volví a la referencia de mouseIsPressed https://p5js.org/es/reference/#/p5/mouseIsPressed. Hice dos constantes, para el largo y para el ancho.
 ``` javascript
