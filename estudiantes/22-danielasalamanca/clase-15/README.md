@@ -261,6 +261,4 @@ for (let i = 0; i < 5; i++) {
 
 
 
-#### link de acceso:
-
-<https://editor.p5js.org/danielasalamanca/sketches/fptcbXC_F>
+#### puedes acceder a mi examen [AQUI](https://editor.p5js.org/danielasalamanca/sketches/fptcbXC_F)
