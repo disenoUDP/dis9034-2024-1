@@ -12,7 +12,7 @@ El proyecto se trata de un reproductor de audio con interacción de mouse, en el
   - [Marco](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F306455949645715321%2F&psig=AOvVaw3BHwCY5Y7v5dZwfLbL2fKn&ust=1719342143744000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOjYnd_29IYDFQAAAAAdAAAAABAE)
   - Paleta de colores
 
-- Versión 2 - Densetsu
+- Versión 2 - Densetsu Moonlight 
 - [Imagen Fondo](https://github.com/cielqz/dis9034-2024-1/assets/163901464/bfa86924-345e-49fb-ae47-88d0a042b4bc)
 - [Moonlight Densetsu/DALI [Music Box] (Anime "Sailor Moon" OP)](https://www.youtube.com/watch?v=13HfhcBddRM&pp=ygUlbW9vbmxpZ2h0IGRlbnNldHN1IGluc3RydW1lbnRhbCBjb3Zlcg%3D%3D)
 - [Marco](https://gallery.yopriceville.com/Free-Clipart-Pictures/Valentine-s-Day-PNG/Round_Border_with_Hearts_Pink_PNG_Transparent_Clipart#google_vignette)
@@ -106,13 +106,16 @@ Una vez lista la base a trabajar, se añaden algunos recursos y modificaciones. 
 <img width="819" alt="Captura de pantalla 2024-06-24 a la(s) 15 12 08" src="https://github.com/cielqz/dis9034-2024-1/assets/163901464/18559388-dac4-4faa-90e2-b3ec5989b52a">
 
 ### Resultados pt.II
-Resultados cargados en nube online (en procesoooo)
-- [Video Versión #1]([https://www.dropbox.com/scl/fi/vvmj8jr2dsgec4o06vjnc/Shakira_Barcore.mov?rlkey=ya82z4h8tyu0d5iq82l7kwvao&st=n3wz6bea&dl=0](https://www.dropbox.com/scl/fi/yl2y4jkistw57a3sr94ql/Grabaci-n-de-pantalla-2024-06-24-a-la-s-15.23.08.mov?rlkey=rosm86tw49yeys5bnyzsdijju&st=a684gg8h&dl=0))
-- [Video Versión #2](https://www.dropbox.com/scl/fi/z9yd469fi4zw7hzdsfpfi/Grabaci-n-de-pantalla-2024-06-17-a-la-s-16.27.08.mov)
+- [Video Versión #1](https://www.dropbox.com/scl/fi/yl2y4jkistw57a3sr94ql/Grabaci-n-de-pantalla-2024-06-24-a-la-s-15.23.08.mov?rlkey=rosm86tw49yeys5bnyzsdijju&st=q8rhpcjd&dl=0)
+  
+https://github.com/cielqz/dis9034-2024-1/assets/163901464/d12cf5d5-449e-407b-bff1-f9a2ae3dd483
 
+- [Video Versión #2](https://www.dropbox.com/scl/fi/07fqb84tlz0vwtlc3kg8s/Sin-t-tulo.mov?rlkey=6bsowl5v1sgem40kkwrf1w4wg&st=mvh59uvt&dl=0)
+  
+https://github.com/cielqz/dis9034-2024-1/assets/163901464/74191250-4a20-472a-a4ec-5003d6d24ac1
 
-
-#### comentarios
+#### Comentarios de cierre
+Finalmente, el proyecto fue pensado para incluir acciones de interactividad con el usuario y así captar su atención con los diferentes estímulos presentes, siendo el primero el uso de la imagen en vivo y la animación (rotación) de esta y sus elementos secundarios. Luego, el usar el ratón para reproducir y pausar la imagen con un clic, que el color del fondo cambie con el movimiento del mouse y, por último, controlar el volumen con la rueda del mouse. Se siguió el uso de una misma línea visual con dos estéticas diferentes con colores marrones y verdes en uno y, colores rosados y pasteles en el segundo, esto con la intención de que sean acorde al sonido que se reproduce.
 ```javascript
 También aprendí a poner los códigos en el readme en este formato, ya que antes no sabía y cargaba capturas de pantalla. jeje
 ```
