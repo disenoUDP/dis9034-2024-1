@@ -9,3 +9,4 @@
 - Primero, entender cómo funciona la asignación de caracter según la densidad de brillo u oscuridad del pixel de la imagen.
 - Segundo, cargar la imagen al sketch y cargar la imagen con function preload() y en function draw() agregar la imagen.
 - Tercero, hacer mapeo uno a uno para que cada pixel tenga un caracter según su densidad.
+- Cuarto, revisar el valor de brillo de cada pixel sacando un promedio del RGB
