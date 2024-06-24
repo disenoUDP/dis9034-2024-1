@@ -69,6 +69,8 @@ y aceleración de estas partículas. Creo que este fue el paso más difícil ya 
  
 https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/0a76e3a7-d0b1-47ef-b71b-e14a1aa7a613
 
--Link Editor: [](https://editor.p5js.org/isabellagutierrezm/sketches/TSZQDTjtj)
+-Link Editor: [
+*(https://editor.p5js.org/isabellagutierrezm/sketches/TSZQDTjtj)*
+
 - Referencia del proyecto
 https://www.youtube.com/watch?v=BjoM9oKOAKY
