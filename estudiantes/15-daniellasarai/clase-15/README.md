@@ -13,6 +13,29 @@
 - Primero se genera la selección de caracteres que generarán una densidad que se traspasará a la densidad de rgb que hay por pixel.
 - Luego se permite al video y al asciiDiv funcionar para luego llamarlos, let; y function setup(), se crea captura de video y se le dan medidas.
 
+```javascript
+// Video Cámara ASCII
+//
+// Sketch basado en el video tutorial de The Coding Train  https://youtu.be/55iwMYv8tGI?si=JPM8JiAxjQ4Ufuz7
+
+//Densidad a través de caracteres
+
+const density = "Ñ@#W$9876543210?!abc;:+=-,._  ";
+
+let video;
+let asciiDiv;
+
+// Agregar función para utilizar video cámara
+
+function setup() {
+  asciiDiv = createDiv();
+  noCanvas();
+  video = createCapture(VIDEO);
+  video.size(64, 48);
+}
+
+```
+
 ![doc-1](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/4cf85af1-6235-4c86-9c16-a7457849e631)
 
 - Dentro de funtion draw() se llama a loadPixels lo cual permite realizar un mapeo del video pixel a pixel.
@@ -32,4 +55,8 @@
 https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/a64c31a0-e9b1-468c-adbe-3be08557b702
 
 [Sketch - ASCII Video Cámara](https://editor.p5js.org/daniellasarai/sketches/tij33uGJv)
+
+aquí están los enlaces a los 3 códigos que desarrollé:
+
+[ASCII_Imagen_Flor_2024_06_24_19_18_26](./ASCII_Imagen_Flor_2024_06_24_19_18_26)
 
