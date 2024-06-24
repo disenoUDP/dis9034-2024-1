@@ -8,14 +8,14 @@ El proyecto se trata de un reproductor de audio con interacción de mouse, en el
 ### Elementos a utilizar
 - Versión 1 - Shakira
   - [Imagen de fondo](https://github.com/cielqz/dis9034-2024-1/assets/163901464/50301f10-9336-4020-a948-16fd6ad06a78)
-  - Audio
-  - Marco
+  - [Shakira - Hips Don't Lie [Bardcore / Medieval Style Cover]](https://www.youtube.com/watch?v=WIx4srqU3BE)
+  - [Marco](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F306455949645715321%2F&psig=AOvVaw3BHwCY5Y7v5dZwfLbL2fKn&ust=1719342143744000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOjYnd_29IYDFQAAAAAdAAAAABAE)
   - Paleta de colores
 
 - Versión 2 - Densetsu
 - [Imagen Fondo](https://github.com/cielqz/dis9034-2024-1/assets/163901464/bfa86924-345e-49fb-ae47-88d0a042b4bc)
-- Audio
-- Marco
+- [Moonlight Densetsu/DALI [Music Box] (Anime "Sailor Moon" OP)](https://www.youtube.com/watch?v=13HfhcBddRM&pp=ygUlbW9vbmxpZ2h0IGRlbnNldHN1IGluc3RydW1lbnRhbCBjb3Zlcg%3D%3D)
+- [Marco](https://gallery.yopriceville.com/Free-Clipart-Pictures/Valentine-s-Day-PNG/Round_Border_with_Hearts_Pink_PNG_Transparent_Clipart#google_vignette)
 - Paleta de colores
    
 ### Proceso versión 2 - densetsu
