@@ -74,7 +74,7 @@ font = loadFont('assets/nombreDeLaTipografía.otf');
 ```
 ### 3. cómo cambiar los parámetros de la tipografía
 
-encontré que en p5 existen los `Sliders` que son elementos interactivos que nos crean barras con las que podemos editar una variable, siento que es una buena opción para comenzar a experimentar los distintos elementos que pueden ser editados.
+encontré que en p5 existen los `sliders` que son elementos interactivos que nos crean barras con las que podemos editar una variable, siento que es una buena opción para comenzar a experimentar los distintos elementos que pueden ser editados.
 
 cree 3 sliders, los que pienso definir más adelante. Así lo hice:
 
@@ -110,7 +110,7 @@ ahora necesito hacer que los sliders tengan una categoría y puedan, posiblement
 
 ### 4. dándoles valores a los slider y editando la tipografía
 
-logramos crear 3 sliders, y cambio de color y una caja de texto para que puedas escribir y experimentar con el texto que desees.
+logramos crear 3 sliders: uno para cambio de color y una caja de texto para que puedas escribir y experimentar con el texto que desees.
 
 #### 4.1 valores de los sliders
 
