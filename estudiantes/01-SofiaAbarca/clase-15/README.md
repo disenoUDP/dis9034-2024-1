@@ -103,7 +103,7 @@ Finalmente lo probé y funciona, pero a veces salta un error en la consola.
 ``` javascript
 > p5.js says: copy() was expecting Integer for parameter #1 (zero-based index), received number instead at blob:https://preview.p5js.org/77c42ecf-36ea-4529-b563-32e626c539d7:92:5. [http://p5js.org/reference/#p5/copy]
 ```
-Aún no lo puedo solucionar pero funciona.
+Aún no lo puedo solucionar.
 
 Al llegar a la U el código dejó de funcionar. Así que hablé con el profe y volví a la referencia de copy(). Nos dimos cuenta que faltaba el parámetro de source image, es decir, la imagen fuente que era copiada y dibujada de nuevo. Le puse de fuente la imagen "faad" y se solucionó el problema. :)
 ``` javascript
