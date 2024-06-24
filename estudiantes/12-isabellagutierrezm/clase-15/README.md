@@ -4,7 +4,7 @@
 -Lo primero que hice para poder comenzar con mi idea de proyecto Exámen, fue buscar referencias visuales de una idea que me surgió en mi ramo de taller de diseño y de áreas silvestres, donde el tema de búsqueda de uno de los grupos, con respecto a un panel interpretativo era "El reino Fungi", o mejor conocido como el mundo de los hongos, y me pregunté ¿Qué ocurre bajo tierra con estas especies?. Y gracias a la ayuda de mi hermana, quien es estudiante de agronomía descubrí los micelio.
 
 ## Micelio
-- Es una red de filamentos que se va expandiendo hasta conformar el cuerpo del hongo, y que es escesial para la simbiosis del bosque 
+- Es una red de filamentos que se va expandiendo hasta conformar el cuerpo del hongo, y que es esecial para la simbiosis del bosque 
 ![fungi](https://github.com/isabellagutierrezm/dis9034-2024-1/assets/163045412/4f004aa0-cbb5-407f-a8e1-078e036a8f13)
 
 - Con referencias de p5, encontré las variantes necesaria, llamada Perlin Noise, el cual es un efecto generado por números aleatorios, que para ser utilizada en p5 necesita de dos funciones: noise() y random(), donde el primero de ellos se utiliza para que la textura, movimiento o forma creada, tenga gestos más ”suaves “ , y random() siendo el valor aleatorio para que aquella textura obtenga movimiento.
