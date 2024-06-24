@@ -1,7 +1,7 @@
 // 24 de junio del 2024
 // bienvenidx! utiliza los botones de la izquierda para cambiar las prendas del osito
 // hecho por daniela salamanca
-// este proyecto se hizo con p5.js Version: 1.0.1 - 2021-05-25
+// este proyecto se hizo con p5.js versión: 1.9.4
 
 // variables que almacenan el índice (index) de la prenda actual
 // se utilizará para saber cuál imagen de polera está actualmente seleccionada o visible en la pantalla
@@ -96,21 +96,21 @@ function setup() {
   ];
 
 // crea un botón a partir de una imagen para cambiar la polera
-  buttonPolera = createImg("1boton.png");
+  buttonPolera = createImg("1boton.png", "cambiar polera");
 // establece la posición del botón
   buttonPolera.position(533, 235);
 // asigna la función 'changePolera' al hacer clic en el botón
   buttonPolera.mousePressed(changePolera);
 
 // crea un botón a partir de una imagen para cambiar los pantalones
-  buttonPantalon = createImg("2boton.png");
+  buttonPantalon = createImg("2boton.png", "cambiar pantalon");
 // establece la posición del botón
   buttonPantalon.position(533, 320);
 // asigna la función 'changePantalon' al hacer clic en el botón
   buttonPantalon.mousePressed(changePantalon);
 
 // crea un botón a partir de una imagen para cambiar los zapatitos
-  buttonZapatitos = createImg("3boton.png");
+  buttonZapatitos = createImg("3boton.png", "cambiar zapatitos");
 // establece la posición del botón
   buttonZapatitos.position(533, 405);
 // asigna la función 'changeZapatitos' al hacer clic en el botón
