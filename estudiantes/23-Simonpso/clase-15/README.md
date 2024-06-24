@@ -59,6 +59,7 @@ Seguimos estableciendo distintos parametros dentro del codigo como:
 - El contorno.
 - Generar un bucle.
 - Calcular las amplitudes de la animación.
+
 ```javascript
 function setup() {
   // Creacion del lienzo midendo este 600 x 600
@@ -88,3 +89,31 @@ function setup() {
 
 ---
 
+Ahora seguimos con la function draw donde establecemos otros parametros dentro del codigo como:
+
+- El color de relleno y que este cambia dependiendo al progreso del bucle.
+- Traasladar el punto de origen dentro del lienzo.
+- Crear coordenadas x e y
+- Dibujar y editar las medidas del circulo.
+
+```javascript
+function draw() {
+    // background(0)
+  
+  // El color del relleno basado en el progreso del bucle 
+    fill(animLoop.progress, 6, 8)
+    const density = 0.05
+    
+  // Traslada el punto de origen al centro del lienzo  
+    translate(width / 3, height / 2)
+  
+  // Creacion de coordenadas x e y usando ruido
+    const x = animLoop.noise({ radius: radX, seed: seedX }) * ampX
+    const y = animLoop.noise({ radius: radY, seed: seedY }) * ampY
+    
+  // Dibujar un circulo acorde a las coordenadas establecidas
+    ellipse(x, y, 50, 30)
+}
+```
+
+Link del codigo: https://editor.p5js.org/Simonpso/sketches/KGohbtrTe
