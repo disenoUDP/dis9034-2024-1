@@ -1,6 +1,6 @@
 # clase-14
 
-Mi proyecto de examen será hacer un juego interactivo completando los patrones incompletos. Es parecido al rompecabezas pero habrá múltiples formas de armas los patrones.
+Mi proyecto de examen será hacer un juego interactivo completando los patrones.
 Referentes:
 -https://editor.p5js.org/saamia123/sketches/_hSHC1LGw 
 -https://happycoding.io/tutorials/p5js/arrays/fading-grid
