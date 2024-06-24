@@ -239,8 +239,12 @@ function changeZapatitos() {
 }
 ```
 ***
-referentes:
-- mi referente de como crear y utilizar arrays: <https://happycoding.io/tutorials/p5js/arrays>
+### referentes:
+- mi referente de como crear y utilizar arrays: <https://happycoding.io/tutorials/p5js/arrays>, especialmente en como declararlos `let circleY = [];` y también para utilizarlos para loops considerando que quería que las prendas volvieran a empezar desde la primera al pasar la última
+```js
+for (let i = 0; i < 5; i++) {
+  circle(50 * (i+1), circleY[i], 25);
+```
 - array functions: <https://happycoding.io/tutorials/p5js/array-functions#push>
 - referente de como utilizar una imagen como botón: <https://gist.github.com/lizzybrooks/54045563e4e8321718cc40297db999f9>
 
