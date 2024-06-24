@@ -26,4 +26,4 @@ primero estoy viendo lo que es el personaje pero debo de hacer cada paso dibujan
 
 ya en p5.js estuve probando usar las capas con las imagenes que hice previamente e intentar animar mi sprite con la referencia de @p5play en su apartado de [aprender](https://p5play.org/lang/es/learn/) estan los codigos para animar nuestro personaje [p5play: Animation](https://p5play.org/lang/es/learn/animation.html?page=4)
 
-https://editor.p5js.org/SofiaEct/sketches/vpzen2j8u
+https://editor.p5js.org/SofiaEct/sketches/sxnDCwZsC
