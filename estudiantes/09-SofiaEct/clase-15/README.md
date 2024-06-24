@@ -29,6 +29,7 @@ ya en p5.js estuve probando usar las capas con las imagenes que hice previamente
 al final solo tuve errore que estaban fuera de mi entendimiento asi que decidi buscar tutoriales que animaran directamente en p5.js y me ecnontre con el video [Beginner's Guide: Make things move with keyboard input in P5js](https://youtu.be/MA_aFQV9vss?feature=shared) del canal @Barney Codes, donde enseñaba a aplicar un codigo de movimietno para mi personaje.
 
 ```js
+
 let player;
 
 let pressedKeys = {};
@@ -88,3 +89,48 @@ class Player {
   }
 }
 
+```
+
+continue descifrando como poder cambiar de escenarios con el paso del persobaje, esto fue bastante dficil pero gracias a la ayuda se pudo logar, mas que nada es usando la condicional if y else if.
+
+```js
+ if (player.x > 1.0 * width && fotitoActual == 0) {
+    // y aqui se indica el fondo
+    fotitoActual = 1;
+    player.x = 0;
+  }
+  // pasar de 1 a 2.
+  else if (player.x > 1.0 * width && fotitoActual == 1) {
+    // y aqui se indica el fondo.
+    fotitoActual = 2;
+    player.x = 0;
+  }
+  // pasar de 1 a 0.
+  else if (player.x < 0.0 * width && fotitoActual == 1) {
+    // y aqui se indica el fondo.
+    fotitoActual = 0;
+    player.x = width;
+  }
+  // pasar de 2 a 1.
+  else if (player.x < 0.0 * width && fotitoActual == 2) {
+    // y aqui se indica el fondo.
+    fotitoActual = 1;
+    player.x = width;
+  }
+}
+```
+y bueno, mas alla del codigo los fondos fueron hecho a mano por mi en estilo pixel, contamplando que queria hacer algo mas interactivo, pero por tiempo y tecnica no pude concretar TT
+
+![fondo_3](https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/1984b1dd-43f1-48f0-b89a-dfee95ebcd01)
+
+![fondo_2](https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/cc58f98b-fcc9-4967-a68d-2e29e873ae3a)
+
+![fondo_1](https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/2b5834ff-3285-455e-9297-ecc6ab76815d)
+
+y finlmente el resultado final.
+
+https://github.com/SofiaEct/dis9034-2024-1/assets/163043878/4a6c25d9-64c4-4af3-9a27-f7a0a0a157f2
+
+https://editor.p5js.org/SofiaEct/sketches/r1vAbchV9
+
+sere sincera, de todos los proyectos que he hecho es el que menos me ha gustado, creo que desde el principio habia tenido demasiadas expectativas, sin considerar el tiempo y la poca experiencia que he tenido con el codigo, pero me motiva a seguir aprendiendo y cuando pueda poder retomar este proyecto.
