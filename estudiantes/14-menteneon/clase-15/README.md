@@ -53,7 +53,7 @@ Por otro lado lo intente desde Safari porque vi que en los permisos del computad
 
 Al intentarlo desde un windows y en Chrome, se despliega una pantalla de carga que no carga 
 
-![img ss5](./ss5geo5.png)
+![img ss5](./ss5.png)
 
 La versiòn original ya no funcina, se probo en 2 computadores con sistema operativo windows y IOS, tambièn se probò en un celular y tampoco funcionò 
 
