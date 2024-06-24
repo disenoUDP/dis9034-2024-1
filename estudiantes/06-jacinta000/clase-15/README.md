@@ -42,7 +42,7 @@ function setup() {
   createCanvas(400, 400);
   strokeWeight(1);
   ```
-3. crear un elemento fft y enlazarlo al audio, de manera que analise el sonido deseado
+3. crear un elemento fft y enlazarlo al audio, de manera que analice el sonido deseado
 
   ```
   // nuevo elemento para el analizador FFT
