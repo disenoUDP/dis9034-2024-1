@@ -13,5 +13,4 @@
 -----------
 
 Video Demostración:
-https://github.com/augusdsnn/dis9034-2024-1/assets/128400710/d325317a-3cf7-4f7a-bb06-ad522291a17f
-
+https://vimeo.com/967167198?share=copy
