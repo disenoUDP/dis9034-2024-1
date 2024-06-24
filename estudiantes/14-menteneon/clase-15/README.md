@@ -4,23 +4,25 @@
 ## Investigaciòn sobre p5.geolocation
 
 Es una librería de p5.js tiene técnicas para adquirir, observar, calcular y geocercas ubicaciones, esto desde p5.js
+  [Github de p5.geolocation](https://github.com/bmoren/p5.geolocation/tree/master )
+
 
 ## Personas que lo crearon e investigaron
 
-La creaciòn e investigaciòn fue gracias a Forecast Public Art y Jerome Foundation, tambien se le hace un agradecimiento especial a Derek Anderson 
+La creaciòn e investigaciòn fue gracias a [Forecast Public Art](https://forecastpublicart.org ) y [Jerome Foundation](https://www.jeromefdn.org) , tambien se le hace un agradecimiento especial a  [Derek Anderson](https://mediaupstream.com/)
 
 Por otro lado se debe correr en el navegador para emular 
 
 ## Ultimas actualizaciones 
 
-Al entrar a su Github podemos ver que la actualización más reciente fue hace 6 años y algunas carpetas que no han sido actualizadas en 9 años, esto hace que sea altamente probable que tenga errores. D hecho hay ingresar al README de su Github podemos ver un aviso importante que nos puede alertar de esto 
+Al entrar a su Github podemos ver que la actualización más reciente fue hace 6 años y algunas carpetas que no han sido actualizadas en 9 años, esto hace que sea altamente probable que tenga errores. De hecho hay ingresar al README de su Github podemos ver un aviso importante que nos puede alertar de esto 
 
 
 ![img ss1](./ss1.png)
 
 
 
-Su traducción    seria: 
+Su traducción seria: 
 
 IMPORTANTE: tenga en cuenta que Google, Mozilla, Apple y Microsoft están en el proceso de prohibir varias funciones de las páginas web que se sirven desde HTTP en lugar de HTTPS (http seguro)(https://sites.google.com/a/ chromium.org/dev/Home/chromium-security/deprecating-powerful-features-on-insecure-origins) Aún puedes hacer esto, pero debe estar sobre "orígenes seguros" (como HTTPS) y esto se puede hacer mediante obtención de un certificado SSL. Visite letsencrypt.org para obtener una opción abierta y gratuita, o comuníquese con su proveedor de alojamiento para ver cómo se puede hacer.
 
@@ -42,7 +44,7 @@ Fácil de utilizar !
 Al intentar hacerlo funcionar en Chrome no funciona, pero es por la razón que hay que dar un permiso desde la configuración del computador y no tengo acceso a la contraseña de administración del computador 
 
 ![img ss2](./ss2.png)
-Hay otra variación de Geolocalizacion la cual da unos mapas al momento de encontrar la latitud y longitud, Esta versiòn le pertenece a The_Exceptionist 
+Hay otra variación de Geolocalizacion la cual da unos mapas al momento de encontrar la latitud y longitud, Esta versiòn le pertenece a [The_Exceptionist](https://editor.p5js.org/The_Exceptionist/sketches/lNyGx7N6E) 
 
 ![img ss3](./ss3.png)
 Por otro lado lo intente desde Safari porque vi que en los permisos del computador se encuentran disponibles el permiso de ubicación desde Safari y no fundionò
@@ -61,7 +63,9 @@ No se como funcionara en Linux :c
 
 ## Lineas de código 
 
-* Estas descripciones estan traducidas desde el Github de bmoren https://github.com/bmoren/p5.geolocation?tab=readme-ov-file#geocheck 
+* Estas descripciones estan traducidas desde el Github de bmoren
+  [link a lineas de codigo](https://github.com/bmoren/p5.geolocation?tab=readme-ov-file#geocheck )
+
 
 ## geoCheck ()
 
