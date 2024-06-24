@@ -13,3 +13,8 @@
 - Segundo, cargar la imagen al sketch y cargar la imagen con function preload() y en function draw() agregar la imagen.
 - Tercero, hacer mapeo uno a uno para que cada pixel tenga un caracter según su densidad.
 - Cuarto, revisar el valor de brillo de cada pixel sacando un promedio del RGB
+- Quinto, transformar el pixel en texto
+
+> Pruebas con Imagen
+- [ASCII Imagen Flor](https://editor.p5js.org/daniellasarai/sketches/_CxYBktuh)
+- [ASCII Imagen Flor 2](https://editor.p5js.org/daniellasarai/sketches/0igG_06mG)
