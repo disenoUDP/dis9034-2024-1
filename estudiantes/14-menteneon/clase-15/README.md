@@ -1,5 +1,4 @@
 # clase-15
-# clase-14
 
 ## Investigaciòn sobre p5.geolocation
 
