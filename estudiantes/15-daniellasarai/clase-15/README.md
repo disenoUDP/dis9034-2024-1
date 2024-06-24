@@ -28,3 +28,8 @@
 ![doc-4](https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/821379a5-e4bf-47e6-b2fd-076acb40b975)
 
 - Dando este resultado final:
+
+https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/a64c31a0-e9b1-468c-adbe-3be08557b702
+
+[Sketch - ASCII Video Cámara](https://editor.p5js.org/daniellasarai/sketches/tij33uGJv)
+
