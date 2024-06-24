@@ -11,14 +11,17 @@ con las caracteristicas de una forma. lo que se espera es que estas respondan a 
 audio introducido.**     
 
 se ha experimentado con la libreria minum y sound en processing, utilizando el analizador fft   
-decidi experimentar en p5js, ya que existe mas referencias  
-[aqui las referencias](https://openprocessing.org/browse/?time=anytime&type=all&q=fft#)
+decidi experimentar en p5js, ya que existe mas referencias sobre las capacidades y experimentaciones utilizando audio
+[aqui las referencias](https://openprocessing.org/browse/?time=anytime&type=all&q=fft#)     
+[isabella gutierrez](https://github.com/jacinta000/dis9034-2024-1/tree/main/estudiantes/12-isabellagutierrezm/clase-10)
 
 ## FFT
 herramienta de analisis
 * waveform: amplitud de onda
 * analysis: frecuencia, altos y bajos
 
+***
+funcion map()                    
 * map() funcion que transforma valores a otros     
 map(tamaño, 0.0, 1.0, 0.0, 100.0);    
 transformaria a tamaño entre valores 0-1 a 0-100
@@ -88,7 +91,8 @@ ellipse(width / 2, height / 2, h, x);
 </ol>
 
 **Asi se logro utilizar los resultados de fft.analyse para la alteracion de caracteristicas de ua forma y crear    
-un mapeo de un audio en el software p5js a traves de su libreria sound y su herramienta FFT**
+un mapeo de un audio en el software p5js a traves de su libreria sound y su herramienta FFT**     
+[link examenJacinta000](https://editor.p5js.org/jacinta/sketches/qDernwVD5)
 
 
 
