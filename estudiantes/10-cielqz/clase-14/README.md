@@ -1,6 +1,6 @@
 # Preparación de examen
 
-El proyecto se trata de un reproductor de audio con interacción de mouse, en el que se puede reproducir, pausar, subir y bajar volumen e interactuar con los colores de la pantalla con clic, rueda de mouse y movimiento del mismo. Se trabajan en paralelo dos versiones de un mismo proyecto. En la primera versión se utiliza la canción Hips Don't Lie se Shakira en versión Barcore/Medieval. En la segunda versión se utiliza el tema principal del anime Sailor Moon Densetsu Moonlight en versión music box. 
+El proyecto, trabajado en la p5js, se trata de un reproductor de audio con interacción de mouse, en el que se puede reproducir, pausar, subir y bajar volumen e interactuar con los colores de la pantalla con clic, rueda de mouse y movimiento del mismo. Se trabajan en paralelo dos versiones de un mismo proyecto. En la primera versión se utiliza la canción Hips Don't Lie se Shakira en versión Barcore/Medieval. En la segunda versión se utiliza el tema principal del anime Sailor Moon Densetsu Moonlight en versión music box. 
 
 ### Referentes
 - [Cargar y reproducir sonido](https://p5js.org/es/examples/sound-load-and-play-sound.html)
@@ -106,11 +106,11 @@ Una vez lista la base a trabajar, se añaden algunos recursos y modificaciones. 
 <img width="819" alt="Captura de pantalla 2024-06-24 a la(s) 15 12 08" src="https://github.com/cielqz/dis9034-2024-1/assets/163901464/18559388-dac4-4faa-90e2-b3ec5989b52a">
 
 ### Resultados pt.II
-- [Video Versión #1](https://www.dropbox.com/scl/fi/yl2y4jkistw57a3sr94ql/Grabaci-n-de-pantalla-2024-06-24-a-la-s-15.23.08.mov?rlkey=rosm86tw49yeys5bnyzsdijju&st=q8rhpcjd&dl=0)
+- [Visitar Proyecto Versión #1](https://editor.p5js.org/cielqz/sketches/gLIaCJS1f)
   
 https://github.com/cielqz/dis9034-2024-1/assets/163901464/d12cf5d5-449e-407b-bff1-f9a2ae3dd483
 
-- [Video Versión #2](https://www.dropbox.com/scl/fi/07fqb84tlz0vwtlc3kg8s/Sin-t-tulo.mov?rlkey=6bsowl5v1sgem40kkwrf1w4wg&st=mvh59uvt&dl=0)
+- [Visitar Proyecto Versión #2](https://editor.p5js.org/cielqz/sketches/-duCxgeM_)
   
 https://github.com/cielqz/dis9034-2024-1/assets/163901464/74191250-4a20-472a-a4ec-5003d6d24ac1
 
