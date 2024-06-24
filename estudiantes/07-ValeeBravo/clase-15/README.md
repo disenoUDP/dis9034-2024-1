@@ -5,6 +5,8 @@ EXAMEN
 Link examen https://editor.p5js.org/ValeeBravo/sketches/tI2Hapzul 
 
 Explicación de mi examen
+
+
 Mi proyecto consiste en desarrollar un puzzle interactivo en bucle, con una ilustración inspirada en gatos creada por mí. La idea surgió mientras interactuaba con mi sobrina y observé su interés por los rompecabezas. Dado que también disfruta usando el ordenador y mostrando interés en mi trabajo en él, decidí crear este rompecabezas interactivo en bucle que requiere coordinación de movimientos y el uso de las teclas del teclado. La imagen está diseñada digitalmente, con una composición inspirada en el estilo de Tsuguharu Foujita, un artista conocido por dedicar sus ilustraciones a sus gatos. 
 
 
