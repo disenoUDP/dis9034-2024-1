@@ -1,6 +1,6 @@
 # Preparación de examen
 
-El proyecto se trata de un reproductor de audio con interacción de mouse, en el que se puede reproducir, paurar, subir y bajar volumen e interactuar con los colores de la pantalla con clic, rueda de mouse y movimiento del mismo. Se trabajan dos versiones de un mismo proyecto. En la primera versión se utiliza la canción Hips Don't Lie se Shakira en versión Barcore/Medieval. En la segunda versión se utiliza el tema principal del anime Sailor Moon en versión piano. 
+El proyecto se trata de un reproductor de audio con interacción de mouse, en el que se puede reproducir, pausar, subir y bajar volumen e interactuar con los colores de la pantalla con clic, rueda de mouse y movimiento del mismo. Se trabajan en paralelo dos versiones de un mismo proyecto. En la primera versión se utiliza la canción Hips Don't Lie se Shakira en versión Barcore/Medieval. En la segunda versión se utiliza el tema principal del anime Sailor Moon Densetsu Moonlight en versión music box. 
 
 ### Referentes
 - [Cargar y reproducir sonido](https://p5js.org/es/examples/sound-load-and-play-sound.html)
@@ -117,7 +117,8 @@ https://github.com/cielqz/dis9034-2024-1/assets/163901464/74191250-4a20-472a-a4e
 #### Comentarios de cierre
 Finalmente, el proyecto fue pensado para incluir acciones de interactividad con el usuario y así captar su atención con los diferentes estímulos presentes, siendo el primero el uso de la imagen en vivo y la animación (rotación) de esta y sus elementos secundarios. Luego, el usar el ratón para reproducir y pausar la imagen con un clic, que el color del fondo cambie con el movimiento del mouse y, por último, controlar el volumen con la rueda del mouse. Se siguió el uso de una misma línea visual con dos estéticas diferentes con colores marrones y verdes en uno y, colores rosados y pasteles en el segundo, esto con la intención de que sean acorde al sonido que se reproduce.
 ```javascript
-También aprendí a poner los códigos en el readme en este formato, ya que antes no sabía y cargaba capturas de pantalla. jeje
+También aprendí a poner los códigos en el readme en este formato, ya que antes no sabía y cargaba capturas de pantalla.
+jeje
 ```
 
 
