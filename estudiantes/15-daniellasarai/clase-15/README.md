@@ -56,3 +56,7 @@ https://github.com/daniellasarai/dis9034-2024-1/assets/163043965/a64c31a0-e9b1-4
 
 [Sketch - ASCII Video Cámara](https://editor.p5js.org/daniellasarai/sketches/tij33uGJv)
 
+aquí están los enlaces a los 3 códigos que desarrollé:
+
+[ASCII_Imagen_Flor_2024_06_24_19_18_26](./ASCII_Imagen_Flor_2024_06_24_19_18_26)
+
