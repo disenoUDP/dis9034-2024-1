@@ -8,7 +8,7 @@
 
 El siguiente codigo utiliza la biblioteca p5.createloop.js encontrada en https://www.npmjs.com/package/p5.createloop?activeTab=readme el cual genera un bucle animado que produce un gift
 
-En la pagina indica que es necesario un html para poder usarlo, asi que lo copie en el index de p5 editor.
+En la página indica que es necesario un html para poder usarlo, así que lo copie en el index de p5 editor.
 
 ```javascript
 <script src="https://cdn.jsdelivr.net/npm/p5@1.2.0/lib/p5.js"></script>
@@ -33,16 +33,16 @@ const radX = 1
 const radY = 4
 ```
 
-Variable de las amplitudes de la animacion:
+Variable de las amplitudes de la animación:
 ```javascript
 // Variable para amplitudes
 let ampX
 let ampY
 ```
 
-Configuracion del gif:
+Configuración del gif:
 ```javascript
-// Esta constante define la configuracion del gif
+// Esta constante define la configuración del gif
 const gif = {
     startLoop: 4,
     endLoop: 2,
@@ -50,7 +50,7 @@ const gif = {
 ```
 
 ---
-Seguimos estableciendo distintos parametros dentro del codigo como:
+Seguimos estableciendo distintos parámetros dentro del código como:
 
 - El tamaño del lienzo.
 - La configuracion del modo de color.
@@ -62,10 +62,10 @@ Seguimos estableciendo distintos parametros dentro del codigo como:
 
 ```javascript
 function setup() {
-  // Creacion del lienzo midendo este 600 x 600
+  // Creación del lienzo midiendo este 600 x 600
     createCanvas(600, 600)
   
-  // La configuracion del modo del color 
+  // La configuración del modo del color 
     colorMode(HSB, 1, 1, 1)
   
   // Establecer la tasa de frames a 200
@@ -89,12 +89,12 @@ function setup() {
 
 ---
 
-Ahora seguimos con la function draw donde establecemos otros parametros dentro del codigo como:
+Ahora seguimos con la function draw donde establecemos otros parámetros dentro del codigo como:
 
 - El color de relleno y que este cambia dependiendo al progreso del bucle.
-- Traasladar el punto de origen dentro del lienzo.
+- Trasladar el punto de origen dentro del lienzo.
 - Crear coordenadas x e y
-- Dibujar y editar las medidas del circulo.
+- Dibujar y editar las medidas del círculo.
 
 ```javascript
 function draw() {
@@ -107,11 +107,11 @@ function draw() {
   // Traslada el punto de origen al centro del lienzo  
     translate(width / 3, height / 2)
   
-  // Creacion de coordenadas x e y usando ruido
+  // Creación de coordenadas x e y usando ruido
     const x = animLoop.noise({ radius: radX, seed: seedX }) * ampX
     const y = animLoop.noise({ radius: radY, seed: seedY }) * ampY
     
-  // Dibujar un circulo acorde a las coordenadas establecidas
+  // Dibujar un círculo acorde a las coordenadas establecidas
     ellipse(x, y, 50, 30)
 }
 ```
