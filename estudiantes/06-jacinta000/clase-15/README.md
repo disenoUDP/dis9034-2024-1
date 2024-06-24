@@ -90,7 +90,7 @@ ellipse(width / 2, height / 2, h, x);
 </ol>
 </ol>
 
-**Asi se logro utilizar los resultados de fft.analyse para la alteracion de caracteristicas de ua forma y crear    
+**Asi se logro utilizar los resultados de fft.analyse para la alteracion de caracteristicas de una forma y crear    
 un mapeo de un audio en el software p5js v1.9.4 a traves de su libreria sound y su herramienta FFT**     
 [link examenJacinta000](https://editor.p5js.org/jacinta/sketches/qDernwVD5)
 
