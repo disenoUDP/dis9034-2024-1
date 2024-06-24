@@ -26,4 +26,65 @@ primero estoy viendo lo que es el personaje pero debo de hacer cada paso dibujan
 
 ya en p5.js estuve probando usar las capas con las imagenes que hice previamente e intentar animar mi sprite con la referencia de @p5play en su apartado de [aprender](https://p5play.org/lang/es/learn/) estan los codigos para animar nuestro personaje [p5play: Animation](https://p5play.org/lang/es/learn/animation.html?page=4)
 
-https://editor.p5js.org/SofiaEct/sketches/sxnDCwZsC
+al final solo tuve errore que estaban fuera de mi entendimiento asi que decidi buscar tutoriales que animaran directamente en p5.js y me ecnontre con el video [Beginner's Guide: Make things move with keyboard input in P5js](https://youtu.be/MA_aFQV9vss?feature=shared) del canal @Barney Codes, donde enseñaba a aplicar un codigo de movimietno para mi personaje.
+
+```js
+let player;
+
+let pressedKeys = {};
+
+function setup() {
+  createCanvas(600, 600);
+  player = new Player(width/2, height/2);
+}
+
+function draw() {
+  background(220);
+  player.update();
+  player.draw();
+}
+
+function keyPressed() {
+  pressedKeys[key] = true;
+}
+
+function keyReleased() {
+  delete pressedKeys[key];
+}
+
+class Player {
+  constructor(x, y) {
+    this.x = x;
+    this.y = y;
+    
+    this.speed = 4;
+  }
+  
+  update() {
+    let mvmt = createVector(0, 0);
+    
+    if(pressedKeys.a) {
+      mvmt.x -= 1;
+    }
+    if(pressedKeys.d) {
+      mvmt.x += 1;
+    }
+    if(pressedKeys.w) {
+      mvmt.y -= 1;
+    }
+    if(pressedKeys.s) {
+      mvmt.y += 1;
+    }
+    
+    mvmt.setMag(this.speed);
+    
+    this.x += mvmt.x;
+    this.y += mvmt.y;
+  }
+  
+  draw() {
+    fill(255, 0, 0);
+    circle(this.x, this.y, 30);
+  }
+}
+
