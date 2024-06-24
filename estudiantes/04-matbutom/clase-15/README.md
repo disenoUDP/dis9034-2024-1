@@ -6,7 +6,7 @@ finalización de examen! 24.06.2024
 
 ---
 
-## •·.·' RAFITA TYPE CREATOR '·.·•
+## [•·.·' RAFITA TYPE CREATOR '·.·•](https://editor.p5js.org/matbutom/full/yAIz-rD9f)
 
 en este proyecto podrás cambiar las propiedades de una tipografía y jugar con sus características! puedes escribir el mensaje que desees, cambiar su tamaño, su estilo y color! 
 
