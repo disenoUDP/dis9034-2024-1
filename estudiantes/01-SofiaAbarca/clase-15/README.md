@@ -105,12 +105,15 @@ Finalmente lo probé y funciona, pero a veces salta un error en la consola.
 ```
 Aún no lo puedo solucionar
 
+
+
 Sketch del examen final: https://editor.p5js.org/SofiaAbarca/sketches/zn0A3Amwa
 
 
 Otras cosas que probé/investigué en el proceso de hacer el examen:  https://editor.p5js.org/SofiaAbarca/sketches/Jq0uTJ95m , https://editor.p5js.org/SofiaAbarca/sketches/q4jZJ43bD , https://editor.p5js.org/SofiaAbarca/sketches/ZPv8fBjEU , 
 
 
+<img width="597" alt="Captura de pantalla 2024-06-24 a la(s) 14 41 34" src="https://github.com/SofiaAbarca/dis9034-2024-1/assets/163044808/b9a78f45-c652-4d7d-8d04-2b7c08635a37">
 
 
 
