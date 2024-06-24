@@ -12,6 +12,7 @@
 
 <img width="1193" alt="Captura de pantalla 2024-06-17 a la(s) 4 36 36 p  m" src="https://github.com/emiguerra/dis9034-2024-1/assets/128399363/67f783c9-3295-4f11-b389-df1b9ac404b5">
 - el uso del repositorio base es dificil de comprender, por ello este paso a paso del repositorio de tnguyenh me permitió seguir el proceso de manera mas fácil
-- *https://github.com/agrignard/r_adiohead_10kandOK*
-- *https://github.com/derouinw/house-of-cards*
-- *https://github.com/dataarts/radiohead/releases*
+
+- https://github.com/agrignard/r_adiohead_10kandOK
+- https://github.com/derouinw/house-of-cards
+- https://github.com/dataarts/radiohead/releases
