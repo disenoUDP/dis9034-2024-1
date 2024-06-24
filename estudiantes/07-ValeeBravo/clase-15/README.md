@@ -153,6 +153,38 @@ function mouseDragged() {
       let imgX = img.x - imgWidth / 2;
       let imgY = img.y - imgHeight / 2;
 ```
-
+Let es para que cuando se apreta el click en una pantalla.
 ```javascript
+   //Se mueve la imagen en eje x y en eje y
+      let imgX = img.x - imgWidth / 2;
+      let imgY = img.y - imgHeight / 2;
       
+      //Deja mover la imagenes con el click del mouse.
+      return (mouseX > imgX && mouseX < imgX + imgWidth &&
+              mouseY > imgY && mouseY < imgY + imgHeight);
+    });
+    
+    if (img) {
+      img.x = mouseX - offsetX;
+      img.y = mouseY - offsetY;
+    }
+  }
+}     
+```
+Esta función permite que pueda soltar la imagen con el click 
+```javascript
+// Esta función deja arrastrar la imagen al soltar el click del mouse.
+function mouseReleased() {
+  dragging = false;  
+}
+
+// Barra espaciadora para que pause o avance el loop.
+function keyPressed() {
+  if (keyCode === 32) { 
+    // Cambia el estado pausa al presionar la tecla espaciadora.
+    paused = !paused;  
+  } 
+}
+```
+
+
