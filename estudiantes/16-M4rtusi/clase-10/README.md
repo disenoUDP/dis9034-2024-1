@@ -1,5 +1,6 @@
 # clase-10
-# Patrones Infinitos - Solemne 02 “Programación Creativa Multimedia”.
+
+## Patrones Infinitos - Solemne 02 “Programación Creativa Multimedia”
 
 Este proyecto genera patrones infinitos a partir de una paleta de colores proporcionada con una URL de la página coolors.co. Cada vez que el usuario hace clic en el lienzo, se generan nuevos patrones utilizando una combinación aleatoria de colores de la paleta y un patrón aleatorio sacado de la librería “p5.pattern”.
 
@@ -11,7 +12,7 @@ El proyecto está escrito en p5.js y el flujo de funcionamiento del programa es 
 
 2. Cuando el usuario hace clic en el lienzo, se activa la generación de patrones. Se selecciona una nueva combinación aleatoria de colores de la paleta y se dibujan los patrones en el lienzo.
 
-3. Los patrones se generan utilizando una variedad de funciones predefinidas de la librería p5.pattern por la que producen formas y texturas interesantes. Estas funciones incluyen patrones de ruido, rayas, círculos, polígonos y más, las cuales estan tomadas del Github de Sayama: https://github.com/SYM380/p5.pattern/blob/main/p5.pattern.js
+3. Los patrones se generan utilizando una variedad de funciones predefinidas de la librería p5.pattern por la que producen formas y texturas interesantes. Estas funciones incluyen patrones de ruido, rayas, círculos, polígonos y más, las cuales estan tomadas del GitHub de Sayama: <https://github.com/SYM380/p5.pattern/blob/main/p5.pattern.js>
 
 4. Cada vez que el usuario hace clic, se generan nuevos patrones con una combinación única de colores, lo que proporciona una experiencia visualmente diversa y estimulante.
 
@@ -29,4 +30,4 @@ El proyecto depende de la biblioteca p5.pattern para la generación de las gráf
 
 ## Créditos
 
-Este proyecto fue desarrollado por Martín Núñez (https://github.com/M4rtusi) como parte de la solemne 02 de la asignatura de Programación Creativa Multimedia.
+Este proyecto fue desarrollado por Martín Núñez (<https://github.com/M4rtusi>) como parte de la solemne 02 de la asignatura de Programación Creativa Multimedia.

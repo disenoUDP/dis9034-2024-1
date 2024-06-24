@@ -87,9 +87,9 @@ durante el semestre abordaremos estos contenidos:
 | [08](clases/clase-08/) | 2024-04-29 | detección de presencia humana      |
 | [09](clases/clase-09/) | 2024-05-13 | preparación solemne 02             |
 | [10](clases/clase-10/) | 2024-05-20 | solemne 02 en clase                |
-| [11](clases/clase-11/) | 2024-05-27 | MIDI y OpenSoundControl            |
-| [12](clases/clase-12/) | 2024-06-03 | documentación y manuales           |
-| [13](clases/clase-13/) | 2024-06-10 |                                    |
+| [11](clases/clase-11/) | 2024-05-27 | JSON y API de Wikipedia            |
+| [12](clases/clase-12/) | 2024-06-03 | aleatoreidad                       |
+| [13](clases/clase-13/) | 2024-06-10 | repaso de fundamentos de código    |
 | [14](clases/clase-14/) | 2024-06-17 | preparación examen                 |
 | [15](clases/clase-15/) | 2024-06-24 | examen en clase                    |
 
