@@ -9,4 +9,9 @@
   ## referencias:
 - Proyecto "Feedback & lens distort" por Elekktronaut, (Link ref. https://www.elekktronaut.com/tutorials/feedback-and-lens-distort)
   Aprendí a sacarle el provecho a estos elementos de Touchdesigner gracias al tutorial mencionado y, luego, comencé a ajustarlo a mi manera para lograr una mayor interactividad y para acercarlo más a un estilo gráfico personal.
+  
+-----------
+
+Video Demostración:
+https://github.com/augusdsnn/dis9034-2024-1/assets/128400710/d325317a-3cf7-4f7a-bb06-ad522291a17f
 
