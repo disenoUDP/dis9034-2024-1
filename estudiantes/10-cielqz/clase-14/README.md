@@ -80,10 +80,38 @@ function mouseWheel(rueda) {
   audio.setVolume(currentVolume);
 }
 ```
-### Resultados
+### Resultados pt.I
 Resultados cargados en nube online (en procesoooo)
 - [Video Versión #1](https://www.dropbox.com/scl/fi/vvmj8jr2dsgec4o06vjnc/Shakira_Barcore.mov?rlkey=ya82z4h8tyu0d5iq82l7kwvao&st=n3wz6bea&dl=0)
 - [Video Versión #2](https://www.dropbox.com/scl/fi/z9yd469fi4zw7hzdsfpfi/Grabaci-n-de-pantalla-2024-06-17-a-la-s-16.27.08.mov)
+
+***
+### Segunda Parte
+Una vez lista la base a trabajar, se añaden algunos recursos y modificaciones. Para mayor interactividad, se agrega uso de camara web en vivo dentro de ambas composiciones. Se utiliza de manera que imita la rotación de un disco LP. Para integrar un poco más la identidad de cada proyecto, se utiliza un tinte en la imagen (rosado para el cover de sailor moon y amariilo/naranja para el cover medieval). En la versión #1 del proyecto, el fondo tambiés se le incluye rotación en sentido contrario al marco al igual que ambas cámaras.
+```javascript
+  //tinte y rotación
+  push();
+  tint(232, 117, 26, 170);
+  rotateZ(frameCount * -0.006);
+  texture(cam);
+  noStroke();
+  ellipse(0, 0, 350);
+  pop();
+```
+
+#### Vista Previa #1
+<img width="825" alt="Captura de pantalla 2024-06-24 a la(s) 15 14 12" src="https://github.com/cielqz/dis9034-2024-1/assets/163901464/d8101860-9492-4c9c-8bf5-cb74b46ca6d6">
+
+#### Vista Previa #2
+<img width="819" alt="Captura de pantalla 2024-06-24 a la(s) 15 12 08" src="https://github.com/cielqz/dis9034-2024-1/assets/163901464/18559388-dac4-4faa-90e2-b3ec5989b52a">
+
+### Resultados pt.II
+Resultados cargados en nube online (en procesoooo)
+- [Video Versión #1]([https://www.dropbox.com/scl/fi/vvmj8jr2dsgec4o06vjnc/Shakira_Barcore.mov?rlkey=ya82z4h8tyu0d5iq82l7kwvao&st=n3wz6bea&dl=0](https://www.dropbox.com/scl/fi/yl2y4jkistw57a3sr94ql/Grabaci-n-de-pantalla-2024-06-24-a-la-s-15.23.08.mov?rlkey=rosm86tw49yeys5bnyzsdijju&st=a684gg8h&dl=0))
+- [Video Versión #2](https://www.dropbox.com/scl/fi/z9yd469fi4zw7hzdsfpfi/Grabaci-n-de-pantalla-2024-06-17-a-la-s-16.27.08.mov)
+
+
+
 #### comentarios
 ```javascript
 También aprendí a poner los códigos en el readme en este formato, ya que antes no sabía y cargaba capturas de pantalla. jeje
