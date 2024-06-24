@@ -122,4 +122,4 @@ Aquí están los enlaces a los 3 códigos que desarrollé:
 
 [ASCII_Imagen_Flor_2_2024_06_24_19_18_17](./ASCII_Imagen_Flor_2_2024_06_24_19_18_17)
 
-
+[ASCII_Video_Camara_2024_06_24_19_16_45](./ASCII_Video_Camara_2024_06_24_19_16_45)
