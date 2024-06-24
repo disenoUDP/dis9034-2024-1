@@ -11,6 +11,14 @@ Examen realizado en P5.js.v0.10.2
 Mi proyecto consiste en desarrollar un puzzle interactivo en bucle, con una ilustración inspirada en gatos creada por mí. La idea surgió mientras interactuaba con mi sobrina de 5 años y observé su interés por los rompecabezas. Dado que también disfruta usando el ordenador y mostrando interés en mi trabajo en él, decidí crear este rompecabezas interactivo en bucle que requiere coordinación de movimientos y el uso de las teclas del teclado. La imagen está diseñada digitalmente, con una composición inspirada en el estilo de Tsuguharu Foujita, un artista conocido por dedicar sus ilustraciones a sus gatos. 
 Instrucciones para jugar: En un principio hay un loop de 6 imágenes y al apretar la tecla de espacio el loop para y se pueden acomodar las imagenes como un puzzle. Tiene varias posibilidades de crear una imagen.
 
+Como se ve:
+<img width="599" alt="Captura de pantalla 2024-06-24 a la(s) 14 25 47" src="https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/e312f1ef-22c3-40a7-9014-9d89f7aa3c2e">
+<img width="604" alt="Captura de pantalla 2024-06-24 a la(s) 14 28 47" src="https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/ed01bd97-8683-4f50-a995-0b076a92e01c">
+<img width="601" alt="Captura de pantalla 2024-06-24 a la(s) 14 29 03" src="https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/19604bb1-bb6d-42c8-b78f-e1864d4b8584">
+<img width="601" alt="Captura de pantalla 2024-06-24 a la(s) 17 09 59" src="https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/02fc78fb-f4bf-4851-890d-91056cf858f1">
+
+
+
 Referentes
 •Mi inspiración para hacer las imágenes en loop y que vayan cambiando de posición fue Kevin Workman dónde usa ilustraciones en forma de patrón para crear distintas figuras. En el siguiente link sw puede ver su trabajo: https://editor.p5js.org/KevinWorkman/sketches/7PvZ_jOrO
 
