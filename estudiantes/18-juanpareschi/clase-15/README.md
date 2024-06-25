@@ -2,7 +2,7 @@
 
 ## Documentación del examen de Juan Pareschi
 
-### Voy a hacer una animación o visualización al ritmo de una canción.
+### Voy a hacer una animación o visualización al ritmo de una canción
 
 > En este caso usaré LEMONADE de SOPHIE, quien consideró que fue una de las artistas más importantes de la pasada década y alguien a quien admiro profundamente. La idea es que el estilo de esta mantenga nociones del pixel art / ASCII, manteniendo un poco la línea visual con mi entrega anterior.
 
@@ -26,10 +26,10 @@ Trabajo hecho en Processing 4.3
 - [Curso sobre imagenes y pixeles de Tim Rodenbröker](https://timrodenbroeker.de/courses/images/)
 - [Referencias de Processing](https://processing.org/reference/)
 
-
-### Proceso de código - Animación/pantalla principal.
+### Proceso de código - Animación/pantalla principal
 
 - Creó un fondo de 720 por 720 píxeles, y defino que se genere en un espacio 3D.
+
 ```processing
 void setup() {
   size(720, 720, P3D);
@@ -37,6 +37,7 @@ void setup() {
 
 - Para generar el efecto mosaico, vamos a generar las primeras variables que van a ayudar definiendo el número de cuadros de este en el eje X e Y.
 - También pre-cargaremos archivos y bibliotecas que forman parte de la animación, incluyendo un filtro de procesado de imagen y de audio, el cual permitirá reproducir música y analizar su amplitud.
+
 ```processing
 import processing.sound.*;
 import fip.*;
@@ -51,7 +52,8 @@ Amplitude amp;
 ```
 
 - Respecto a la imagen, haremos que esta tenga la altura de los parámetros de los píxeles.
-- Respecto al sonido, reproduzca la canción y también la ponga en loop, mientras que tome los datos de amplitud de esta durante su reproducción. 
+- Respecto al sonido, reproduzca la canción y también la ponga en loop, mientras que tome los datos de amplitud de esta durante su reproducción.
+
 ```processing
 void setup() {
   size(720, 720, P3D);
@@ -72,6 +74,7 @@ void setup() {
 
 - Partiremos definiendo los primeros aspectos de la animación, definiendo los colores de los rellenos y el fondo, mientras también definimos un texto para informar al usuario de la pantalla de créditos.
 - También haremos que el tamaño del píxel sea del tamaño del canvas dividido por el número de píxeles, y estos (que serán dibujados como rectángulos) se dibujan desde el centro.  
+
 ```processing
 void draw(){
   background(0);
@@ -113,6 +116,7 @@ void draw(){
 
 - Definimos donde se va a dibujar cada píxel, también haciendo que la posición en z de estos cambie en base a la amplitud del audio, finalmente creando la visualización.
 - Finalmente aplicaremos el filtro de glitch sobre el canvas.
+
 ```processing
       push();
       translate(x * pixelW - width/2, y * pixelH - height/2, (z * mag)+bump);
@@ -127,16 +131,17 @@ void draw(){
 
 - Resultado final del codigo.
 
-![resultadoexamen_animacion](https://github.com/juanpareschi/dis9034-2024-1/assets/163045421/b273c343-8909-46f9-beb7-2a9935838f48)
+![resultadoexamen_animacion](./resultadoexamen_animacion.gif)
 
-### Proceso de código - Pantalla de créditos.
+### Proceso de código - Pantalla de créditos
 
 - Parto haciendo un boceto de como quiero que sea la apariencia de la página y lo que quiero que se dibuje, en este caso tomaré de referencia la estética usada por la artista en sus diferentes obras, portadas y trabajos gráficos.
 
-![LEMONNN](https://github.com/juanpareschi/dis9034-2024-1/assets/163045421/1c9c4696-297f-4046-91af-d571dead32e9)
+![LEMONNN](./LEMONNN.jpg)
 
 - Definiremos que los créditos aparezcan cuando se presione algún botón del mouse, y al mismo tiempo, detenga el loop de animación que ocurre en el canvas.
 - También los colores a usarse dentro de este, y un rectángulo que es parte de este.
+
 ```processing
 void mousePressed() {
     noLoop();
@@ -146,6 +151,7 @@ void mousePressed() {
 ```
 
 - Dibujaremos los contenidos en base a lo diseñado en el boceto que hice previamente, tratando de lograr coordenadas similares.
+
 ```processing
     push();
     textFont(LYJ);
@@ -177,6 +183,7 @@ void mousePressed() {
 ```
 
 - Haremos que cuando se suelte el botón del mouse presionado, se reactive el loop de animación que se encuentra en el canvas.
+
 ```processing
 void mouseReleased() {  
     loop();
@@ -185,6 +192,4 @@ void mouseReleased() {
 
 - Resultado final de los créditos.
 
-![LEMONFINAL](https://github.com/juanpareschi/dis9034-2024-1/assets/163045421/86a8b456-c40a-44f7-8ba2-fc5a347a91c7)
-
-  
+![LEMONFINAL](./LEMONFINAL.jpg)
