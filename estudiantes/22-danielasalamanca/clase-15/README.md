@@ -13,7 +13,8 @@ el objetivo de mi proyecto es crear un código en p5.js que funcione como un jue
 1. antes de escribir el código, cree una mesa de trabajo en illustrator del mismo tamaño que utilizaría para el canvas de p5
 
 2. dibujé con vectores a mi personaje que definí que sería un oso y posteriormente dibujé distintas prendas de ropa
-<img width="1440" alt="image" src="https://github.com/danielasalamanca/dis9034-2024-1/assets/163034169/efff1aa7-31fe-4332-bd3c-0ecc8cd2804e">
+
+    ![imagen del osito 00](./imagen-00.png)
 
 3. exporté las imágenes y las renombré
 
@@ -104,7 +105,7 @@ el objetivo de mi proyecto es crear un código en p5.js que funcione como un jue
 
 7. definimos la posición en la que deberían ir cada una de las poleras para que estas calcen en el cuerpo del osito, hacemos lo mismo con los pantalones y zapatos. Para saber la posición x e y de las prendas, al igual que la altura y ancho, me guié por las medidas que trabajé en mi archivo illustrator
 
-    <img width="236" alt="image" src="https://github.com/danielasalamanca/dis9034-2024-1/assets/163034169/ccbc8683-a554-4081-8fa6-f3abe6968c46">
+    ![imagen del osito 01](./imagen-01.png)
 
     ```javascript
     // define la posición en la que deberían ir cada una de las poleras para que estas calcen en el cuerpo del osito
@@ -271,7 +272,7 @@ el objetivo de mi proyecto es crear un código en p5.js que funcione como un jue
 
 y listo!!! ya puedes vestir al osito!
 
-<img width="699" alt="image" src="https://github.com/danielasalamanca/dis9034-2024-1/assets/163034169/f77ca925-e5a2-42c6-a29e-9a44995d2424">
+![imagen del osito](./imagen-02.png)
 
 ### referentes
 
