@@ -2,41 +2,40 @@
 
 EXAMEN
 
-Link examen https://editor.p5js.org/ValeeBravo/sketches/tI2Hapzul 
+Link examen <https://editor.p5js.org/ValeeBravo/sketches/tI2Hapzul>
 
 Explicación de mi examen
 
-Examen realizado en P5.js.v0.10.2
+Examen realizado en p5.js.v0.10.2
 
-Mi proyecto consiste en desarrollar un puzzle interactivo en bucle, con una ilustración inspirada en gatos creada por mí. La idea surgió mientras interactuaba con mi sobrina de 5 años y observé su interés por los rompecabezas. Dado que también disfruta usando el ordenador y mostrando interés en mi trabajo en él, decidí crear este rompecabezas interactivo en bucle que requiere coordinación de movimientos y el uso de las teclas del teclado. La imagen está diseñada digitalmente, con una composición inspirada en el estilo de Tsuguharu Foujita, un artista conocido por dedicar sus ilustraciones a sus gatos. 
-
-
+Mi proyecto consiste en desarrollar un puzzle interactivo en bucle, con una ilustración inspirada en gatos creada por mí. La idea surgió mientras interactuaba con mi sobrina de 5 años y observé su interés por los rompecabezas. Dado que también disfruta usando el ordenador y mostrando interés en mi trabajo en él, decidí crear este rompecabezas interactivo en bucle que requiere coordinación de movimientos y el uso de las teclas del teclado. La imagen está diseñada digitalmente, con una composición inspirada en el estilo de Tsuguharu Foujita, un artista conocido por dedicar sus ilustraciones a sus gatos.
 
 Instrucciones para jugar: En un principio hay un loop de 6 imágenes y al apretar la tecla de espacio el loop para y se pueden acomodar las imagenes como un puzzle. Tiene varias posibilidades de crear una imagen.
 
-Como se ve:
-<img width="599" alt="Captura de pantalla 2024-06-24 a la(s) 14 25 47" src="https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/e312f1ef-22c3-40a7-9014-9d89f7aa3c2e">
-<img width="604" alt="Captura de pantalla 2024-06-24 a la(s) 14 28 47" src="https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/ed01bd97-8683-4f50-a995-0b076a92e01c">
-<img width="601" alt="Captura de pantalla 2024-06-24 a la(s) 14 29 03" src="https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/19604bb1-bb6d-42c8-b78f-e1864d4b8584">
-<img width="601" alt="Captura de pantalla 2024-06-24 a la(s) 17 09 59" src="https://github.com/ValeeBravo/dis9034-2024-1/assets/163045037/02fc78fb-f4bf-4851-890d-91056cf858f1">
+Cómo se ve:
 
+![imagen de documentación del puzzle 00](./imagen-00.png)
+![imagen de documentación del puzzle 01](./imagen-01.png)
+![imagen de documentación del puzzle 02](./imagen-02.png)
 
+![imagen de documentación del puzzle 03](./imagen-03.png)
 
-Referentes
-•Mi inspiración para hacer las imágenes en loop y que vayan cambiando de posición fue Kevin Workman dónde usa ilustraciones en forma de patrón para crear distintas figuras. En el siguiente link sw puede ver su trabajo: https://editor.p5js.org/KevinWorkman/sketches/7PvZ_jOrO
+## Referentes
+
+Mi inspiración para hacer las imágenes en loop y que vayan cambiando de posición fue Kevin Workman dónde usa ilustraciones en forma de patrón para crear distintas figuras. En el siguiente link sw puede ver su trabajo: <https://editor.p5js.org/KevinWorkman/sketches/7PvZ_jOrO>
 
 • Para el puzzle  
-https://p5js.org/es/reference/#/p5/push 
-https://editor.p5js.org/justin.e.stillions/sketches/Xq5kXRMhy
-
+<https://p5js.org/es/reference/#/p5/push>
+<https://editor.p5js.org/justin.e.stillions/sketches/Xq5kXRMhy>
 
 •Para usar el click y teclado  
-https://p5js.org/es/reference/#/p5/mouseClicked
+<https://p5js.org/es/reference/#/p5/mouseClicked>
 
 •Para usar el término Push
-https://p5js.org/es/reference/#/p5/push 
+<https://p5js.org/es/reference/#/p5/push>
 
-Variables para que funcione las variables a continuación. 
+Variables para que funcione las variables a continuación.
+
 ```javascript
 //variable para cargar imágenes.
 let images = [];
@@ -49,10 +48,10 @@ let offsetX = 0;
 let offsetY = 0;
 // Variable para saber si se está arrastrando una imagen
 let dragging = false; // Variable para saber si se está arrastrando una imagen
-``` 
-
+```
 
 Carga de la ilustración repartida en 6 imágenes png.
+
 ```javascript
 //Carga de 6 imágenes en png llamadas "cat-01.png", "cat-02.png", etc.  La imagen principal mide 600x400 píxeles y está cortada en 6 partes iguales. Push es una variante para que se usa para mover la imagen.
 //Referencia para images.push: https://editor.p5js.org/KevinWorkman/sketches/7PvZ_jOrO 
@@ -67,6 +66,7 @@ function preload() {
 ```
 
 Tamaño de canvas.
+
 ```javascript
 //Tamaño de canvas de 600x400 píxeles
 function setup() {
@@ -74,8 +74,10 @@ function setup() {
   //Establece el modo de imagen para que se creen desde su centro.
   imageMode(CENTER);
   ```
+
 Ordena las imagenes en el canvas y las posiciona aleatoriamente en el lienzo.
-Ordena la rápidez o velocidad en la que aparecen las imagenes en el lienzo.(frameRate (10)) 
+Ordena la rápidez o velocidad en la que aparecen las imagenes en el lienzo.(frameRate (10))
+
 ```javascript
  //Ordena cada imagen en el tamalo squareSize.
 //Asigna posiciones aleatorias (x e y) a cada imagen dentro del lienzo.
@@ -90,8 +92,10 @@ Ordena la rápidez o velocidad en la que aparecen las imagenes en el lienzo.(fra
   frameRate(10);
 }
 ```
+
 Color de fondo del canvas en 20
-Está la opción if (paused) para que se muevan la imagenes mientras el trabajo no está pausado. 
+Está la opción if (paused) para que se muevan la imagenes mientras el trabajo no está pausado.
+
 ```javascript
 function draw() {
   //Color de fondo negro.
@@ -124,8 +128,10 @@ function draw() {
   }
 }
 ```
-Función para presionar el mouse, esto permite que se pueda  mover cada imagen. 
+
+Función para presionar el mouse, esto permite que se pueda  mover cada imagen.
 Cuando se presiona el mouse en una imagen se puede mover y arrastrar por todo el lienzo.
+
 ```javascript
 //Referencia de mouse pressed: https://p5js.org/es/reference/#/p5/mousePressed. //https://www.geeksforgeeks.org/p5-js-mousepressed-function/
 function mousePressed() {
@@ -154,6 +160,7 @@ function mousePressed() {
   }
 }
 ```
+
 Esto capta el click en el lienzo para que identifique las imágenes en eje x,y y en ellado ancho y alto del canvas.
 
 ```javascript
@@ -171,8 +178,10 @@ function mouseDragged() {
       let imgX = img.x - imgWidth / 2;
       let imgY = img.y - imgHeight / 2;
 ```
+
 Let es para que cuando se apreta el click en una pantalla.
-Esto permite que el click capte las imagenes que están esparcidas en el lienzo. 
+Esto permite que el click capte las imagenes que están esparcidas en el lienzo.
+
 ```javascript
    //Se mueve la imagen en eje x y en eje y
       let imgX = img.x - imgWidth / 2;
@@ -190,8 +199,10 @@ Esto permite que el click capte las imagenes que están esparcidas en el lienzo.
   }
 }     
 ```
+
 Esta función permite que pueda soltar la imagen con el click del mouse.
-También está la función KeyPressed dónde se puede presionar la tecla espaciadora para que el loop de la imagen se pause o para que siga. 
+También está la función KeyPressed dónde se puede presionar la tecla espaciadora para que el loop de la imagen se pause o para que siga.
+
 ```javascript
 // Esta función deja arrastrar la imagen al soltar el click del mouse.
 function mouseReleased() {
@@ -206,5 +217,3 @@ function keyPressed() {
   } 
 }
 ```
-
-
