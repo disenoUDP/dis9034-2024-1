@@ -6,7 +6,7 @@
 
 ---
 
-El siguiente codigo utiliza la biblioteca p5.createloop.js encontrada en https://www.npmjs.com/package/p5.createloop?activeTab=readme el cual genera un bucle animado que produce un gift
+El siguiente codigo utiliza la biblioteca p5.createloop.js encontrada en <https://www.npmjs.com/package/p5.createloop?activeTab=readme> el cual genera un bucle animado que produce un gift
 
 En la página indica que es necesario un html para poder usarlo, así que lo copie en el index de p5 editor.
 
@@ -20,6 +20,7 @@ En la página indica que es necesario un html para poder usarlo, así que lo cop
 Para empezar definimos las constantes dentro del programa
 
 Semillas dentro del ruido:
+
 ```javascript
 // La siguiente constante define semillas aleatorias para el ruido
 const seedX = Math.random()
@@ -27,6 +28,7 @@ const seedY = Math.random()
 ```
 
 Radio de los círculos:
+
 ```javascript
 // Define los radios de los círculos generados por el ruido
 const radX = 1
@@ -34,6 +36,7 @@ const radY = 4
 ```
 
 Variable de las amplitudes de la animación:
+
 ```javascript
 // Variable para amplitudes
 let ampX
@@ -41,6 +44,7 @@ let ampY
 ```
 
 Configuración del gif:
+
 ```javascript
 // Esta constante define la configuración del gif
 const gif = {
@@ -116,4 +120,4 @@ function draw() {
 }
 ```
 
-Link del codigo: https://editor.p5js.org/Simonpso/sketches/KGohbtrTe
+Link del codigo: <https://editor.p5js.org/Simonpso/sketches/KGohbtrTe>
