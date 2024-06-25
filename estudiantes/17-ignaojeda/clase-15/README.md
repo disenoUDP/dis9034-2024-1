@@ -37,7 +37,7 @@ Web Speech API permite incorporar datos de voz en aplicaciones web.
 
 2. En esta web puedes presionar en diferentes lugares del canvas y sonara un sonido o palabra, según el lugar que oresiones este cambiara su tono o palabra / expresión.
 
-![video funcionamiento](./videoFuncionamiento.mov)
+<https://github.com/disenoUDP/dis9034-2024-1/raw/main/estudiantes/17-ignaojeda/clase-15/videoFuncionamiento.mov>
 
 ##### Líneas de código
 
